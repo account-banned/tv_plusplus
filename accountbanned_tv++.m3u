@@ -2,11 +2,9 @@
 #EXTINF:-1 group-title="Canada" tvg-id="ABC.Spark.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/abc-spark-ca.png",ABC Spark
 https://tvnow.best/api/stream/burns/burns/livetv.epg/abc.spark.ca.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="Adult.Swim.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png",Adult Swim
-https://tvnow.best/api/stream/burns/burns/livetv.epg/adult.swim.east.ca.m3u8
+http://supersonictv.live:8080/443870/997140/21818
 #EXTINF:-1 group-title="Canada" tvg-id="AMC.-.Canada.ca" tvg-logo="https://media.starlite.best/amc.canada.ca.png",AMC
 https://tvnow.best/api/stream/burns/burns/livetv.epg/amc.canada.ca.m3u8
-#EXTINF:-1 group-title="Canada" tvg-id="Animal Planet Canada HD.ca" tvg-logo="https://media.starlite.best/animal.planet.canada.ca.png",Animal Planet
-https://tvnow.best/api/stream/burns/burns/livetv.epg/animal.planet.canada.ca.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
 https://tvnow.best/api/stream/burns/burns/livetv.epg/aptn.ca.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="BBC.Earth.HD.ca" tvg-logo="https://media.starlite.best/bbc.earth.ca.png",BBC Earth
