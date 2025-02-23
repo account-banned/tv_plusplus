@@ -177,7 +177,7 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/love.nature.ca.m3u8
 https://tvnow.best/api/stream/burns/burns/livetv.epg/do.it.yourself.network.canada.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="makeful.ca" tvg-logo="https://media.starlite.best/makeful.ca.png",Makeful
 https://tvnow.best/api/stream/burns/burns/livetv.epg/makeful.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png",Movie Time 
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png",Movie Time
 https://tvnow.best/api/stream/burns/burns/livetv.epg/movietime.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="MTV.Canada.ca" tvg-logo="https://media.starlite.best/mtv.canada.ca.png",MTV
 https://tvnow.best/api/stream/burns/burns/livetv.epg/mtv.canada.ca.m3u8
