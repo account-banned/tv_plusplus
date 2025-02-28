@@ -18,10 +18,6 @@ A private curated collection of IPTV channels.
 
 This playlist is a collection of publicly available IPTV streams. Please check your local laws regarding IPTV streaming before using this playlist.
 
-## Contributing
-
-We welcome contributions to improve this playlist. If you have any suggestions or find any broken links, please open an issue or submit a pull request.
-
 ## Disclaimer
 
 We do not host any of the streams listed in this playlist. All streams are publicly available on the internet. We are not responsible for the content of the streams or any legal issues that may arise from their use.
