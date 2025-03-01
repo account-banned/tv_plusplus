@@ -16,8 +16,8 @@ http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/80855.ts
 https://starlite.best/api/stream/smart/smart/livetv.epg/bloomberg.tv.canada.ca.m3u8
 http://206.212.244.26/live/vasconeves/1742766045/40768.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Boomerang.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png",Boomerang
-https://starlite.best/api/stream/smart/smart/livetv.epg/bnn.bloomberg.ca.m3u8
 http://96.45.207.18:8881/channel/3255f3aa/index.m3u8?q=1735600584362
+https://starlite.best/api/stream/smart/smart/livetv.epg/boomerang.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png",Bravo
 https://starlite.best/api/stream/smart/smart/livetv.epg/bravo.canada.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
@@ -55,6 +55,7 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbet.windsor.on.ca.m
 https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbot.ottawa.on.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CHCH.Hamilton,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png",CHCH
 http://user.scalecdn.co:8080/live/26725074/92867131/3124.m3u8
+https://starlite.best/api/stream/smart/smart/livetv.epg/chch.hamilton.on.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CITY.Montreal,.QC.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png",CITY Montreal
 https://starlite.best/api/stream/smart/smart/livetv.epg/city.montreal.qc.ca.m3u8
 http://206.212.244.26/live/vasconeves/1742766045/40598.ts
@@ -227,10 +228,10 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/one.get.fit.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/outtv.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Oxygen.True.Crime.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crimes
 http://2022.dynu.com:2022/live/aabdell/wxInwecmlr/52780.ts
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="REV.TV.HDTV.(Canada).(REVHD).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s106713_h15_ab.png",Rev TV
+http://user.scalecdn.co:8080/live/26725074/92867131/702667.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Showcase.Canada.ca" tvg-logo="https://media.starlite.best/showcase.canada.ca.png",Showcase
 https://starlite.best/api/stream/smart/smart/livetv.epg/showcase.canada.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="REV.TV.HDTV.(Canada).(REVHD).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s106713_h15_ab.png",REV TV
-http://user.scalecdn.co:8080/live/26725074/92867131/702667.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Silver.Screen.Classics.ca" tvg-logo="https://media.starlite.best/silver.screen.classics.ca.png",Silver Screen Classic
 https://starlite.best/api/stream/smart/smart/livetv.epg/silver.screen.classics.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png",Slice
@@ -286,3 +287,242 @@ http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228788.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="YTV.(Youth.Television).-.East.ca" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png",YTV (Youth Television) East
 https://starlite.best/api/stream/smart/smart/livetv.epg/ytv.youth.television.east.ca.m3u8
 http://96.45.207.18:8881/channel/40452a09/index.m3u8?q=1735600584362
+#EXTINF:-1 group-title="United States" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (WABC) New York
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="ABC.(WPLG).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (WPLG) Miami
+http://user.scalecdn.co:8080/live/26725074/92867131/3605.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/2683.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="ABC.(WGNO).New.Orleans,.LA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (WGNO) New Orleans
+http://user.scalecdn.co:8080/live/26725074/92867131/510034.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="ABC.(WFAA).Dallas,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (WFAA) Dallas
+http://user.scalecdn.co:8080/live/26725074/92867131/2692.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="ABC.(KMGH).Denver,.CO.HD.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (KMGH) Denver
+http://user.scalecdn.co:8080/live/26725074/92867131/629110.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/2691.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="ABC.(KNXV).Phoenix,.AZ.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28708_h15_ac.png",ABC (KNXV) Phoenix
+http://user.scalecdn.co:8080/live/26725074/92867131/2677.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28708_h15_ac.png",ABC (KABC) Los Angeles
+http://208.89.99.124:5004/auto/v9.1
+#EXTINF:-1 group-title="United States" tvg-id="ABC.(KOMO).Seattle,.WA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28708_h15_ac.png",ABC (KOMO) Seattle
+http://user.scalecdn.co:8080/live/26725074/92867131/2668.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10021_h15_ab.png",AMC (US)
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png",Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Antenna.TV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70248_h15_ac.png",Antenna TV
+http://108.14.66.101:5004/auto/v11.2
+#EXTINF:-1 group-title="United States" tvg-id="BET.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10051_h15_ad.png",BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="BET.Her.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14897_h15_ac.png",BET Her
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Boomerang.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s21883_h15_ab.png",Boomerang (US)
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Bounce.TV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73067_h15_ab.png",Bounce
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+http://72.46.118.193/Bounce/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10057_h15_ab.png",Bravo (US)
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png",Cartoon Network (East)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cartoon.network.usa.eastern.us.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Cartoon.Network.USA.-.Pacific.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png",Cartoon Network (West)
+http://user.scalecdn.co:8080/live/26725074/92867131/2653.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (WCBS) New York
+http://108.14.66.101:5004/auto/v2.1
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(WFOR).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (WFOR) Miami
+http://user.scalecdn.co:8080/live/26725074/92867131/3619.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/2636.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(WWL).New.Orleans,.LA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (WWL) New Orleans
+http://user.scalecdn.co:8080/live/26725074/92867131/523304.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/2632.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="FAVE.TV.(KTVT4).Fort.Work,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s117058_h15_aa.png",CBS (KTVT) Dallas
+http://user.scalecdn.co:8080/live/26725074/92867131/2645.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(KCNC).Denver,.CO.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (KCNC) Denver
+http://user.scalecdn.co:8080/live/26725074/92867131/629109.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/2644.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(KPHO).Phoenix,.AZ.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (KPHO) Phoenix
+http://user.scalecdn.co:8080/live/26725074/92867131/2628.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28711_h15_ab.png",CBS (KIRO) Seattle
+http://user.scalecdn.co:8080/live/26725074/92867131/2621.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28711_h15_ab.png",CBS (KCBS) Los Angeles
+http://208.89.99.124:5004/auto/v6.1
+#EXTINF:-1 group-title="United States" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16365_h15_ae.png",CBS Sports
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Charge.TV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s102148_h15_ab.png",Charge
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10120_h15_ab.png",Cinemax
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10138_h15_ab.png",CMT (US)
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10149_h15_ab.png",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Comet.TV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s97051_h15_ab.png",Comet
+http://108.14.66.101:5004/auto/v2.5
+#EXTINF:-1 group-title="United States" tvg-id="Cozi.TV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s78851_h15_ab.png",Cozi TV
+http://108.14.66.101:5004/auto/v4.2
+#EXTINF:-1 group-title="United States" tvg-id="WPIX.New.York.(SUPERSTATION).us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png",CW (WPIX) New York
+http://user.scalecdn.co:8080/live/26725074/92867131/93093.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CW.(WSFL).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png",CW (WSFL) Miami
+http://user.scalecdn.co:8080/live/26725074/92867131/433867.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png",CW (KCWE) Kansas City
+http://user.scalecdn.co:8080/live/26725074/92867131/629896.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CW.(KDAF).Dallas,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png",CW (KDAF) Dallas
+http://user.scalecdn.co:8080/live/26725074/92867131/597161.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CW.(KWGN).Denver,.CO.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png",CW (KWGN) Denver
+http://user.scalecdn.co:8080/live/26725074/92867131/630653.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CW.(KVCW).Las.Vegas,.NV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png",CW (KVCW) Las Vegas
+http://user.scalecdn.co:8080/live/26725074/92867131/34441.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="SEATTLE.11.(KSTW).Tacoma,.WA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10705_h15_aa.png",CW (KSTW) Seattle
+http://user.scalecdn.co:8080/live/26725074/92867131/34428.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="KTLA.Los.Angeles,.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png",CW (KTLA) Los Angeles
+http://user.scalecdn.co:8080/live/26725074/92867131/90546.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/87547.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png",Discovery Family
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Discovery.Life.Channel.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png",Discovery Life
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="FAVE.TV.(KCBS-TV4).Los.Angeles,.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s117058_h15_aa.png",FAVE TV Los Angeles
+http://108.14.66.101:5004/auto/v2.4
+#EXTINF:-1 group-title="United States" tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",FOX (WFXT) New York
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="FOX.(WSVN).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",FOX (WSVN) Miami
+http://user.scalecdn.co:8080/live/26725074/92867131/2549.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="FOX.(WVUE).New.Orleans,.LA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28719_h15_ac.png",FOX (WVUE) New Orleans
+http://user.scalecdn.co:8080/live/26725074/92867131/2545.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="MNT.(KDFW2).Dallas,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51307_h15_aa.png",FOX (KDFW) Dallas
+http://user.scalecdn.co:8080/live/26725074/92867131/89824.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/2561.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="FOX.(KDVR).Denver,.CO.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",FOX (KDVR) Denver
+http://user.scalecdn.co:8080/live/26725074/92867131/2560.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="FOX.(KSAZ).Phoenix,.AZ.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",FOX (KSAZ) Phoenix
+http://user.scalecdn.co:8080/live/26725074/92867131/2539.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="FOX.(KCPQ).Tacoma,.WA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28719_h15_ac.png",FOX (KCPQ) Seattle
+http://user.scalecdn.co:8080/live/26725074/92867131/89885.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",FOX (KTTV) Los Angeles
+http://user.scalecdn.co:8080/live/26725074/92867131/2550.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Freeform.-.East.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10093_h15_ae.png",Freeform
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+http://212.102.60.231/FREE_FORM/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Fox.Sports.1.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png",FS1 HD
+https://a1xs.vip/40000021
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Fox.Sports.2.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s33178_h15_ab.png",FS2 HD
+https://a1xs.vip/40000022
+#EXTINF:-1 group-title="United States" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14929_h15_ac.png",Fuse
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14321_h15_aa.png",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+http://128.230.54.150:5004/auto/v32.3
+#EXTINF:-1 group-title="United States" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17927_h15_aa.png",FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="FX.Movie.Channel.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70253_h15_aa.png",FX Movies
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="FYI.USA.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58988_h15_aa.png",FYI
+http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14909_h15_ad.png",Game Show Network (US)
+http://cord-cutter.net:8080/gPe4Z1/132932/57430
+#EXTINF:-1 group-title="United States" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png",HBO (US)
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png",HBO 2 (US)
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png",HBO Comedy
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png",HBO Family
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png",HBO Zone
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14902_h15_ab.png",HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16615_h15_ad.png",Investigation Discovery
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Laff.TV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s92091_h15_aa.png",Laff TV
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Lifetime.Movies.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18480_h15_ad.png",Lifetime
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10918_h15_ac.png",Lifetime Movies Network
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="LOGO.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s46762_h15_aa.png",Logo
+http://fl3.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Motor.Trend.HD.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s31046_h15_ab.png",MotorTrend
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10986_h15_aa.png",MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="MTV.2.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16361_h15_aa.png",MTV 2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="MTV.Classic.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s22561_h15_ad.png",MTV Classic
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="MNT.(WWOR).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51307_h15_aa.png",My9 (WWOR) New York
+http://108.14.66.101:5004/auto/v9.1
+#EXTINF:-1 group-title="United States" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png" Notes="http://fl1.moveonjoy.com/NBC_EAST/index.m3u8",NBC (WNBC) New York
+http://user.scalecdn.co:8080/live/26725074/92867131/2447.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/89714.m3u8
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="NBC.(WTVJ).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",NBC (WTVJ) Miami
+http://user.scalecdn.co:8080/live/26725074/92867131/3668.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/2452.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="NBC.(WDSU).New.Orleans,.LA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",NBC (WDSU) New Orleans
+http://user.scalecdn.co:8080/live/26725074/92867131/2448.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="NBC.(KXAS).Fort.Worth,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",NBC (KXAS) Dallas
+http://user.scalecdn.co:8080/live/26725074/92867131/2461.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="NBC.(KUSA).Denver,.CO.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",NBC (KUSA) Denver
+http://user.scalecdn.co:8080/live/26725074/92867131/606993.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="NBC.(KPNX).Phoenix,.AZ.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",NBC (KPNX) Phoenix
+http://user.scalecdn.co:8080/live/26725074/92867131/2444.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="NBC.(KING).Seattle,.WA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28717_h15_ad.png",NBC (KING) Seattle
+http://user.scalecdn.co:8080/live/26725074/92867131/2437.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",NBC (KNBC) Los Angeles
+http://user.scalecdn.co:8080/live/26725074/92867131/2453.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s21484_h15_ac.png",Oxygen True Crime
+http://108.14.66.101:5004/auto/v4.4
+#EXTINF:-1 group-title="United States" tvg-id="Rewind.TV.East.(WPIX-DT4).us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s119814_h15_ab.png",Rewind TV
+http://108.14.66.101:5004/auto/v11.4
+#EXTINF:-1 group-title="United States",Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png",Showtime 2
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Starz.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png",Starz (US)
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s57569_h15_ac.png",Starz Comedy (US)
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Starz.Edge.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16311_h15_ab.png",Starz Edge (US)
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Starz.Encore.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10178_h15_ac.png",Starz Encore (US)
+http://streamsy.online:2999/live/carlosbermudez/oZLRHZHL0z/1468.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png",SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+http://212.102.60.231/SYFY/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="TBS.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11867_h15_ac.png",TBS (East)
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="TBS.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11867_h15_ac.png",TBS (West)
+http://user.scalecdn.co:8080/live/26725074/92867131/3842.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11158_h15_ad.png",TLC (East)
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11158_h15_ad.png",TLC (West)
+http://user.scalecdn.co:8080/live/26725074/92867131/48974.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png",TNT (East)
+http://fl2.moveonjoy.com/TNT/index.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png",TNT (West)
+http://user.scalecdn.co:8080/live/26725074/92867131/3844.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10153_h15_ad.png",TruTV (East)
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10153_h15_ad.png",truTV (West)
+http://user.scalecdn.co:8080/live/26725074/92867131/3846.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Turner.Classic.Movies.USA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12852_h15_ab.png",Turner Classic Movies
+http://fl1.moveonjoy.com/TCM/index.m3u8
+http://143.244.60.30/TCM/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16123_h15_aa.png",TV Land
+http://fl2.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11207_h15_af.png",USA
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11218_h15_ac.png",VH1
+http://128.230.54.150:5004/auto/v34.3
+#EXTINF:-1 group-title="United States" tvg-id="VICE.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18822_h15_ac.png",Vice
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="WE.(Women's.Entertainment).-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16409_h15_ab.png",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
