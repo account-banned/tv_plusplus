@@ -1,29 +1,20 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="ABC.Spark.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/abc-spark-ca.png",ABC Spark
 https://starlite.best/api/stream/smart/smart/livetv.epg/abc.spark.ca.m3u8
-http://96.45.207.18:8881/channel/nb9f1fb3/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Adult.Swim.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png",Adult Swim
 https://starlite.best/api/stream/smart/smart/livetv.epg/adult.swim.east.ca.m3u8
-http://supersonictv.live:8080/443870/997140/21818
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="AMC.-.Canada.ca" tvg-logo="https://media.starlite.best/amc.canada.ca.png",AMC
 https://starlite.best/api/stream/smart/smart/livetv.epg/amc.canada.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
 https://starlite.best/api/stream/smart/smart/livetv.epg/aptn.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="BBC.Earth.HD.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s53128_h15_ac.png",BBC Earth
 https://starlite.best/api/stream/smart/smart/livetv.epg/bbc.earth.ca.m3u8
-http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/80855.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="bnn.bloomberg.ca" tvg-logo="https://media.starlite.best/bnn.bloomberg.ca.png",BNN Bloomberg
 https://starlite.best/api/stream/smart/smart/livetv.epg/bloomberg.tv.canada.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40768.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Boomerang.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png",Boomerang
 http://96.45.207.18:8881/channel/3255f3aa/index.m3u8?q=1735600584362
-https://starlite.best/api/stream/smart/smart/livetv.epg/boomerang.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png",Bravo
-https://starlite.best/api/stream/smart/smart/livetv.epg/bravo.canada.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
 https://starlite.best/api/stream/smart/smart/livetv.epg/cartoon.network.canada.ca.m3u8
-http://96.45.207.18:8881/channel/n7b0af04a/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.News.Network.ca" tvg-logo="https://media.starlite.best/cbc.news.network.ca.png",CBC News
 https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.news.network.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.(CBHT).Halifax,.NS.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Halifax (CBHT)
@@ -50,16 +41,14 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbmt.montreal.qc.ca.
 https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbkt.regina.sk.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.Yellowknife.(CFYK).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Yellowknife (CFYK)
 https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cfyk.yellowknife.nwt.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBET.Windsor.(CBET).ca" tvg-logo="https://media.starlite.best/cbc.cbet.windsor.on.ca.png",CBC Windsor (CBET)
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBET.Windsor.(CBET).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Windsor (CBET)
 https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbet.windsor.on.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://media.starlite.best/cbc.cbot.ottawa.on.ca.png",CBC Ottawa (CBOT)
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Ottawa (CBOT)
 https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbot.ottawa.on.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CHCH.Hamilton,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png",CHCH
 http://user.scalecdn.co:8080/live/26725074/92867131/3124.m3u8
-https://starlite.best/api/stream/smart/smart/livetv.epg/chch.hamilton.on.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CITY.Montreal,.QC.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png",CITY Montreal
 https://starlite.best/api/stream/smart/smart/livetv.epg/city.montreal.qc.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40598.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CITY.Toronto,.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png",CITY Toronto
 https://starlite.best/api/stream/smart/smart/livetv.epg/city.toronto.on.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CITY.Vancouver,.BC.ca" tvg-logo="https://media.starlite.best/city.vancouver.bc.ca.png",CITY Vancouver
@@ -70,34 +59,26 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/cmt.canada.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/cnn.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CP24.(CablePulse.24).ca" tvg-logo="https://media.starlite.best/cp24.cablepulse.24.ca.png",CP24
 https://starlite.best/api/stream/smart/smart/livetv.epg/cp24.cablepulse.24.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40740.ts
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave1.-.East.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s25444_h9_ac.png",Crave 1
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-1-ca.png",Crave 1
 https://starlite.best/api/stream/smart/smart/livetv.epg/crave1.east.ca.m3u8
-http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave2.-.East.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12222_h15_ac.png",Crave 2
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-2-ca.png",Crave 2
 https://starlite.best/api/stream/smart/smart/livetv.epg/crave2.east.ca.m3u8
-http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave3.-.East.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12223_h15_ac.png",Crave 3
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave3.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-3-ca.png",Crave 3
 https://starlite.best/api/stream/smart/smart/livetv.epg/crave3.east.ca.m3u8
-http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave4.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/crave4.png",Crave 4
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-4-ca.png",Crave 4
 https://starlite.best/api/stream/smart/smart/livetv.epg/crave4.east.ca.m3u8
-http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Crime.+.Investigation.Canada.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s99456_h15_aa.png",Crime + Investigation
 http://user.scalecdn.co:8080/live/26725074/92867131/92718.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228606.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.News.Channel.ca" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png",CTV News
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.news.channel.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Comedy.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-comedy-channel-ca.png",CTV Comedy
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.comedy.east.ca.m3u8
-https://starlite.best/api/stream/smart/smart/livetv.epg/comedy.network.east.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="ctv.drama.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-drama-channel-ca.png",CTV Drama
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.drama.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Life.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-life-channel-ca.png",CTV Life
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.life.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png",CTV Nature
 https://starlite.best/api/stream/smart/smart/livetv.epg/discovery.science.canada.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40726.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png",CTV Wild
 http://sapphireapp.xyz:8080/live/W0V9brr5JW/2656286300/40775.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Sci-Fi.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-sci-fi-channel-ca.png",CTV Sci Fi
@@ -120,69 +101,54 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.vancouver.bc.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.atlantic.region.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 Toronto
 http://user.scalecdn.co:8080/live/26725074/92867131/93008.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV2 Barrie, ON (CKVR).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 Barrie (CKVR)
-https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.barrie.on.ckvr.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Two.London/CFPL.(CTV2L).ca" tvg-logo="https://media.starlite.best/ctv2.london.on.ca.png",CTV2 London
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Two.London/CFPL.(CTV2L).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 London
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.london.on.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://media.starlite.best/ctv2.ottawa.on.ca.png",CTV2 Ottawa
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 Ottawa
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.ottawa.on.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV2 Windsor, ON.ca" tvg-logo="https://media.starlite.best/ctv2.windsor.on.ca.png",CTV2 Windsor
-https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.windsor.on.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV2.Vancouver.Island..BC.ca" tvg-logo="https://media.starlite.best/ctv2.vancouver.island.bc.ca.png",CTV2 Vancouver Island
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV2.Vancouver.Island..BC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 Vancouver Island
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.vancouver.island.bc.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="deja.view.ca" tvg-logo="https://media.starlite.best/deja.view.ca.png",Deja View
 https://starlite.best/api/stream/smart/smart/livetv.epg/deja.view.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png",Disney Channel
 https://starlite.best/api/stream/smart/smart/livetv.epg/disney.channel.canada.east.ca.m3u8
-http://68.233.120.207:9981/stream/channelid/254927833?profile=pass
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://media.starlite.best/disney.junior.canada.ca.png",Disney Jr.
 https://starlite.best/api/stream/smart/smart/livetv.epg/disney.junior.canada.ca.m3u8
-http://96.45.207.18:8881/channel/n3032cc1d/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.XD.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-xd-ca.png",Disney XD
 https://starlite.best/api/stream/smart/smart/livetv.epg/disney.xd.canada.ca.m3u8
-http://96.45.207.18:8881/channel/na3e18fa/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Documentary.Channel.(Canada).ca" tvg-logo="https://media.starlite.best/documentary.channel.canada.ca.png",Documentary
 https://starlite.best/api/stream/smart/smart/livetv.epg/documentary.channel.canada.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40721.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="dtour.ca" tvg-logo="https://media.starlite.best/dtour.ca.png",DTOUR
 https://starlite.best/api/stream/smart/smart/livetv.epg/dtour.ca.m3u8
-https://tvnow.best/api/stream/smart/smart/livetv.epg/dtour.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="E!.Canada.ca" tvg-logo="https://media.starlite.best/e.canada.ca.png",E!
 https://starlite.best/api/stream/smart/smart/livetv.epg/e.canada.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228635.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png",Family Channel
 http://96.45.207.18:8881/channel/110dd756/index.m3u8?q=1735600584362
-https://starlite.best/api/stream/smart/smart/livetv.epg/family.channel.east.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Family.Jr..ca" tvg-logo="https://media.starlite.best/family.jr.ca.png",Family Jr
 https://starlite.best/api/stream/smart/smart/livetv.epg/family.jr.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40713.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Flavour.Network.Canada.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73467_h15_ae.png",Flavour Network
 https://starlite.best/api/stream/smart/smart/livetv.epg/food.network.canada.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40710.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="FX.Networks.Canada.ca" tvg-logo="https://media.starlite.best/fx.networks.ca.png",FX Canada
 https://starlite.best/api/stream/smart/smart/livetv.epg/fx.networks.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Game.Show.Network.-.East.ca" tvg-logo="https://media.starlite.best/game.show.network.east.ca.png",Game Show Network
 https://starlite.best/api/stream/smart/smart/livetv.epg/game.show.network.east.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.(CICT).Calgary,.AB.ca" tvg-logo="https://media.starlite.best/global.cict.calgary.ab.ca.png",Global Calgary (CICT)
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.(CICT).Calgary,.AB.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png",Global Calgary (CICT)
 https://starlite.best/api/stream/smart/smart/livetv.epg/global.cict.calgary.ab.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://media.starlite.best/global.ciii.dt.41.toronto.ca.png",Global Toronto (CIII)
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png",Global Toronto (CIII)
 https://starlite.best/api/stream/smart/smart/livetv.epg/global.ciii.dt.41.toronto.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="global.bc.ca" tvg-logo="https://media.starlite.best/global.bc.ca.png",Global BC (CHBC)
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="global.bc.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png",Global BC (CHBC)
 https://starlite.best/api/stream/smart/smart/livetv.epg/global.bc.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.Edmonton.(CITV).ca" tvg-logo="https://media.starlite.best/global.citv.edmonton.ab.ca.png",Global Edmonton (CITV)
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.Edmonton.(CITV).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png",Global Edmonton (CITV)
 https://starlite.best/api/stream/smart/smart/livetv.epg/global.citv.edmonton.ab.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.Montreal.(CKMI).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17406_h15_ac.png",Global Montreal (CKMI)
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.Montreal.(CKMI).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png",Global Montreal (CKMI)
 https://starlite.best/api/stream/smart/smart/livetv.epg/global.montreal.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="HBO1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png",HBO
 https://starlite.best/api/stream/smart/smart/livetv.epg/hbo.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="HBO.2.HD.(HBO2).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2
 https://starlite.best/api/stream/smart/smart/livetv.epg/hbo.2.eastern.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png",History
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/history-channel-2-ca.png",History
 https://starlite.best/api/stream/smart/smart/livetv.epg/history.canada.east.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40693.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="History.2.Canada.ca" tvg-logo="https://media.starlite.best/history.2.canada.ca.png",History 2
 https://starlite.best/api/stream/smart/smart/livetv.epg/history.2.canada.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40698.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="hollywood.suite.00s.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73578_h15_aa.png",Hollywood Suite 00s
 http://user.scalecdn.co:8080/live/26725074/92867131/59882.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="hollywood.suite.70s.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73572_h15_aa.png",Hollywood Suite 70s
@@ -205,24 +171,18 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/do.it.yourself.network.c
 https://starlite.best/api/stream/smart/smart/livetv.epg/makeful.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png",Movie Time 
 https://starlite.best/api/stream/smart/smart/livetv.epg/movietime.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228710.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png",Much
 https://starlite.best/api/stream/smart/smart/livetv.epg/much.music.ca.m3u8
-http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/80919.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png",National Geographic
 https://starlite.best/api/stream/smart/smart/livetv.epg/national.geographic.canada.ca.m3u8
-http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://i.ibb.co/N28fsF0z/National-Geographic-Wild-logo-svg.png",National Geographic Wild
 http://user.scalecdn.co:8080/live/26725074/92867131/92712.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Nickelodeon.Canada.ca" tvg-logo="https://media.starlite.best/nickelodeon.canada.ca.png",Nickelodeon
 https://starlite.best/api/stream/smart/smart/livetv.epg/nickelodeon.canada.ca.m3u8
-http://96.45.207.18:8881/channel/n2fe6fead/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="OMNI.1.Television.ca" tvg-logo="https://media.starlite.best/omni.1.ca.png",OMNI
 https://starlite.best/api/stream/smart/smart/livetv.epg/omni.1.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40641.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="OMNI.2.ca" tvg-logo="https://media.starlite.best/omni.2.ca.png",OMNI 2
 https://starlite.best/api/stream/smart/smart/livetv.epg/omni.2.ca.m3u8
-https://tvnow.best/api/stream/smart/smart/livetv.epg/omni.2.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="ONE.TV.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s26777_h15_ac.png",One TV
 https://starlite.best/api/stream/smart/smart/livetv.epg/one.get.fit.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="outtv.ca" tvg-logo="https://media.starlite.best/outtv.ca.png",OUTtv
@@ -231,61 +191,53 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/outtv.ca.m3u8
 http://2022.dynu.com:2022/live/aabdell/wxInwecmlr/52780.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="REV.TV.HDTV.(Canada).(REVHD).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s106713_h15_ab.png",Rev TV
 http://user.scalecdn.co:8080/live/26725074/92867131/702667.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Showcase.Canada.ca" tvg-logo="https://media.starlite.best/showcase.canada.ca.png",Showcase
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Showcase.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/showcase-ca.png",Showcase
 https://starlite.best/api/stream/smart/smart/livetv.epg/showcase.canada.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Silver.Screen.Classics.ca" tvg-logo="https://media.starlite.best/silver.screen.classics.ca.png",Silver Screen Classic
 https://starlite.best/api/stream/smart/smart/livetv.epg/silver.screen.classics.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png",Slice
 https://starlite.best/api/stream/smart/smart/livetv.epg/slice.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40624.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="STARZ1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-1-ca.png",STARZ
 https://starlite.best/api/stream/smart/smart/livetv.epg/starz1.east.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="STARZ2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-2-ca.png",STARZ 2
 https://starlite.best/api/stream/smart/smart/livetv.epg/starz2.east.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="super.channel.fuse.ca" tvg-logo="https://media.starlite.best/super.channel.fuse.ca.png",Super Channel Fuse
 https://starlite.best/api/stream/smart/smart/livetv.epg/super.channel.fuse.ca.m3u8
-https://tvnow.best/api/stream/smart/smart/livetv.epg/super.channel.fuse.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Super.Channel.Heart.and.Home.ca" tvg-logo="https://media.starlite.best/super.channel.heart.home.ca.png",Super Channel Heart & Home
 https://starlite.best/api/stream/smart/smart/livetv.epg/super.channel.heart.home.ca.m3u8
-https://tvnow.best/api/stream/smart/smart/livetv.epg/super.channel.heart.home.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="super.channel.vault.ca" tvg-logo="https://media.starlite.best/super.channel.vault.ca.png",Super Channel Vault
 https://starlite.best/api/stream/smart/smart/livetv.epg/super.channel.vault.ca.m3u8
-https://tvnow.best/api/stream/smart/smart/livetv.epg/super.channel.vault.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="TLC.Canada.ca" tvg-logo="https://media.starlite.best/tlc.canada.ca.png",TLC
 https://starlite.best/api/stream/smart/smart/livetv.epg/tlc.canada.ca.m3u8
-https://tvnow.best/api/stream/smart/smart/livetv.epg/tlc.canada.ca.m3u8
+#EXTINF:-1 ,nan
+#EXTINF:-1 ,nan
+#EXTINF:-1 ,nan
+#EXTINF:-1 ,nan
+#EXTINF:-1 ,nan
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png",Treehouse
 https://starlite.best/api/stream/smart/smart/livetv.epg/treehouse.ca.m3u8
-https://tvnow.best/api/stream/smart/smart/livetv.epg/treehouse.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="USA.Network.(CAN).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15098_h15_ac.png",USA Network
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="USA.Network.(CAN).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15098_h15_ac.png",USA Network (CA)
 https://starlite.best/api/stream/smart/smart/livetv.epg/discovery.channel.can.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Vision.TV.Eastern.ca" tvg-logo="https://media.starlite.best/vision.tv.ca.png",Vision TV
 https://starlite.best/api/stream/smart/smart/livetv.epg/vision.tv.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="W.(WTN).-.East.ca" tvg-logo="https://media.starlite.best/w.wtn.east.ca.png",W Network
 https://starlite.best/api/stream/smart/smart/livetv.epg/w.wtn.east.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40670.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="wild.tv.ca" tvg-logo="https://media.starlite.best/wild.tv.ca.png",Wild TV
 https://starlite.best/api/stream/smart/smart/livetv.epg/wild.tv.ca.m3u8
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/9332.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Yes.TV.(CITS).Burlington,.ON.ca" tvg-logo="https://media.starlite.best/yes.tv.ckcs.calgary.ab.ca.png",Yes TV
 https://starlite.best/api/stream/smart/smart/livetv.epg/yes.tv.ckcs.calgary.ab.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228788.ts
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="YTV.(Youth.Television).-.East.ca" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png",YTV (Youth Television) East
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="YTV.(Youth.Television).-.East.ca" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png",YTV
 https://starlite.best/api/stream/smart/smart/livetv.epg/ytv.youth.television.east.ca.m3u8
-http://96.45.207.18:8881/channel/40452a09/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="United States" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (WABC) New York
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="ABC.(WPLG).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (WPLG) Miami
 http://user.scalecdn.co:8080/live/26725074/92867131/3605.m3u8
-http://user.scalecdn.co:8080/live/26725074/92867131/2683.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="ABC.(WGNO).New.Orleans,.LA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (WGNO) New Orleans
 http://user.scalecdn.co:8080/live/26725074/92867131/510034.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="ABC.(WFAA).Dallas,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (WFAA) Dallas
 http://user.scalecdn.co:8080/live/26725074/92867131/2692.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="ABC.(KMGH).Denver,.CO.HD.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (KMGH) Denver
 http://user.scalecdn.co:8080/live/26725074/92867131/629110.m3u8
-http://user.scalecdn.co:8080/live/26725074/92867131/2691.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="ABC.(KNXV).Phoenix,.AZ.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28708_h15_ac.png",ABC (KNXV) Phoenix
 http://user.scalecdn.co:8080/live/26725074/92867131/2677.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28708_h15_ac.png",ABC (KABC) Los Angeles
@@ -306,31 +258,27 @@ http://fl2.moveonjoy.com/BET_HER/index.m3u8
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Bounce.TV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73067_h15_ab.png",Bounce
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-http://72.46.118.193/Bounce/index.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10057_h15_ab.png",Bravo (US)
+#EXTINF:-1 group-title="United States" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17610_h15_af.png",Bravo (US)
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png",Cartoon Network (East)
 https://starlite.best/api/stream/smart/smart/livetv.epg/cartoon.network.usa.eastern.us.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Cartoon.Network.USA.-.Pacific.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png",Cartoon Network (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/2653.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (WCBS) New York
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28711_h15_ab.png",CBS (WCBS) New York
 http://108.14.66.101:5004/auto/v2.1
-#EXTINF:-1 group-title="United States" tvg-id="CBS.(WFOR).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (WFOR) Miami
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(WFOR).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28711_h15_ab.png",CBS (WFOR) Miami
 http://user.scalecdn.co:8080/live/26725074/92867131/3619.m3u8
-http://user.scalecdn.co:8080/live/26725074/92867131/2636.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="CBS.(WWL).New.Orleans,.LA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (WWL) New Orleans
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(WWL).New.Orleans,.LA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28711_h15_ab.png",CBS (WWL) New Orleans
 http://user.scalecdn.co:8080/live/26725074/92867131/523304.m3u8
-http://user.scalecdn.co:8080/live/26725074/92867131/2632.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="FAVE.TV.(KTVT4).Fort.Work,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (KTVT) Dallas
+#EXTINF:-1 group-title="United States" tvg-id="FAVE.TV.(KTVT4).Fort.Work,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28711_h15_ab.png",CBS (KTVT) Dallas
 http://user.scalecdn.co:8080/live/26725074/92867131/2645.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="CBS.(KCNC).Denver,.CO.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (KCNC) Denver
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(KCNC).Denver,.CO.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28711_h15_ab.png",CBS (KCNC) Denver
 http://user.scalecdn.co:8080/live/26725074/92867131/629109.m3u8
-http://user.scalecdn.co:8080/live/26725074/92867131/2644.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="CBS.(KPHO).Phoenix,.AZ.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (KPHO) Phoenix
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(KPHO).Phoenix,.AZ.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28711_h15_ab.png",CBS (KPHO) Phoenix
 http://user.scalecdn.co:8080/live/26725074/92867131/2628.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (KIRO) Seattle
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28711_h15_ab.png",CBS (KIRO) Seattle
 http://user.scalecdn.co:8080/live/26725074/92867131/2621.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",CBS (KCBS) Los Angeles
+#EXTINF:-1 group-title="United States" tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28711_h15_ab.png",CBS (KCBS) Los Angeles
 http://208.89.99.124:5004/auto/v6.1
 #EXTINF:-1 group-title="United States" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16365_h15_ae.png",CBS Sports
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -358,12 +306,11 @@ http://user.scalecdn.co:8080/live/26725074/92867131/597161.m3u8
 http://user.scalecdn.co:8080/live/26725074/92867131/630653.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="CW.(KVCW).Las.Vegas,.NV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png",CW (KVCW) Las Vegas
 http://user.scalecdn.co:8080/live/26725074/92867131/34441.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="SEATTLE.11.(KSTW).Tacoma,.WA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10705_h15_aa.png",CW (KSTW) Seattle
+#EXTINF:-1 group-title="United States" tvg-id="SEATTLE.11.(KSTW).Tacoma,.WA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png",CW (KSTW) Seattle
 http://user.scalecdn.co:8080/live/26725074/92867131/34428.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="KTLA.Los.Angeles,.CA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png",CW (KTLA) Los Angeles
 http://user.scalecdn.co:8080/live/26725074/92867131/90546.m3u8
-http://user.scalecdn.co:8080/live/26725074/92867131/87547.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png",Discovery Channel
+#EXTINF:-1 group-title="United States" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-icon-us.png",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png",Discovery Family
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
@@ -373,14 +320,12 @@ http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 http://108.14.66.101:5004/auto/v2.4
 #EXTINF:-1 group-title="United States" tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",FOX (WFXT) New York
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="FOX.(WSVN).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",FOX (WSVN) Miami
 http://user.scalecdn.co:8080/live/26725074/92867131/2549.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="FOX.(WVUE).New.Orleans,.LA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28719_h15_ac.png",FOX (WVUE) New Orleans
 http://user.scalecdn.co:8080/live/26725074/92867131/2545.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="MNT.(KDFW2).Dallas,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51307_h15_aa.png",FOX (KDFW) Dallas
+#EXTINF:-1 group-title="United States" tvg-id="FOX.(KDFW).Dallas,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",FOX (KDFW) Dallas
 http://user.scalecdn.co:8080/live/26725074/92867131/89824.m3u8
-http://user.scalecdn.co:8080/live/26725074/92867131/2561.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="FOX.(KDVR).Denver,.CO.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",FOX (KDVR) Denver
 http://user.scalecdn.co:8080/live/26725074/92867131/2560.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="FOX.(KSAZ).Phoenix,.AZ.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",FOX (KSAZ) Phoenix
@@ -391,17 +336,12 @@ http://user.scalecdn.co:8080/live/26725074/92867131/89885.m3u8
 http://user.scalecdn.co:8080/live/26725074/92867131/2550.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Freeform.-.East.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10093_h15_ae.png",Freeform
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-http://212.102.60.231/FREE_FORM/index.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Fox.Sports.1.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png",FS1 HD
-https://a1xs.vip/40000021
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Fox.Sports.2.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s33178_h15_ab.png",FS2 HD
-https://a1xs.vip/40000022
+#EXTINF:-1 ,nan
+#EXTINF:-1 ,nan
 #EXTINF:-1 group-title="United States" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14929_h15_ac.png",Fuse
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14321_h15_aa.png",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
-http://128.230.54.150:5004/auto/v32.3
 #EXTINF:-1 group-title="United States" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17927_h15_aa.png",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="FX.Movie.Channel.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70253_h15_aa.png",FX Movies
@@ -432,24 +372,20 @@ http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="LOGO.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s46762_h15_aa.png",Logo
 http://fl3.moveonjoy.com/Logo/index.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Motor.Trend.HD.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s31046_h15_ab.png",MotorTrend
+#EXTINF:-1 group-title="United States" tvg-id="Motor.Trend.HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/motor-trend-us.png",MotorTrend
 http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10986_h15_aa.png",MTV
+#EXTINF:-1 group-title="United States" tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png",MTV
 https://fl2.moveonjoy.com/MTV/index.m3u8
-http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="MTV.2.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16361_h15_aa.png",MTV 2
+#EXTINF:-1 group-title="United States" tvg-id="MTV.2.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-2-us.png",MTV 2
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="MTV.Classic.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s22561_h15_ad.png",MTV Classic
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="MNT.(WWOR).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51307_h15_aa.png",My9 (WWOR) New York
 http://108.14.66.101:5004/auto/v9.1
-#EXTINF:-1 group-title="United States" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png" Notes="http://fl1.moveonjoy.com/NBC_EAST/index.m3u8",NBC (WNBC) New York
+#EXTINF:-1 group-title="United States" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",NBC (WNBC) New York
 http://user.scalecdn.co:8080/live/26725074/92867131/2447.m3u8
-http://user.scalecdn.co:8080/live/26725074/92867131/89714.m3u8
-http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="NBC.(WTVJ).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",NBC (WTVJ) Miami
 http://user.scalecdn.co:8080/live/26725074/92867131/3668.m3u8
-http://user.scalecdn.co:8080/live/26725074/92867131/2452.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="NBC.(WDSU).New.Orleans,.LA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",NBC (WDSU) New Orleans
 http://user.scalecdn.co:8080/live/26725074/92867131/2448.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="NBC.(KXAS).Fort.Worth,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",NBC (KXAS) Dallas
@@ -466,7 +402,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/2453.m3u8
 http://108.14.66.101:5004/auto/v4.4
 #EXTINF:-1 group-title="United States" tvg-id="Rewind.TV.East.(WPIX-DT4).us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s119814_h15_ab.png",Rewind TV
 http://108.14.66.101:5004/auto/v11.4
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png",Showtime
+#EXTINF:-1 group-title="United States" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png",Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png",Showtime 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
@@ -480,7 +416,6 @@ http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
 http://streamsy.online:2999/live/carlosbermudez/oZLRHZHL0z/1468.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png",SYFY
 http://fl2.moveonjoy.com/SYFY/index.m3u8
-http://212.102.60.231/SYFY/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="TBS.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11867_h15_ac.png",TBS (East)
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="TBS.-.East.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11867_h15_ac.png",TBS (West)
@@ -491,20 +426,17 @@ http://fl2.moveonjoy.com/TLC/index.m3u8
 http://user.scalecdn.co:8080/live/26725074/92867131/48974.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png",TNT (East)
 http://fl2.moveonjoy.com/TNT/index.m3u8
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png",TNT (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/3844.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10153_h15_ad.png",TruTV (East)
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10153_h15_ad.png",truTV (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/3846.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Turner.Classic.Movies.USA.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12852_h15_ab.png",Turner Classic Movies
 http://fl1.moveonjoy.com/TCM/index.m3u8
-http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16123_h15_aa.png",TV Land
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11207_h15_af.png",USA
+#EXTINF:-1 group-title="United States" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11207_h15_af.png",USA Network (US)
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11218_h15_ac.png",VH1
 http://128.230.54.150:5004/auto/v34.3
@@ -512,177 +444,143 @@ http://128.230.54.150:5004/auto/v34.3
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="WE.(Women's.Entertainment).-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16409_h15_ab.png",WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png",TSN 1
+http://user.scalecdn.co:8080/live/26725074/92867131/3146.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",TSN 2
+http://user.scalecdn.co:8080/live/26725074/92867131/3145.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",TSN 3
+http://user.scalecdn.co:8080/live/26725074/92867131/3144.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",TSN 4
+http://user.scalecdn.co:8080/live/26725074/92867131/3143.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN 5
+http://user.scalecdn.co:8080/live/26725074/92867131/3142.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="Fox.Sports.1.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png",FS1
+https://a1xs.vip/40000021
+#EXTINF:-1 group-title="United States" tvg-id="Fox.Sports.2.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s33178_h15_ab.png",FS2
+https://a1xs.vip/40000022
+#EXTINF:-1 group-title="Sports" tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png",Sportsnet 360
+http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228742.ts
+#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png",Sportsnet East
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
+#EXTINF:-1 group-title="Sports" tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png",Sportsnet One
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
+#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://media.starlite.best/sportsnet.ontario.ca.png",Sportsnet Ontario
+http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228746.ts
+#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png",Sportsnet Pacific
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
+#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png",Sportsnet West
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
+#EXTINF:-1 group-title="Sports" tvg-id="sportsnet.world.ca" tvg-logo="https://media.starlite.best/sportsnet.world.ca.png",Sportsnet World
+http://user.scalecdn.co:8080/live/26725074/92867131/88060.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png",ESPN
 http://user.scalecdn.co:8080/live/26725074/92867131/3636.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN2.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png",ESPN 2
 http://user.scalecdn.co:8080/live/26725074/92867131/3637.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="fight.network.canada.ca" tvg-logo="https://media.starlite.best/fight.network.canada.ca.png",Fight Network
-https://starlite.best/api/stream/smart/smart/livetv.epg/fight.network.canada.ca.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="mlb.network.us" tvg-logo="https://media.starlite.best/mlb.network.us.png",MLB Network
-http://user.scalecdn.co:8080/live/26725074/92867131/3661.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="msg.2.us" tvg-logo="https://media.starlite.best/msg.2.us.png",MSG 2
-https://starlite.best/api/stream/smart/smart/livetv.epg/msg.2.us.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="msg.plus.us" tvg-logo="https://media.starlite.best/msg.plus.us.png",MSG Plus
-https://starlite.best/api/stream/smart/smart/livetv.epg/msg.plus.us.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="msg.us" tvg-logo="https://media.starlite.best/msg.us.png",MSG US
-https://starlite.best/api/stream/smart/smart/livetv.epg/msg.us.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.Canada.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s27201_h15_ab.png",NBA TV (CA)
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228720.ts
-#EXTINF:-1 group-title="Sports" tvg-id="nba.tv.usa.us" tvg-logo="https://media.starlite.best/nba.tv.usa.us.png",NBA TV (US)
-https://starlite.best/api/stream/smart/smart/livetv.epg/nba.tv.usa.us.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="nfl.network.alt.canadian.ca" tvg-logo="https://media.starlite.best/nfl.network.alt.canadian.ca.png",NFL Network (CA)
-https://starlite.best/api/stream/smart/smart/livetv.epg/nfl.network.alt.canadian.ca.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="nfl.network.us" tvg-logo="https://media.starlite.best/nfl.network.us.png",NFL Network (US)
-https://starlite.best/api/stream/smart/smart/livetv.epg/nfl.network.us.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NHL-MontrealCanadiens.us" tvg-logo="https://media.starlite.best/nfl.network.us.png",NHL Montreal Canadiens
 http://user.scalecdn.co:8080/live/26725074/92867131/509728.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="nhlnetwork.us" tvg-logo="https://png.pngitem.com/pimgs/s/365-3656093_nhl-network-logo-hd-png-download.png",NHL Network (US)
+#EXTINF:-1 group-title="Sports" tvg-id="nhlnetwork.us" tvg-logo="https://png.pngitem.com/pimgs/s/365-3656093_nhl-network-logo-hd-png-download.png",NHL Network (US)
 http://user.scalecdn.co:8080/live/26725074/92867131/3672.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NHL-TorontoMapleLeafs.us" tvg-logo="https://media.starlite.best/nfl.network.us.png",NHL Toronto Maple Leafs
 http://user.scalecdn.co:8080/live/26725074/92867131/509731.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.Canada.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s27201_h15_ab.png",NBA TV (CA)
+http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228720.ts
+#EXTINF:-1 group-title="Sports" tvg-id="nba.tv.usa.us" tvg-logo="https://media.starlite.best/nba.tv.usa.us.png",NBA TV (CA)
+https://starlite.best/api/stream/smart/smart/livetv.epg/nba.tv.usa.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="nfl.network.alt.canadian.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/leagues/nfl-us.png",NFL Network (CA)
+https://starlite.best/api/stream/smart/smart/livetv.epg/nfl.network.alt.canadian.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="nfl.network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/leagues/nfl-us.png",NFL Network (US)
+https://starlite.best/api/stream/smart/smart/livetv.epg/nfl.network.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="mlb.network.us" tvg-logo="https://media.starlite.best/mlb.network.us.png",MLB Network
+http://user.scalecdn.co:8080/live/26725074/92867131/3661.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="msg.us" tvg-logo="https://media.starlite.best/msg.us.png",MSG
+https://starlite.best/api/stream/smart/smart/livetv.epg/msg.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="msg.plus.us" tvg-logo="https://media.starlite.best/msg.plus.us.png",MSG Plus
+https://starlite.best/api/stream/smart/smart/livetv.epg/msg.plus.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="msg.2.us" tvg-logo="https://media.starlite.best/msg.2.us.png",MSG 2
+https://starlite.best/api/stream/smart/smart/livetv.epg/msg.2.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="fight.network.canada.ca" tvg-logo="https://media.starlite.best/fight.network.canada.ca.png",Fight Network
+https://starlite.best/api/stream/smart/smart/livetv.epg/fight.network.canada.ca.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="rds.rseau.des.sports.ca" tvg-logo="https://media.starlite.best/rds.rseau.des.sports.ca.png",RDS
 https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.rseau.des.sports.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40629.ts
 #EXTINF:-1 group-title="Sports" tvg-id="rds.2.ca" tvg-logo="https://media.starlite.best/rds.2.ca.png",RDS 2
 https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.2.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40628.ts
 #EXTINF:-1 group-title="Sports" tvg-id="rds.info.ca" tvg-logo="https://media.starlite.best/rds.info.ca.png",RDS Info
 https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.info.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40627.ts
-#EXTINF:-1 group-title="Sports" tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png",Sportsnet 360
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228742.ts
-https://tvnow.best/api/stream/smart/smart/livetv.epg/sportsnet.360.ca.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png",Sportsnet East
-http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
-https://tvnow.best/api/stream/smart/smart/livetv.epg/sportsnet.east.ca.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png",Sportsnet One
-http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
-https://tvnow.best/api/stream/smart/smart/livetv.epg/sportsnet.one.ca.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://media.starlite.best/sportsnet.ontario.ca.png",Sportsnet Ontario
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228746.ts
-https://tvnow.best/api/stream/smart/smart/livetv.epg/sportsnet.ontario.ca.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png",Sportsnet Pacific
-http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
-https://tvnow.best/api/stream/smart/smart/livetv.epg/sportsnet.pacific.ca.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png",Sportsnet West
-http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
-https://tvnow.best/api/stream/smart/smart/livetv.epg/sportsnet.west.ca.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="sportsnet.world.ca" tvg-logo="https://media.starlite.best/sportsnet.world.ca.png",Sportsnet World
-http://user.scalecdn.co:8080/live/26725074/92867131/88060.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png",TSN 1
-http://user.scalecdn.co:8080/live/26725074/92867131/3146.m3u8
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",TSN 2
-http://user.scalecdn.co:8080/live/26725074/92867131/3145.m3u8
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228770.ts
-#EXTINF:-1 group-title="Sports" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",TSN 3
-http://user.scalecdn.co:8080/live/26725074/92867131/3144.m3u8
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228771.ts
-#EXTINF:-1 group-title="Sports" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",TSN 4
-http://user.scalecdn.co:8080/live/26725074/92867131/3143.m3u8
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228772.ts
-#EXTINF:-1 group-title="Sports" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN 5
-http://user.scalecdn.co:8080/live/26725074/92867131/3142.m3u8
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228773.ts
-#EXTINF:-1 group-title="Sports" tvg-id="tva.sports.ca" tvg-logo="https://media.starlite.best/tva.sports.ca.png",TVA Sport
+#EXTINF:-1 group-title="Sports" tvg-id="tva.sports.ca" tvg-logo="https://media.starlite.best/tva.sports.ca.png",TVA Sports
 https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.sports.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228777.ts
-#EXTINF:-1 group-title="Sports" tvg-id="tva.sports.2.ca" tvg-logo="https://media.starlite.best/tva.sports.2.ca.png",TVA Sport 2
+#EXTINF:-1 group-title="Sports" tvg-id="tva.sports.2.ca" tvg-logo="https://media.starlite.best/tva.sports.2.ca.png",TVA Sports 2
 https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.sports.2.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228778.ts
 #EXTINF:-1 group-title="Sports" tvg-id="ufcnetwork.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ufc-us.png",UFC Channel
 http://user.scalecdn.co:8080/live/26725074/92867131/61769.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="addik.tv.ca" tvg-logo="https://media.starlite.best/addik.tv.ca.png",ADDIK
 https://tvnow.best/api/stream/smart/smart/livetv.epg/addik.tv.ca.m3u8
-http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/132060.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="ami.tl.ca" tvg-logo="https://media.starlite.best/ami.tl.ca.png",AMI-tele
 https://tvnow.best/api/stream/smart/smart/livetv.epg/ami.tl.ca.m3u8
-http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/132061.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="canal.d.ca" tvg-logo="https://media.starlite.best/canal.d.ca.png",Canal D
 https://tvnow.best/api/stream/smart/smart/livetv.epg/canal.d.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="savoir.mdia.ca" tvg-logo="https://media.starlite.best/savoir.mdia.ca.png",Canal Savior
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="savoir.mdia.ca" tvg-logo="https://media.starlite.best/savoir.mdia.ca.png",Canal Savoir
 https://tvnow.best/api/stream/smart/smart/livetv.epg/savoir.mdia.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228568.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="casa.ca" tvg-logo="https://media.starlite.best/casa.ca.png",CASA
 https://tvnow.best/api/stream/smart/smart/livetv.epg/casa.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228571.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="cinpop.ca" tvg-logo="https://media.starlite.best/cinpop.ca.png",Cinépop
 https://tvnow.best/api/stream/smart/smart/livetv.epg/cinpop.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="cpac.francais.ca" tvg-logo="https://media.starlite.best/cpac.francais.ca.png",CPAC
 https://tvnow.best/api/stream/smart/smart/livetv.epg/cpac.francais.ca.m3u8
-http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/132071.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="elle.fictions.ca" tvg-logo="https://media.starlite.best/elle.fictions.ca.png",ELLE Fictions
 https://tvnow.best/api/stream/smart/smart/livetv.epg/elle.fictions.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228637.ts
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="evasion.ca" tvg-logo="https://media.starlite.best/evasion.ca.png",Evasion
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="evasion.ca" tvg-logo="https://media.starlite.best/evasion.ca.png",Évasion
 https://tvnow.best/api/stream/smart/smart/livetv.epg/evasion.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228647.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="frissons.tv.ca" tvg-logo="https://media.starlite.best/frissons.tv.ca.png",Frissons
 https://tvnow.best/api/stream/smart/smart/livetv.epg/frissons.tv.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="historia.ca" tvg-logo="https://media.starlite.best/historia.ca.png",Historia FR
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="historia.ca" tvg-logo="https://media.starlite.best/historia.ca.png",Historia
 https://tvnow.best/api/stream/smart/smart/livetv.epg/historia.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="artv.ca" tvg-logo="https://media.starlite.best/artv.ca.png",ICI Artv
 https://tvnow.best/api/stream/smart/smart/livetv.epg/artv.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="rdi.news.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ici-rdi-ca.png",ICI RDI
 http://96.45.207.18:8881/channel/7a117d94/index.m3u8?q=1735600584362
-https://tvnow.best/api/stream/smart/smart/livetv.epg/rdi.news.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="ici.tele.ca" tvg-logo="https://media.starlite.best/ici.tele.ca.png",ICI Tele
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="ici.tele.ca" tvg-logo="https://media.starlite.best/ici.tele.ca.png",ICI Télé (CBFT) Montréal
 https://tvnow.best/api/stream/smart/smart/livetv.epg/ici.tele.ca.m3u8
-http://68.233.120.207:9981/stream/channelid/1049375066?profile=pass
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="ici.cbuft.vancouver.bc.ca" tvg-logo="https://media.starlite.best/ici.cbuft.vancouver.bc.ca.png",ICI Tele (CBUFT)
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="ici.cbuft.vancouver.bc.ca" tvg-logo="https://media.starlite.best/ici.cbuft.vancouver.bc.ca.png",ICI Télé (CBUFT) Vancouver
 https://tvnow.best/api/stream/smart/smart/livetv.epg/ici.cbuft.vancouver.bc.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="ici.cbvt.quebec.qc.digital.ca" tvg-logo="https://media.starlite.best/ici.cbvt.quebec.qc.digital.ca.png",ICI Tele (CBVT)
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="ici.cbvt.quebec.qc.digital.ca" tvg-logo="https://media.starlite.best/ici.cbvt.quebec.qc.digital.ca.png",ICI Télé (CBVT) Quebec City
 https://tvnow.best/api/stream/smart/smart/livetv.epg/ici.cbvt.quebec.qc.digital.ca.m3u8
-https://tvnow.best/api/stream/smart/smart/livetv.epg/ici.cbvt.quebec.qc.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="ici.cktv.saguenay.qc.ca" tvg-logo="https://media.starlite.best/ici.cktv.saguenay.qc.ca.png",ICI Tele (CKTV)
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="ici.cktv.saguenay.qc.ca" tvg-logo="https://media.starlite.best/ici.cktv.saguenay.qc.ca.png",ICI Télé (CKTV) Saguenay
 https://tvnow.best/api/stream/smart/smart/livetv.epg/ici.cktv.saguenay.qc.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="investigation.ca" tvg-logo="https://media.starlite.best/investigation.ca.png",Investigation
 https://tvnow.best/api/stream/smart/smart/livetv.epg/investigation.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="la.chaine.disney.ca" tvg-logo="https://media.starlite.best/la.chaine.disney.ca.png",La chaîne Disney
 https://tvnow.best/api/stream/smart/smart/livetv.epg/la.chaine.disney.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40724.ts
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="lcn.ca" tvg-logo="https://media.starlite.best/lcn.ca.png",LCN
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="lcn.ca" tvg-logo="https://media.starlite.best/lcn.ca.png",Le Canal Nouvelles
 https://tvnow.best/api/stream/smart/smart/livetv.epg/lcn.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228704.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="max.ca" tvg-logo="https://media.starlite.best/max.ca.png",MAX
 https://tvnow.best/api/stream/smart/smart/livetv.epg/max.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="Noovo.(CFJP).Montreal,.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png",Noovo
-http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/132090.ts
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="noovo.vtele.ca" tvg-logo="https://media.starlite.best/noovo.vtele.ca.png",Noovo V-Tele
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="noovo.vtele.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png",Noovo
 https://tvnow.best/api/stream/smart/smart/livetv.epg/noovo.vtele.ca.m3u8
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="v.cfjp.montrealqc.ca" tvg-logo="https://media.starlite.best/v.cfjp.montrealqc.ca.png",Noovo (CFJP) Montréal
+https://tvnow.best/api/stream/smart/smart/livetv.epg/v.cfjp.montrealqc.ca.m3u8
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="v.cfap.quebec.qc.ca" tvg-logo="https://media.starlite.best/v.cfap.quebec.qc.ca.png",Noovo (CFAP) Québec City
+https://tvnow.best/api/stream/smart/smart/livetv.epg/v.cfap.quebec.qc.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="prise.2.ca" tvg-logo="https://media.starlite.best/prise.2.ca.png",Prise 2
 https://tvnow.best/api/stream/smart/smart/livetv.epg/prise.2.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228729.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="rds.rseau.des.sports.ca" tvg-logo="https://media.starlite.best/rds.rseau.des.sports.ca.png",RDS
 https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.rseau.des.sports.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40629.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="rds.2.ca" tvg-logo="https://media.starlite.best/rds.2.ca.png",RDS 2
 https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.2.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40628.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="rds.info.ca" tvg-logo="https://media.starlite.best/rds.info.ca.png",RDS Info
 https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.info.ca.m3u8
-http://206.212.244.26/live/vasconeves/1742766045/40627.ts
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="series.ca" tvg-logo="https://media.starlite.best/series.ca.png",Series Plus
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="series.ca" tvg-logo="https://media.starlite.best/series.ca.png",Séries Plus
 https://tvnow.best/api/stream/smart/smart/livetv.epg/series.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="super.ecran.1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-1-ca.png",Super Ecran 1
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="super.ecran.1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-1-ca.png",Super Écran 1
 https://tvnow.best/api/stream/smart/smart/livetv.epg/super.ecran.1.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228756.ts
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="super.ecran.2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-2-ca.png",Super Ecran 2
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="Super.Ecran.2.HDTV.(SE2HD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-2-ca.png",Super Écran 2
 https://tvnow.best/api/stream/smart/smart/livetv.epg/super.ecran.2.ca.m3u8
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/2604.ts
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="super.ecran.3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-3-ca.png",Super Ecran 3
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="Super.Ã‰cran.3.HDTV.(SE3HD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-3-ca.png",Super Écran 3
 https://tvnow.best/api/stream/smart/smart/livetv.epg/super.ecran.3.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228758.ts
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="super.ecran.4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-4-ca.png",Super Ecran 4
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="Super.Ã‰cran.4.HDTV.(SE4HD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-4-ca.png",Super Écran 4
 https://tvnow.best/api/stream/smart/smart/livetv.epg/super.ecran.4.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228759.ts
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png",Tele Québec
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png",Télé-Québec
 https://tvnow.best/api/stream/smart/smart/livetv.epg/tele.quebec.civq.quebec.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="Télémagino.ca" tvg-logo="https://d60d34ithxz8n.cloudfront.net/ca-logos/19aae87681fb7545a7f8b12b094f5eda.png?k=YuF2DwEskK9RDtJWAxeJbpo7YUB7VdYQ4hnktyMqup9hklnV5sxy2V%2F5EGY3kuoD31WBFsj8IoPs%2BhFGP4SORJH9F4TJDNdNjQ53nuuYqHfLDOfzOOUfR1APiazFifTa",Telemag
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="Télémagino.ca" tvg-logo="https://d60d34ithxz8n.cloudfront.net/ca-logos/19aae87681fb7545a7f8b12b094f5eda.png?k=YuF2DwEskK9RDtJWAxeJbpo7YUB7VdYQ4hnktyMqup9hklnV5sxy2V%2F5EGY3kuoD31WBFsj8IoPs%2BhFGP4SORJH9F4TJDNdNjQ53nuuYqHfLDOfzOOUfR1APiazFifTa",Télémag
 http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/132096.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="tltoon.franais.ca" tvg-logo="https://media.starlite.best/tltoon.franais.ca.png",TéléTOON
 https://tvnow.best/api/stream/smart/smart/livetv.epg/tltoon.franais.ca.m3u8
@@ -690,31 +588,19 @@ https://tvnow.best/api/stream/smart/smart/livetv.epg/tltoon.franais.ca.m3u8
 http://96.45.207.18:8881/channel/n5de8418/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="tv5.international.east.ca" tvg-logo="https://media.starlite.best/tv5.international.east.ca.png",TV5 Intern
 https://tvnow.best/api/stream/smart/smart/livetv.epg/tv5.international.east.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="TVA.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-ca.png",TVA
-http://68.233.120.207:9981/stream/channelid/1523198423?profile=pass
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="tva.cftm.montral.ca" tvg-logo="https://media.starlite.best/tva.cftm.montral.ca.png",TVA (CFTM)
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="tva.cftm.montral.ca" tvg-logo="https://media.starlite.best/tva.cftm.montral.ca.png",TVA (CFTM) Montréal
 https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.cftm.montral.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="tva.chem.trois.rivieres.ca" tvg-logo="https://media.starlite.best/tva.chem.trois.rivieres.ca.png",TVA (CHEM)
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="tva.chem.trois.rivieres.ca" tvg-logo="https://media.starlite.best/tva.chem.trois.rivieres.ca.png",TVA (CHEM) Trois-Rivières
 https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.chem.trois.rivieres.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="tva.cjpm.saguenay.qc.ca" tvg-logo="https://media.starlite.best/tva.cjpm.saguenay.qc.ca.png",TVA (CJPM)
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="tva.cjpm.saguenay.qc.ca" tvg-logo="https://media.starlite.best/tva.cjpm.saguenay.qc.ca.png",TVA (CJPM) Saguenay
 https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.cjpm.saguenay.qc.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="tva.sports.ca" tvg-logo="https://media.starlite.best/tva.sports.ca.png",TVA Sport
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="tva.sports.ca" tvg-logo="https://media.starlite.best/tva.sports.ca.png",TVA Sports
 https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.sports.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228777.ts
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="tva.sports.2.ca" tvg-logo="https://media.starlite.best/tva.sports.2.ca.png",TVA Sport 2
+#EXTINF:-1 group-title="Canada (FR)" tvg-id="tva.sports.2.ca" tvg-logo="https://media.starlite.best/tva.sports.2.ca.png",TVA Sports 2
 https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.sports.2.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228778.ts
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="v.cfjp.montrealqc.ca" tvg-logo="https://media.starlite.best/v.cfjp.montrealqc.ca.png",V Montreal (CFJP)
-https://tvnow.best/api/stream/smart/smart/livetv.epg/v.cfjp.montrealqc.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="v.cfap.quebec.qc.ca" tvg-logo="https://media.starlite.best/v.cfap.quebec.qc.ca.png",V Quebec (CFAP)
-https://tvnow.best/api/stream/smart/smart/livetv.epg/v.cfap.quebec.qc.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="v.ca" tvg-logo="https://media.starlite.best/v.ca.png",Vie
 https://tvnow.best/api/stream/smart/smart/livetv.epg/v.ca.m3u8
-#EXTINF:-1 group-title="Canada (FR)" tvg-id="yoopa.ca" tvg-logo="https://media.starlite.best/yoopa.ca.png",Yoopa FR
-https://tvnow.best/api/stream/smart/smart/livetv.epg/yoopa.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="z.ca" tvg-logo="https://media.starlite.best/z.ca.png",Z
 https://tvnow.best/api/stream/smart/smart/livetv.epg/z.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228791.ts
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png",Zeste
 https://tvnow.best/api/stream/smart/smart/livetv.epg/zeste.ca.m3u8
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228792.ts
