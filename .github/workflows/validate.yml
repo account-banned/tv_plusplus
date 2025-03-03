@@ -18,16 +18,16 @@ jobs:
           node-version: '20'
 
       # - name: Basic M3U cleanup
-      #   run: node .scripts/cleanup-m3u.js accountbanned_tv++.m3u
+      #   run: node .github/scripts/cleanup-m3u.js accountbanned_tv++.m3u
         
       # - name: Sort M3U file
-      #   run: node .scripts/sort-m3u.js accountbanned_tv++.m3u
+      #   run: node .github/scripts/sort-m3u.js accountbanned_tv++.m3u
 
       - name: Split into group playlists
-        run: node .scripts/groups.js accountbanned_tv++.m3u
+        run: node .github/scripts/groups.js accountbanned_tv++.m3u
 
       - name: Update README
-        run: node .scripts/readme-m3u.js accountbanned_tv++.m3u
+        run: node .github/scripts/readme-m3u.js accountbanned_tv++.m3u
 
       - name: Commit changes to files 
         run: |
