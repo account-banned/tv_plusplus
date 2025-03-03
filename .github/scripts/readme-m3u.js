@@ -40,23 +40,6 @@ function updateReadme(m3uPath) {
     readmeContent += `- Total Channels: ${totalChannels}\n`;
     readmeContent += `- Groups Available: ${Object.keys(groups.countries).length}\n\n`;
 
-    // Add playlists table
-    readmeContent += '## Available Playlists\n\n';
-    readmeContent += '| Playlist | Channels | Link |\n';
-    readmeContent += '|----------|-----------|------|\n';
-    
-    // Add main playlist
-    const mainPlaylistName = path.basename(m3uPath);
-    readmeContent += `| **Complete (All channels)** | ${totalChannels} | [${mainPlaylistName}](${mainPlaylistName}) |\n`;
-    
-    // Add countries
-    readmeContent += '| **───────── Groups ─────────** | | |\n';
-    const sortedCountryGroups = Object.entries(groups.countries).sort((a, b) => a[0].localeCompare(b[0]));
-    sortedCountryGroups.forEach(([groupName, channelCount]) => {
-        const safeGroupName = groupName.replace(/[^a-z0-9]/gi, '_').toLowerCase();
-        readmeContent += `| ${groupName} | ${channelCount} | [${safeGroupName}.m3u](groups/${safeGroupName}.m3u) |\n`;
-    });
-
     // Add note about legal usage
     readmeContent += '## Legal Notice\n\n';
     readmeContent += 'This playlist is a collection of publicly available IPTV streams. ';
