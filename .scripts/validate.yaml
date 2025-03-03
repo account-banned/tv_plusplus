@@ -1,0 +1,37 @@
+name: M3U Lint and Sort
+
+on:
+  push:
+    paths:
+      - 'accountbanned_tv++.m3u'
+
+jobs:
+  lint-and-sort:
+    runs-on: docker
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # - name: Basic M3U cleanup
+      #   run: node .scripts/cleanup-m3u.js accountbanned_tv++.m3u
+        
+      # - name: Sort M3U file
+      #   run: node .scripts/sort-m3u.js accountbanned_tv++.m3u
+
+      - name: Split into group playlists
+        run: node .scripts/groups.js accountbanned_tv++.m3u
+
+      - name: Update README
+        run: node .scripts/readme-m3u.js accountbanned_tv++.m3u
+
+      - name: Commit changes to files 
+        run: |
+          git config --global user.name 'Bot Bot'
+          git config --global user.email 'noreply@accountbanned.com'
+          git add --all
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated updates of M3U Files" && git push)
