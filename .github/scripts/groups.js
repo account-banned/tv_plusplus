@@ -97,13 +97,13 @@ function splitByGroup(filePath) {
 
 const filePath = process.argv[2];
 if (!filePath) {
-  console.error('Please provide the path to mystique.m3u');
+  console.error('Please provide the path to your M3U file');
   process.exit(1);
 }
 
 try {
   splitByGroup(filePath);
 } catch (error) {
-  console.error('Error splitting mystique.m3u:', error.message);
+  console.error('Error splitting your M3U file:', error.message);
   process.exit(1);
 }
