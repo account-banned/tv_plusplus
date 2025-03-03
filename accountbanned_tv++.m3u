@@ -190,8 +190,8 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/omni.2.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/one.get.fit.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="outtv.ca" tvg-logo="https://media.starlite.best/outtv.ca.png",OUTtv
 https://starlite.best/api/stream/smart/smart/livetv.epg/outtv.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Oxygen.True.Crime.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crimes
-http://2022.dynu.com:2022/live/aabdell/wxInwecmlr/52780.ts
+# #EXTINF:-1 group-title="Canada (EN)" tvg-id="Oxygen.True.Crime.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crimes
+# http://2022.dynu.com:2022/live/aabdell/wxInwecmlr/52780.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="REV.TV.HDTV.(Canada).(REVHD).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s106713_h15_ab.png",Rev TV
 http://user.scalecdn.co:8080/live/26725074/92867131/702667.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Showcase.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/showcase-ca.png",Showcase
