@@ -1,23 +1,29 @@
-# accountbanned tv++
+# Accountbanned TV++
 
-A private curated collection of IPTV channels.
+## About
 
-## Features
-
-- A wide variety of IPTV channels from different genres and regions.
-- Regular updates to ensure the availability of streams.
-- Easy-to-use M3U playlist format.
+Accountbanned TV++ provides a curated collection of IPTV channels. The channels are organized in groups for easy access.
 
 ## Usage
 
-1. Download the `accountbanned_tv++.m3u` file from this repository.
-2. Open the file with your preferred IPTV player.
-3. Enjoy the curated collection of IPTV channels.
+1. **Complete Playlist**: Use the main `accountbanned_tv++.m3u` file for access to all channels
+2. **Group-Specific**: Individual group playlists are available in the `groups/` directory
 
+## Statistics
+
+- Total Channels: 299
+- Groups Available: 4
+
+## Available Playlists
+
+| Playlist | Channels | Link |
+|----------|-----------|------|
+| **Complete (All channels)** | 299 | [accountbanned_tv++.m3u](accountbanned_tv++.m3u) |
+| **───────── Groups ─────────** | | |
+| Canada (EN) | 112 | [canada__en_.m3u](groups/canada__en_.m3u) |
+| Canada (FR) | 46 | [canada__fr_.m3u](groups/canada__fr_.m3u) |
+| Sports | 34 | [sports.m3u](groups/sports.m3u) |
+| United States | 107 | [united_states.m3u](groups/united_states.m3u) |
 ## Legal Notice
 
 This playlist is a collection of publicly available IPTV streams. Please check your local laws regarding IPTV streaming before using this playlist.
-
-## Disclaimer
-
-We do not host any of the streams listed in this playlist. All streams are publicly available on the internet. We are not responsible for the content of the streams or any legal issues that may arise from their use.

@@ -3,7 +3,7 @@ const path = require('path');
 
 function updateReadme(m3uPath) {
     // Get directories for both types of groups
-    const countriesDir = path.join(path.dirname(m3uPath), 'countries');
+    const countriesDir = path.join(path.dirname(m3uPath), 'groups');
     const groups = {
         countries: {}
     };
@@ -69,7 +69,7 @@ function updateReadme(m3uPath) {
 
 const filePath = process.argv[2];
 if (!filePath) {
-    console.error('Please provide the path to mystique.m3u');
+    console.error('Please provide the path to accountbanned_tv++.m3u');
     process.exit(1);
 }
 

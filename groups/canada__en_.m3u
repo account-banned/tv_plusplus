@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="ABC.Spark.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/abc-spark-ca.png",ABC Spark
+https://starlite.best/api/stream/smart/smart/livetv.epg/abc.spark.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Adult.Swim.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png",Adult Swim
+https://starlite.best/api/stream/smart/smart/livetv.epg/adult.swim.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="AMC.-.Canada.ca" tvg-logo="https://media.starlite.best/amc.canada.ca.png",AMC
+https://starlite.best/api/stream/smart/smart/livetv.epg/amc.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
+https://starlite.best/api/stream/smart/smart/livetv.epg/aptn.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="bnn.bloomberg.ca" tvg-logo="https://media.starlite.best/bnn.bloomberg.ca.png",BNN Bloomberg
+https://starlite.best/api/stream/smart/smart/livetv.epg/bloomberg.tv.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Boomerang.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png",Boomerang
+http://96.45.207.18:8881/channel/3255f3aa/index.m3u8?q=1735600584362
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
+https://starlite.best/api/stream/smart/smart/livetv.epg/cartoon.network.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.News.Network.ca" tvg-logo="https://media.starlite.best/cbc.news.network.ca.png",CBC News
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.news.network.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.(CBHT).Halifax,.NS.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Halifax (CBHT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbht.halifax.ns.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Toronto (CBIT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cblt.toronto.on.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.(CBNT).St-Johns.NL.ca.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC St.Johns (CBNT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbnt.st.johns.nl.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.(CBRT).Calgary,.AB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Calgary (CBRT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.(CBUT).Vancouver,.BC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Vancouver (CBUT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbut.vancouver.bc.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.(CBWT).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Winnipeg (CBWT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbwt.winnipeg.mb.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.Charlottetown.(CBCT).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Charlottetown (CBCT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbct.charlottetown.pe.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.Edmonton.HDTV.(CBXTHD).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Edmonton (CBXT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbxt.edmonton.ab.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.Fredericton.(CBAT).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Fredericton (CBAT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbat.fredericton.nb.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.Quebec.HDTV.(CBMTHD).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Montreal (CBMT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbmt.montreal.qc.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.Saskatchewan.(CBKT).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Regina (CBKT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbkt.regina.sk.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBC.Yellowknife.(CFYK).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Yellowknife (CFYK)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cfyk.yellowknife.nwt.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBET.Windsor.(CBET).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Windsor (CBET)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbet.windsor.on.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14724_h15_aa.png",CBC Ottawa (CBOT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/cbc.cbot.ottawa.on.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CHCH.Hamilton,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png",CHCH
+http://user.scalecdn.co:8080/live/26725074/92867131/3124.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CITY.Montreal,.QC.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png",CITY Montreal
+https://starlite.best/api/stream/smart/smart/livetv.epg/city.montreal.qc.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CITY.Toronto,.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png",CITY Toronto
+https://starlite.best/api/stream/smart/smart/livetv.epg/city.toronto.on.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CITY.Vancouver,.BC.ca" tvg-logo="https://media.starlite.best/city.vancouver.bc.ca.png",CITY Vancouver
+https://starlite.best/api/stream/smart/smart/livetv.epg/city.vancouver.bc.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CMT.Canada.ca" tvg-logo="https://media.starlite.best/cmt.canada.ca.png",CMT
+https://starlite.best/api/stream/smart/smart/livetv.epg/cmt.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="cnn.ca" tvg-logo="https://media.starlite.best/cnn.ca.png",CNN
+https://starlite.best/api/stream/smart/smart/livetv.epg/cnn.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CP24.(CablePulse.24).ca" tvg-logo="https://media.starlite.best/cp24.cablepulse.24.ca.png",CP24
+https://starlite.best/api/stream/smart/smart/livetv.epg/cp24.cablepulse.24.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-1-ca.png",Crave 1
+https://starlite.best/api/stream/smart/smart/livetv.epg/crave1.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-2-ca.png",Crave 2
+https://starlite.best/api/stream/smart/smart/livetv.epg/crave2.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave3.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-3-ca.png",Crave 3
+https://starlite.best/api/stream/smart/smart/livetv.epg/crave3.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-4-ca.png",Crave 4
+https://starlite.best/api/stream/smart/smart/livetv.epg/crave4.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Crime.+.Investigation.Canada.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s99456_h15_aa.png",Crime + Investigation
+http://user.scalecdn.co:8080/live/26725074/92867131/92718.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.News.Channel.ca" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png",CTV News
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.news.channel.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Comedy.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-comedy-channel-ca.png",CTV Comedy
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.comedy.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="ctv.drama.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-drama-channel-ca.png",CTV Drama
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.drama.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Life.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-life-channel-ca.png",CTV Life
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.life.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png",CTV Nature
+https://starlite.best/api/stream/smart/smart/livetv.epg/discovery.science.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png",CTV Wild
+http://sapphireapp.xyz:8080/live/W0V9brr5JW/2656286300/40775.ts
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Sci-Fi.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-sci-fi-channel-ca.png",CTV Sci Fi
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.sci.fi.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png",CTV Speed
+https://starlite.best/api/stream/smart/smart/livetv.epg/discovery.velocity.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.(CJCH).Halifax.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Halifax (CJCH)
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cjch.halifax.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.(CFTO).Toronto,.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Toronto (CTFO)
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cfto.toronto.on.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.(CFCN).Calgary,.AB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Calgary (CFCN)
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cfcn.calgary.ab.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Winnipeg (CKY)
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cky.winnipeg.mb.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Regina.HDTV.(CKCK).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Regina (CKCK)
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.ckck.regina.sk.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Vancouver,.BC.HD.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Vancouver
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.vancouver.bc.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV2.Atlantic.Region.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png",CTV2 Atlantic
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.atlantic.region.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 Toronto
+http://user.scalecdn.co:8080/live/26725074/92867131/93008.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Two.London/CFPL.(CTV2L).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 London
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.london.on.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 Ottawa
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.ottawa.on.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="CTV2.Vancouver.Island..BC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 Vancouver Island
+https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.vancouver.island.bc.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="deja.view.ca" tvg-logo="https://media.starlite.best/deja.view.ca.png",Deja View
+https://starlite.best/api/stream/smart/smart/livetv.epg/deja.view.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png",Disney Channel
+https://starlite.best/api/stream/smart/smart/livetv.epg/disney.channel.canada.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://media.starlite.best/disney.junior.canada.ca.png",Disney Jr.
+https://starlite.best/api/stream/smart/smart/livetv.epg/disney.junior.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.XD.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-xd-ca.png",Disney XD
+https://starlite.best/api/stream/smart/smart/livetv.epg/disney.xd.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Documentary.Channel.(Canada).ca" tvg-logo="https://media.starlite.best/documentary.channel.canada.ca.png",Documentary
+https://starlite.best/api/stream/smart/smart/livetv.epg/documentary.channel.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="dtour.ca" tvg-logo="https://media.starlite.best/dtour.ca.png",DTOUR
+https://starlite.best/api/stream/smart/smart/livetv.epg/dtour.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="E!.Canada.ca" tvg-logo="https://media.starlite.best/e.canada.ca.png",E!
+https://starlite.best/api/stream/smart/smart/livetv.epg/e.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png",Family Channel
+http://96.45.207.18:8881/channel/110dd756/index.m3u8?q=1735600584362
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Family.Jr..ca" tvg-logo="https://media.starlite.best/family.jr.ca.png",Family Jr
+https://starlite.best/api/stream/smart/smart/livetv.epg/family.jr.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Flavour.Network.Canada.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73467_h15_ae.png",Flavour Network
+https://starlite.best/api/stream/smart/smart/livetv.epg/food.network.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="FX.Networks.Canada.ca" tvg-logo="https://media.starlite.best/fx.networks.ca.png",FX Canada
+https://starlite.best/api/stream/smart/smart/livetv.epg/fx.networks.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="FXX.Networks.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png",FXX Canada
+http://206.212.244.26/live/vasconeves/1742766045/48379.ts
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Game.Show.Network.-.East.ca" tvg-logo="https://media.starlite.best/game.show.network.east.ca.png",Game Show Network
+https://starlite.best/api/stream/smart/smart/livetv.epg/game.show.network.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.(CICT).Calgary,.AB.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png",Global Calgary (CICT)
+https://starlite.best/api/stream/smart/smart/livetv.epg/global.cict.calgary.ab.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png",Global Toronto (CIII)
+https://starlite.best/api/stream/smart/smart/livetv.epg/global.ciii.dt.41.toronto.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="global.bc.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png",Global BC (CHBC)
+https://starlite.best/api/stream/smart/smart/livetv.epg/global.bc.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.Edmonton.(CITV).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png",Global Edmonton (CITV)
+https://starlite.best/api/stream/smart/smart/livetv.epg/global.citv.edmonton.ab.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Global.Montreal.(CKMI).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png",Global Montreal (CKMI)
+https://starlite.best/api/stream/smart/smart/livetv.epg/global.montreal.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="HBO1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png",HBO
+https://starlite.best/api/stream/smart/smart/livetv.epg/hbo.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="HBO.2.HD.(HBO2).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2
+https://starlite.best/api/stream/smart/smart/livetv.epg/hbo.2.eastern.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/history-channel-2-ca.png",History
+https://starlite.best/api/stream/smart/smart/livetv.epg/history.canada.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="History.2.Canada.ca" tvg-logo="https://media.starlite.best/history.2.canada.ca.png",History 2
+https://starlite.best/api/stream/smart/smart/livetv.epg/history.2.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="hollywood.suite.00s.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73578_h15_aa.png",Hollywood Suite 00s
+http://user.scalecdn.co:8080/live/26725074/92867131/59882.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="hollywood.suite.70s.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73572_h15_aa.png",Hollywood Suite 70s
+http://user.scalecdn.co:8080/live/26725074/92867131/59884.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="hollywood.suite.80s.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73574_h15_aa.png",Hollywood Suite 80s
+http://user.scalecdn.co:8080/live/26725074/92867131/59883.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="hollywood.suite.90s.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73571_h15_aa.png",Hollywood Suite 90s
+http://user.scalecdn.co:8080/live/26725074/92867131/3367.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Home.Network.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17638_h15_ac.png",Home Network
+https://starlite.best/api/stream/smart/smart/livetv.epg/hgtv.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Investigation.Discovery.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/investigation-discovery-ca.png",Investigation Discovery
+http://zorrohunter.com:80/live/WeaponX/Dawkins22/40689.ts
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Knowledge.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/knowledge-network-ca.png",Knowledge Network
+http://206.212.244.26/live/vasconeves/1742766045/40687.ts
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Lifetime.TV.-.Canada.ca" tvg-logo="https://media.starlite.best/lifetime.tv.canada.ca.png",Lifetime TV
+https://starlite.best/api/stream/smart/smart/livetv.epg/lifetime.tv.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="love.nature.ca" tvg-logo="https://media.starlite.best/love.nature.ca.png",Love Nature
+https://starlite.best/api/stream/smart/smart/livetv.epg/love.nature.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Magnolia.CA.ca" tvg-logo="https://i.ibb.co/sJdFLQf9/Magnolia-Network-svg.png",Magnolia Network
+https://starlite.best/api/stream/smart/smart/livetv.epg/do.it.yourself.network.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="makeful.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s99429_h15_aa.png",Makeful
+https://starlite.best/api/stream/smart/smart/livetv.epg/makeful.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png",Movie Time
+https://starlite.best/api/stream/smart/smart/livetv.epg/movietime.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png",Much
+https://starlite.best/api/stream/smart/smart/livetv.epg/much.music.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png",National Geographic
+https://starlite.best/api/stream/smart/smart/livetv.epg/national.geographic.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://i.ibb.co/N28fsF0z/National-Geographic-Wild-logo-svg.png",National Geographic Wild
+http://user.scalecdn.co:8080/live/26725074/92867131/92712.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Nickelodeon.Canada.ca" tvg-logo="https://media.starlite.best/nickelodeon.canada.ca.png",Nickelodeon
+https://starlite.best/api/stream/smart/smart/livetv.epg/nickelodeon.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="OMNI.1.Television.ca" tvg-logo="https://media.starlite.best/omni.1.ca.png",OMNI
+https://starlite.best/api/stream/smart/smart/livetv.epg/omni.1.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="OMNI.2.ca" tvg-logo="https://media.starlite.best/omni.2.ca.png",OMNI 2
+https://starlite.best/api/stream/smart/smart/livetv.epg/omni.2.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="ONE.TV.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s26777_h15_ac.png",One TV
+https://starlite.best/api/stream/smart/smart/livetv.epg/one.get.fit.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="outtv.ca" tvg-logo="https://media.starlite.best/outtv.ca.png",OUTtv
+https://starlite.best/api/stream/smart/smart/livetv.epg/outtv.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="REV.TV.HDTV.(Canada).(REVHD).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s106713_h15_ab.png",Rev TV
+http://user.scalecdn.co:8080/live/26725074/92867131/702667.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Showcase.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/showcase-ca.png",Showcase
+https://starlite.best/api/stream/smart/smart/livetv.epg/showcase.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Silver.Screen.Classics.ca" tvg-logo="https://media.starlite.best/silver.screen.classics.ca.png",Silver Screen Classic
+https://starlite.best/api/stream/smart/smart/livetv.epg/silver.screen.classics.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png",Slice
+https://starlite.best/api/stream/smart/smart/livetv.epg/slice.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="STARZ1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-1-ca.png",STARZ
+https://starlite.best/api/stream/smart/smart/livetv.epg/starz1.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="STARZ2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-2-ca.png",STARZ 2
+https://starlite.best/api/stream/smart/smart/livetv.epg/starz2.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="super.channel.fuse.ca" tvg-logo="https://media.starlite.best/super.channel.fuse.ca.png",Super Channel Fuse
+https://starlite.best/api/stream/smart/smart/livetv.epg/super.channel.fuse.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Super.Channel.Heart.and.Home.ca" tvg-logo="https://media.starlite.best/super.channel.heart.home.ca.png",Super Channel Heart & Home
+https://starlite.best/api/stream/smart/smart/livetv.epg/super.channel.heart.home.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="super.channel.vault.ca" tvg-logo="https://media.starlite.best/super.channel.vault.ca.png",Super Channel Vault
+https://starlite.best/api/stream/smart/smart/livetv.epg/super.channel.vault.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="TLC.Canada.ca" tvg-logo="https://media.starlite.best/tlc.canada.ca.png",TLC
+https://starlite.best/api/stream/smart/smart/livetv.epg/tlc.canada.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png",Treehouse
+https://starlite.best/api/stream/smart/smart/livetv.epg/treehouse.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="USA.Network.(CAN).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15098_h15_ac.png",USA Network (CA)
+https://starlite.best/api/stream/smart/smart/livetv.epg/discovery.channel.can.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Vision.TV.Eastern.ca" tvg-logo="https://media.starlite.best/vision.tv.ca.png",Vision TV
+https://starlite.best/api/stream/smart/smart/livetv.epg/vision.tv.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="W.(WTN).-.East.ca" tvg-logo="https://media.starlite.best/w.wtn.east.ca.png",W Network
+https://starlite.best/api/stream/smart/smart/livetv.epg/w.wtn.east.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="wild.tv.ca" tvg-logo="https://media.starlite.best/wild.tv.ca.png",Wild TV
+https://starlite.best/api/stream/smart/smart/livetv.epg/wild.tv.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Yes.TV.(CITS).Burlington,.ON.ca" tvg-logo="https://media.starlite.best/yes.tv.ckcs.calgary.ab.ca.png",Yes TV
+https://starlite.best/api/stream/smart/smart/livetv.epg/yes.tv.ckcs.calgary.ab.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="YTV.(Youth.Television).-.East.ca" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png",YTV
+https://starlite.best/api/stream/smart/smart/livetv.epg/ytv.youth.television.east.ca.m3u8

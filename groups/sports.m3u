@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png",TSN 1
+http://user.scalecdn.co:8080/live/26725074/92867131/3146.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",TSN 2
+http://user.scalecdn.co:8080/live/26725074/92867131/3145.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",TSN 3
+http://user.scalecdn.co:8080/live/26725074/92867131/3144.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",TSN 4
+http://user.scalecdn.co:8080/live/26725074/92867131/3143.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN 5
+http://user.scalecdn.co:8080/live/26725074/92867131/3142.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.1.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png",FS1
+https://a1xs.vip/40000021
+#EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.2.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s33178_h15_ab.png",FS2
+https://a1xs.vip/40000022
+#EXTINF:-1 group-title="Sports" tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png",Sportsnet 360
+http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228742.ts
+#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png",Sportsnet East
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
+#EXTINF:-1 group-title="Sports" tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png",Sportsnet One
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
+#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://media.starlite.best/sportsnet.ontario.ca.png",Sportsnet Ontario
+http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228746.ts
+#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png",Sportsnet Pacific
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
+#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png",Sportsnet West
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
+#EXTINF:-1 group-title="Sports" tvg-id="sportsnet.world.ca" tvg-logo="https://media.starlite.best/sportsnet.world.ca.png",Sportsnet World
+http://user.scalecdn.co:8080/live/26725074/92867131/88060.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png",ESPN
+http://user.scalecdn.co:8080/live/26725074/92867131/3636.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN2.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png",ESPN 2
+http://user.scalecdn.co:8080/live/26725074/92867131/3637.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NHL-MontrealCanadiens.us" tvg-logo="https://media.starlite.best/nfl.network.us.png",NHL Montreal Canadiens
+http://user.scalecdn.co:8080/live/26725074/92867131/509728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="nhlnetwork.us" tvg-logo="https://png.pngitem.com/pimgs/s/365-3656093_nhl-network-logo-hd-png-download.png",NHL Network (US)
+http://user.scalecdn.co:8080/live/26725074/92867131/3672.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NHL-TorontoMapleLeafs.us" tvg-logo="https://media.starlite.best/nfl.network.us.png",NHL Toronto Maple Leafs
+http://user.scalecdn.co:8080/live/26725074/92867131/509731.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.Canada.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s27201_h15_ab.png",NBA TV (CA)
+http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228720.ts
+#EXTINF:-1 group-title="Sports" tvg-id="nba.tv.usa.us" tvg-logo="https://media.starlite.best/nba.tv.usa.us.png",NBA TV (CA)
+https://starlite.best/api/stream/smart/smart/livetv.epg/nba.tv.usa.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="nfl.network.alt.canadian.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/leagues/nfl-us.png",NFL Network (CA)
+https://starlite.best/api/stream/smart/smart/livetv.epg/nfl.network.alt.canadian.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="nfl.network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/leagues/nfl-us.png",NFL Network (US)
+https://starlite.best/api/stream/smart/smart/livetv.epg/nfl.network.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="mlb.network.us" tvg-logo="https://media.starlite.best/mlb.network.us.png",MLB Network
+http://user.scalecdn.co:8080/live/26725074/92867131/3661.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="msg.us" tvg-logo="https://media.starlite.best/msg.us.png",MSG
+https://starlite.best/api/stream/smart/smart/livetv.epg/msg.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="msg.plus.us" tvg-logo="https://media.starlite.best/msg.plus.us.png",MSG Plus
+https://starlite.best/api/stream/smart/smart/livetv.epg/msg.plus.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="msg.2.us" tvg-logo="https://media.starlite.best/msg.2.us.png",MSG 2
+https://starlite.best/api/stream/smart/smart/livetv.epg/msg.2.us.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="fight.network.canada.ca" tvg-logo="https://media.starlite.best/fight.network.canada.ca.png",Fight Network
+https://starlite.best/api/stream/smart/smart/livetv.epg/fight.network.canada.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="rds.rseau.des.sports.ca" tvg-logo="https://media.starlite.best/rds.rseau.des.sports.ca.png",RDS
+https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.rseau.des.sports.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="rds.2.ca" tvg-logo="https://media.starlite.best/rds.2.ca.png",RDS 2
+https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.2.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="rds.info.ca" tvg-logo="https://media.starlite.best/rds.info.ca.png",RDS Info
+https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.info.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="tva.sports.ca" tvg-logo="https://media.starlite.best/tva.sports.ca.png",TVA Sports
+https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.sports.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="tva.sports.2.ca" tvg-logo="https://media.starlite.best/tva.sports.2.ca.png",TVA Sports 2
+https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.sports.2.ca.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ufcnetwork.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ufc-us.png",UFC Channel
+http://user.scalecdn.co:8080/live/26725074/92867131/61769.m3u8
