@@ -27,7 +27,7 @@ function updateReadme(m3uPath) {
     
     // Add description and features
     readmeContent += '## About\n\n';
-    readmeContent += 'Accountbanned TV++ provides a curated collection of IPTV channels. ';
+    readmeContent += 'Accountbanned TV++ provides a collection of IPTV channels. ';
     readmeContent += 'The channels are organized in groups for easy access.\n\n';
 
     // Add usage section

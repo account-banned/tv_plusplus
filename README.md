@@ -2,7 +2,7 @@
 
 ## About
 
-Accountbanned TV++ provides a curated collection of IPTV channels. The channels are organized in groups for easy access.
+Accountbanned TV++ provides a collection of IPTV channels. The channels are organized in groups for easy access.
 
 ## Usage
 
