@@ -606,3 +606,5 @@ https://tvnow.best/api/stream/smart/smart/livetv.epg/v.ca.m3u8
 https://tvnow.best/api/stream/smart/smart/livetv.epg/z.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png",Zeste
 https://tvnow.best/api/stream/smart/smart/livetv.epg/zeste.ca.m3u8
+
+# Future channels
