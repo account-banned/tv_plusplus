@@ -3,7 +3,7 @@ name: M3U Lint and Sort
 on:
   push:
     paths:
-      - 'accountbanned_tv++.m3u'
+      - 'accountbanned_tv\+\+.m3u'
 
 jobs:
   lint-and-sort:
