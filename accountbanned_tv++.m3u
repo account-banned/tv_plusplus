@@ -1,5 +1,4 @@
 #EXTM3U
-# Canada (EN) channels
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="ABC.Spark.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/abc-spark-ca.png",ABC Spark
 https://starlite.best/api/stream/smart/smart/livetv.epg/abc.spark.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Adult.Swim.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png",Adult Swim
@@ -108,6 +107,8 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.ottawa.on.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.vancouver.island.bc.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="deja.view.ca" tvg-logo="https://media.starlite.best/deja.view.ca.png",Deja View
 https://starlite.best/api/stream/smart/smart/livetv.epg/deja.view.ca.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Discovery.Channel.CA.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png",Discovery Canada
+http://zorrohunter.com:80/live/WeaponX/Dawkins22/40727.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png",Disney Channel
 https://starlite.best/api/stream/smart/smart/livetv.epg/disney.channel.canada.east.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://media.starlite.best/disney.junior.canada.ca.png",Disney Jr.
@@ -146,22 +147,20 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/global.montreal.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/hbo.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="HBO.2.HD.(HBO2).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2
 https://starlite.best/api/stream/smart/smart/livetv.epg/hbo.2.eastern.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/history-channel-2-ca.png",History
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="History.Canada.East.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s65619_h15_ab.png",History
 https://starlite.best/api/stream/smart/smart/livetv.epg/history.canada.east.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="History.2.Canada.ca" tvg-logo="https://media.starlite.best/history.2.canada.ca.png",History 2
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="History.2.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/history-channel-2-ca.png",History 2
 https://starlite.best/api/stream/smart/smart/livetv.epg/history.2.canada.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="hollywood.suite.00s.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73578_h15_aa.png",Hollywood Suite 00s
-http://user.scalecdn.co:8080/live/26725074/92867131/59882.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="hollywood.suite.70s.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73572_h15_aa.png",Hollywood Suite 70s
 http://user.scalecdn.co:8080/live/26725074/92867131/59884.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="hollywood.suite.80s.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73574_h15_aa.png",Hollywood Suite 80s
 http://user.scalecdn.co:8080/live/26725074/92867131/59883.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="hollywood.suite.90s.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73571_h15_aa.png",Hollywood Suite 90s
 http://user.scalecdn.co:8080/live/26725074/92867131/3367.m3u8
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="hollywood.suite.00s.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73578_h15_aa.png",Hollywood Suite 00s
+http://user.scalecdn.co:8080/live/26725074/92867131/59882.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Home.Network.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17638_h15_ac.png",Home Network
 https://starlite.best/api/stream/smart/smart/livetv.epg/hgtv.canada.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Investigation.Discovery.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/investigation-discovery-ca.png",Investigation Discovery
-http://zorrohunter.com:80/live/WeaponX/Dawkins22/40689.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Knowledge.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/knowledge-network-ca.png",Knowledge Network
 http://206.212.244.26/live/vasconeves/1742766045/40687.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Lifetime.TV.-.Canada.ca" tvg-logo="https://media.starlite.best/lifetime.tv.canada.ca.png",Lifetime TV
@@ -190,8 +189,8 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/omni.2.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/one.get.fit.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="outtv.ca" tvg-logo="https://media.starlite.best/outtv.ca.png",OUTtv
 https://starlite.best/api/stream/smart/smart/livetv.epg/outtv.ca.m3u8
-# #EXTINF:-1 group-title="Canada (EN)" tvg-id="Oxygen.True.Crime.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crimes
-# http://2022.dynu.com:2022/live/aabdell/wxInwecmlr/52780.ts
+#EXTINF:-1 group-title="Canada (EN)" tvg-id="Oxygen.True.Crime.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crimes
+http://2022.dynu.com:2022/live/aabdell/wxInwecmlr/52780.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="REV.TV.HDTV.(Canada).(REVHD).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s106713_h15_ab.png",Rev TV
 http://user.scalecdn.co:8080/live/26725074/92867131/702667.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Showcase.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/showcase-ca.png",Showcase
@@ -226,8 +225,6 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/wild.tv.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/yes.tv.ckcs.calgary.ab.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="YTV.(Youth.Television).-.East.ca" tvg-logo="https://media.starlite.best/ytv.youth.television.east.ca.png",YTV
 https://starlite.best/api/stream/smart/smart/livetv.epg/ytv.youth.television.east.ca.m3u8
-
-# United States channels
 #EXTINF:-1 group-title="United States" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (WABC) New York
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="ABC.(WPLG).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",ABC (WPLG) Miami
@@ -441,8 +438,6 @@ http://128.230.54.150:5004/auto/v34.3
 #EXTINF:-1 group-title="United States" tvg-id="VICE.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18822_h15_ac.png",Vice
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="WE.(Women's.Entertainment).-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16409_h15_ab.png",WeTV
-
-# Sports channels
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png",TSN 1
 http://user.scalecdn.co:8080/live/26725074/92867131/3146.m3u8
@@ -512,8 +507,6 @@ https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.sports.ca.m3u8
 https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.sports.2.ca.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ufcnetwork.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ufc-us.png",UFC Channel
 http://user.scalecdn.co:8080/live/26725074/92867131/61769.m3u8
-
-# Canada (FR) channels
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="addik.tv.ca" tvg-logo="https://media.starlite.best/addik.tv.ca.png",ADDIK
 https://tvnow.best/api/stream/smart/smart/livetv.epg/addik.tv.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="ami.tl.ca" tvg-logo="https://media.starlite.best/ami.tl.ca.png",AMI-tele

@@ -212,5 +212,4 @@ http://128.230.54.150:5004/auto/v34.3
 #EXTINF:-1 group-title="United States" tvg-id="VICE.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18822_h15_ac.png",Vice
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="WE.(Women's.Entertainment).-.Eastern.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16409_h15_ab.png",WeTV
-# Sports channels
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
