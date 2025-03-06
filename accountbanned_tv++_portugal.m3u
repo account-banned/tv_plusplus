@@ -1,0 +1,278 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz"
+#EXTINF:-1 group-title="PORTUGAL" id="24Kitchen.HD.pt",24 KITCHEN HD
+http://user.scalecdn.co:8080/live/26725074/92867131/966.ts
+#EXTINF:-1 group-title="PORTUGAL" id="A.Bola.TV.HD.pt",A BOLA TV
+http://user.scalecdn.co:8080/live/26725074/92867131/965.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Afro.Music.Channel.pt",AFRO MUSIC
+http://user.scalecdn.co:8080/live/26725074/92867131/964.ts
+#EXTINF:-1 group-title="PORTUGAL" id="AMC.HD.pt",AMC
+http://user.scalecdn.co:8080/live/26725074/92867131/963.ts
+#EXTINF:-1 group-title="PORTUGAL" id="AMC.HD.pt",AMC HD
+http://user.scalecdn.co:8080/live/26725074/92867131/962.ts
+#EXTINF:-1 group-title="PORTUGAL" id="ARTV.pt",AR TV 'PT
+http://user.scalecdn.co:8080/live/26725074/92867131/961.ts
+#EXTINF:-1 group-title="PORTUGAL" id="AXN.HD.pt",AXN
+http://user.scalecdn.co:8080/live/26725074/92867131/960.ts
+#EXTINF:-1 group-title="PORTUGAL",AXN BLACK
+http://user.scalecdn.co:8080/live/26725074/92867131/959.ts
+#EXTINF:-1 group-title="PORTUGAL",AXN BLACK HD
+http://user.scalecdn.co:8080/live/26725074/92867131/958.ts
+#EXTINF:-1 group-title="PORTUGAL" id="AXN.HD.pt",AXN HD
+http://user.scalecdn.co:8080/live/26725074/92867131/957.ts
+#EXTINF:-1 group-title="PORTUGAL" id="AXN.White.HD.pt",AXN WHITE
+http://user.scalecdn.co:8080/live/26725074/92867131/956.ts
+#EXTINF:-1 group-title="PORTUGAL" id="AXN.White.HD.pt",AXN WHITE HD
+http://user.scalecdn.co:8080/live/26725074/92867131/955.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Baby.TV.pt",BABY TV
+http://user.scalecdn.co:8080/live/26725074/92867131/954.ts
+#EXTINF:-1 group-title="PORTUGAL",Benfica TV
+http://user.scalecdn.co:8080/live/26725074/92867131/640766.ts
+#EXTINF:-1 group-title="PORTUGAL",BENFICA TV 1
+http://user.scalecdn.co:8080/live/26725074/92867131/953.ts
+#EXTINF:-1 group-title="PORTUGAL",BENFICA TV 1 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/952.ts
+#EXTINF:-1 group-title="PORTUGAL",BLAZE HD
+http://user.scalecdn.co:8080/live/26725074/92867131/951.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Canal.11.HD.pt",CANAL 11
+http://user.scalecdn.co:8080/live/26725074/92867131/947.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Canal.11.HD.pt",CANAL 11 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/946.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Canal.Panda.HD.pt",CANAL PANDA
+http://user.scalecdn.co:8080/live/26725074/92867131/942.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Canal.Q.pt",CANAL Q
+http://user.scalecdn.co:8080/live/26725074/92867131/941.ts
+#EXTINF:-1 group-title="PORTUGAL" id="CanÃ§Ã£o.Nova.pt",Cancao Nova
+http://user.scalecdn.co:8080/live/26725074/92867131/940.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Cartoon.Network.HD.pt",CARTOON NETWORK
+http://user.scalecdn.co:8080/live/26725074/92867131/939.ts
+#EXTINF:-1 group-title="PORTUGAL",CAçA E PESCA HD
+http://user.scalecdn.co:8080/live/26725074/92867131/949.ts
+#EXTINF:-1 group-title="PORTUGAL",CAçAVISION
+http://user.scalecdn.co:8080/live/26725074/92867131/948.ts
+#EXTINF:-1 group-title="PORTUGAL",CBS REALITY
+http://user.scalecdn.co:8080/live/26725074/92867131/938.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Cinemundo.pt",CINEMUNDO
+http://user.scalecdn.co:8080/live/26725074/92867131/937.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Cinemundo.pt",CINEMUNDO HD
+http://user.scalecdn.co:8080/live/26725074/92867131/936.ts
+#EXTINF:-1 group-title="PORTUGAL" id="CMTV.HD.pt",CMTV
+http://user.scalecdn.co:8080/live/26725074/92867131/935.ts
+#EXTINF:-1 group-title="PORTUGAL" id="CMTV.HD.pt",CMTV HD
+http://user.scalecdn.co:8080/live/26725074/92867131/934.ts
+#EXTINF:-1 group-title="PORTUGAL",CRIME INVESTIGATION HD
+http://user.scalecdn.co:8080/live/26725074/92867131/932.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Discovery.HD.pt",DISCOVERY CHANNEL
+http://user.scalecdn.co:8080/live/26725074/92867131/931.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Discovery.HD.pt",DISCOVERY CHANNEL HD
+http://user.scalecdn.co:8080/live/26725074/92867131/930.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Disney.Channel.HD.pt",DISNEY CHANNEL
+http://user.scalecdn.co:8080/live/26725074/92867131/929.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Disney.Junior.HD.pt",DISNEY JUNIOR
+http://user.scalecdn.co:8080/live/26725074/92867131/928.ts
+#EXTINF:-1 group-title="PORTUGAL" id="E!.Entertainment.HD.pt",E! ENTERTAINMENT HD
+http://user.scalecdn.co:8080/live/26725074/92867131/927.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.1.pt",ELEVEN SPORTS 1
+http://user.scalecdn.co:8080/live/26725074/92867131/926.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.1.pt",ELEVEN SPORTS 1 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/925.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.2.pt",ELEVEN SPORTS 2
+http://user.scalecdn.co:8080/live/26725074/92867131/924.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.2.pt",ELEVEN SPORTS 2 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/923.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.3.pt",ELEVEN SPORTS 3
+http://user.scalecdn.co:8080/live/26725074/92867131/922.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.3.pt",ELEVEN SPORTS 3 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/921.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.4.pt",ELEVEN SPORTS 4
+http://user.scalecdn.co:8080/live/26725074/92867131/920.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.4.pt",ELEVEN SPORTS 4 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/919.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.5.pt",ELEVEN SPORTS 5
+http://user.scalecdn.co:8080/live/26725074/92867131/918.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.5.pt",ELEVEN SPORTS 5 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/917.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.6.pt",ELEVEN SPORTS 6
+http://user.scalecdn.co:8080/live/26725074/92867131/916.ts
+#EXTINF:-1 group-title="PORTUGAL" id="DAZN.6.pt",ELEVEN SPORTS 6 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/915.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Euronews.pt",EURONEWS
+http://user.scalecdn.co:8080/live/26725074/92867131/913.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Eurosport.1.HD.pt",EUROSPORT 1
+http://user.scalecdn.co:8080/live/26725074/92867131/911.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Eurosport.2.HD.pt",EUROSPORT 2
+http://user.scalecdn.co:8080/live/26725074/92867131/910.ts
+#EXTINF:-1 group-title="PORTUGAL",FASHION TV
+http://user.scalecdn.co:8080/live/26725074/92867131/909.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Star.Channel.HD.pt",STAR
+http://user.scalecdn.co:8080/live/26725074/92867131/907.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Star.Comedy.HD.pt",STAR COMEDY
+http://user.scalecdn.co:8080/live/26725074/92867131/906.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Star.Comedy.HD.pt",STAR COMEDY HD
+http://user.scalecdn.co:8080/live/26725074/92867131/905.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Star.Crime.HD.pt",STAR CRIME
+http://user.scalecdn.co:8080/live/26725074/92867131/904.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Star.Crime.HD.pt",STAR CRIME HD
+http://user.scalecdn.co:8080/live/26725074/92867131/903.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Star.Channel.HD.pt",STAR HD
+http://user.scalecdn.co:8080/live/26725074/92867131/902.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Star.Life.HD.pt",STAR LIFE HD
+http://user.scalecdn.co:8080/live/26725074/92867131/901.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Star.Movies.HD.pt",STAR MOVIES
+http://user.scalecdn.co:8080/live/26725074/92867131/900.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Star.Movies.HD.pt",STAR MOVIES HD
+http://user.scalecdn.co:8080/live/26725074/92867131/899.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Fuel.TV.HD.pt",FUEL TV HD
+http://user.scalecdn.co:8080/live/26725074/92867131/898.ts
+#EXTINF:-1 group-title="PORTUGAL",GLOBO NOW
+http://user.scalecdn.co:8080/live/26725074/92867131/896.ts
+#EXTINF:-1 group-title="PORTUGAL",HISTORIA
+http://user.scalecdn.co:8080/live/26725074/92867131/895.ts
+#EXTINF:-1 group-title="PORTUGAL",HOLLYWOOD
+http://user.scalecdn.co:8080/live/26725074/92867131/894.ts
+#EXTINF:-1 group-title="PORTUGAL",JIMJAM
+http://user.scalecdn.co:8080/live/26725074/92867131/893.ts
+#EXTINF:-1 group-title="PORTUGAL",KOMBAT SPORT
+http://user.scalecdn.co:8080/live/26725074/92867131/892.ts
+#EXTINF:-1 group-title="PORTUGAL",KURIAKOS TV
+http://user.scalecdn.co:8080/live/26725074/92867131/888.ts
+#EXTINF:-1 group-title="PORTUGAL" id="MCM.Pop.pt",MCM POP
+http://user.scalecdn.co:8080/live/26725074/92867131/886.ts
+#EXTINF:-1 group-title="PORTUGAL" id="MCM.Top.pt",MCM TOP
+http://user.scalecdn.co:8080/live/26725074/92867131/885.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Motorvision.HD.pt",MOTORVISION HD
+http://user.scalecdn.co:8080/live/26725074/92867131/884.ts
+#EXTINF:-1 group-title="PORTUGAL" id="MTV.Portugal.HD.pt",MTV HD
+http://user.scalecdn.co:8080/live/26725074/92867131/883.ts
+#EXTINF:-1 group-title="PORTUGAL",MY CUISINE
+http://user.scalecdn.co:8080/live/26725074/92867131/881.ts
+#EXTINF:-1 group-title="PORTUGAL" id="National.Geographic.WILD.HD.pt",NAT GEO WILD HD
+http://user.scalecdn.co:8080/live/26725074/92867131/880.ts
+#EXTINF:-1 group-title="PORTUGAL" id="National.Geographic.HD.pt",NATIONAL GEOGRAPHIC HD
+http://user.scalecdn.co:8080/live/26725074/92867131/879.ts
+#EXTINF:-1 group-title="PORTUGAL",NBA TV HD
+http://user.scalecdn.co:8080/live/26725074/92867131/878.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Nickelodeon.pt",NICKELODEON
+http://user.scalecdn.co:8080/live/26725074/92867131/877.ts
+#EXTINF:-1 group-title="PORTUGAL" id="NOS.Studios.HD.pt",NOS STUDIOS HD
+http://user.scalecdn.co:8080/live/26725074/92867131/876.ts
+#EXTINF:-1 group-title="PORTUGAL" id="ODISSEIA.HD.pt",ODISSEIA HD
+http://user.scalecdn.co:8080/live/26725074/92867131/875.ts
+#EXTINF:-1 group-title="PORTUGAL",OUTDOOR CHANNEL HD
+http://user.scalecdn.co:8080/live/26725074/92867131/874.ts
+#EXTINF:-1 group-title="PORTUGAL",PANDA BIGGS
+http://user.scalecdn.co:8080/live/26725074/92867131/944.ts
+#EXTINF:-1 group-title="PORTUGAL" id="PFC.pt",PFC
+http://user.scalecdn.co:8080/live/26725074/92867131/873.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Porto.Canal.HD.pt",PORTO CANAL HD
+http://user.scalecdn.co:8080/live/26725074/92867131/872.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Real.Madrid.TV.pt",REAL MADRID TV
+http://206.212.244.26:80/live/vasconeves/1742766045/48481.m3u8
+#EXTINF:-1 group-title="PORTUGAL" id="Record.News.pt",RECORD NEWS
+http://user.scalecdn.co:8080/live/26725074/92867131/871.ts
+#EXTINF:-1 group-title="PORTUGAL" id="RTP.1.HD.pt",RTP 1
+http://user.scalecdn.co:8080/live/26725074/92867131/870.ts
+#EXTINF:-1 group-title="PORTUGAL" id="RTP.1.HD.pt" logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/Horizontal-negativo.png",RTP 1 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/869.ts
+#EXTINF:-1 group-title="PORTUGAL" id="RTP.2.HD.pt",RTP 2
+http://user.scalecdn.co:8080/live/26725074/92867131/868.ts
+#EXTINF:-1 group-title="PORTUGAL" id="RTP.3.HD.pt",RTP 3 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/866.ts
+#EXTINF:-1 group-title="PORTUGAL" id="RTP.AÃ§ores.pt",RTP ACORES
+http://user.scalecdn.co:8080/live/26725074/92867131/865.ts
+#EXTINF:-1 group-title="PORTUGAL" id="RTP.Ã_x0081_frica.pt",RTP AFRICA
+http://user.scalecdn.co:8080/live/26725074/92867131/864.ts
+#EXTINF:-1 group-title="PORTUGAL" id="RTP.Madeira.pt" logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg",RTP MADEIRA
+http://user.scalecdn.co:8080/live/26725074/92867131/863.ts
+#EXTINF:-1 group-title="PORTUGAL" id="RTP.MemÃ³ria.pt",RTP MEMORIA
+http://user.scalecdn.co:8080/live/26725074/92867131/862.ts
+#EXTINF:-1 group-title="PORTUGAL" id="(no tvg-id)",SANTUARIO DE FATIMA
+http://user.scalecdn.co:8080/live/26725074/92867131/860.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SIC.HD.pt",SIC
+http://user.scalecdn.co:8080/live/26725074/92867131/859.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SIC.NotÃ­cias.HD.pt",SIC CARAS HD
+http://user.scalecdn.co:8080/live/26725074/92867131/858.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SIC.HD.pt" logo="https://i.pinimg.com/originals/51/a2/b8/51a2b8cad2303c3a8b7e9b6e682ab592.jpg",SIC HD
+http://user.scalecdn.co:8080/live/26725074/92867131/857.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SIC.K.HD.pt",SIC KIDS HD
+http://user.scalecdn.co:8080/live/26725074/92867131/856.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SIC.Mulher.HD.pt",SIC MULHER HD
+http://user.scalecdn.co:8080/live/26725074/92867131/855.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SIC.NotÃ­cias.pt",SIC NOTICIAS
+http://user.scalecdn.co:8080/live/26725074/92867131/854.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SIC.NotÃ­cias.HD.pt",SIC NOTICIAS HD
+http://user.scalecdn.co:8080/live/26725074/92867131/853.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SIC.Radical.HD.pt",SIC RADICAL HD
+http://user.scalecdn.co:8080/live/26725074/92867131/852.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SPORT.TV1.HD.pt",SPORT TV 1
+http://user.scalecdn.co:8080/live/26725074/92867131/849.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SPORT.TV1.HD.pt",SPORT TV 1 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/848.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SPORT.TV2.HD.pt",SPORT TV 2
+http://user.scalecdn.co:8080/live/26725074/92867131/847.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SPORT.TV2.HD.pt",SPORT TV 2 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/846.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SPORT.TV3.HD.pt",SPORT TV 3
+http://user.scalecdn.co:8080/live/26725074/92867131/845.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SPORT.TV3.HD.pt",SPORT TV 3 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/844.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SPORT.TV4.HD.pt",SPORT TV 4
+http://user.scalecdn.co:8080/live/26725074/92867131/843.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SPORT.TV4.HD.pt",SPORT TV 4 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/842.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SPORT.TV5.HD.pt",SPORT TV 5
+http://user.scalecdn.co:8080/live/26725074/92867131/840.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SPORT.TV5.HD.pt",SPORT TV 5 HD
+http://user.scalecdn.co:8080/live/26725074/92867131/839.ts
+#EXTINF:-1 group-title="PORTUGAL" id="SPORT.TV+.HD.pt" logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/logo/sporttvmais/medium.jpg",Sport TV+
+http://user.scalecdn.co:8080/live/26725074/92867131/51139.ts
+#EXTINF:-1 group-title="PORTUGAL",SPORTING TV HD
+http://user.scalecdn.co:8080/live/26725074/92867131/838.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Syfy.HD.pt",SYFY HD
+http://user.scalecdn.co:8080/live/26725074/92867131/836.ts
+#EXTINF:-1 group-title="PORTUGAL" id="TLC.pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
+http://user.scalecdn.co:8080/live/26725074/92867131/834.ts
+#EXTINF:-1 group-title="PORTUGAL",TOROS TV
+http://user.scalecdn.co:8080/live/26725074/92867131/833.ts
+#EXTINF:-1 group-title="PORTUGAL",TPA International
+http://user.scalecdn.co:8080/live/26725074/92867131/832.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Trace.Toca.pt",TRACE TOCA HD
+http://user.scalecdn.co:8080/live/26725074/92867131/831.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Trace.Urban.HD.pt" logo="https://trace.tv/wp-content/uploads/2016/11/logo_urban1.png",Trace Urban
+http://user.scalecdn.co:8080/live/26725074/92867131/51062.ts
+#EXTINF:-1 group-title="PORTUGAL" id="Travel.Channel.HD.pt",TRAVEL CHANNEL HD
+http://user.scalecdn.co:8080/live/26725074/92867131/830.ts
+#EXTINF:-1 group-title="PORTUGAL",TV GLOBO HD
+http://user.scalecdn.co:8080/live/26725074/92867131/828.ts
+#EXTINF:-1 group-title="PORTUGAL",TV RECORD HD
+http://user.scalecdn.co:8080/live/26725074/92867131/827.ts
+#EXTINF:-1 group-title="PORTUGAL",TV SERIES
+http://user.scalecdn.co:8080/live/26725074/92867131/826.ts
+#EXTINF:-1 group-title="PORTUGAL" id="TVCine.ACTION.HD.pt",TVCINE ACTION
+http://user.scalecdn.co:8080/live/26725074/92867131/818.ts
+#EXTINF:-1 group-title="PORTUGAL" id="TVCine.EDITION.HD.pt",TVCINE EDITION
+http://user.scalecdn.co:8080/live/26725074/92867131/822.ts
+#EXTINF:-1 group-title="PORTUGAL" id="TVCine.EDITION.HD.pt",TVCINE EDITION HD
+http://user.scalecdn.co:8080/live/26725074/92867131/821.ts
+#EXTINF:-1 group-title="PORTUGAL" id="TVCine.EMOTION.HD.pt",TVCINE EMOTION
+http://user.scalecdn.co:8080/live/26725074/92867131/820.ts
+#EXTINF:-1 group-title="PORTUGAL" id="TVCine.EMOTION.HD.pt",TVCINE EMOTION HD
+http://user.scalecdn.co:8080/live/26725074/92867131/819.ts
+#EXTINF:-1 group-title="PORTUGAL" id="TVCine.TOP.HD.pt",TVCINE TOP
+http://user.scalecdn.co:8080/live/26725074/92867131/824.ts
+#EXTINF:-1 group-title="PORTUGAL" id="TVCine.TOP.HD.pt",TVCINE TOP HD
+http://user.scalecdn.co:8080/live/26725074/92867131/823.ts
+#EXTINF:-1 group-title="PORTUGAL" id="TVI.HD.pt",TVI
+http://user.scalecdn.co:8080/live/26725074/92867131/816.ts
+#EXTINF:-1 group-title="PORTUGAL",TVI 24
+http://user.scalecdn.co:8080/live/26725074/92867131/815.ts
+#EXTINF:-1 group-title="PORTUGAL" id="tvi.ficcao.pt",TVI FICAO
+http://user.scalecdn.co:8080/live/26725074/92867131/809.ts
+#EXTINF:-1 group-title="PORTUGAL" id="TVI.HD.pt",TVI HD
+http://user.scalecdn.co:8080/live/26725074/92867131/808.ts
+#EXTINF:-1 group-title="PORTUGAL" id="tvi.reality.pt",TVI REALITY
+http://user.scalecdn.co:8080/live/26725074/92867131/807.ts
+#EXTINF:-1 group-title="PORTUGAL",VH1
+http://user.scalecdn.co:8080/live/26725074/92867131/806.ts
+#EXTINF:-1 group-title="PORTUGAL" id="ZAP.Viva.HD.pt",ZAP Viva HD
+http://user.scalecdn.co:8080/live/26725074/92867131/805.ts
