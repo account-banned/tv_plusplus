@@ -293,8 +293,8 @@ http://108.14.66.101:5004/auto/v2.5
 http://108.14.66.101:5004/auto/v4.2
 #EXTINF:-1 group-title="United States" tvg-id="WPIX.New.York.(SUPERSTATION).us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png",CW (WPIX) New York
 http://user.scalecdn.co:8080/live/26725074/92867131/93093.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="CW.(WSFL).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png",CW (WSFL) Miami
-http://user.scalecdn.co:8080/live/26725074/92867131/433867.m3u8
+#EXTINF:-1 group-title="United States" tvg-id="CW.(WBFS).Miami,.FL.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png",CW (WBFS) Miami
+http://user.scalecdn.co:8080/live/26725074/92867131/38327.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png",CW (KCWE) Kansas City
 http://user.scalecdn.co:8080/live/26725074/92867131/629896.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="CW.(KDAF).Dallas,.TX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png",CW (KDAF) Dallas
