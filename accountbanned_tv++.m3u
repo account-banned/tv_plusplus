@@ -7,8 +7,6 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/adult.swim.east.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/amc.canada.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
 https://starlite.best/api/stream/smart/smart/livetv.epg/aptn.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="bnn.bloomberg.ca" tvg-logo="https://media.starlite.best/bnn.bloomberg.ca.png",BNN Bloomberg
-https://starlite.best/api/stream/smart/smart/livetv.epg/bloomberg.tv.canada.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Boomerang.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png",Boomerang
 http://96.45.207.18:8881/channel/3255f3aa/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
@@ -107,8 +105,6 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.ottawa.on.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.vancouver.island.bc.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="deja.view.ca" tvg-logo="https://media.starlite.best/deja.view.ca.png",Deja View
 https://starlite.best/api/stream/smart/smart/livetv.epg/deja.view.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Discovery.Channel.CA.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png",Discovery Canada
-http://zorrohunter.com:80/live/WeaponX/Dawkins22/40727.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png",Disney Channel
 https://starlite.best/api/stream/smart/smart/livetv.epg/disney.channel.canada.east.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://media.starlite.best/disney.junior.canada.ca.png",Disney Jr.
@@ -204,7 +200,7 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/starz1.east.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="STARZ2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-2-ca.png",STARZ 2
 https://starlite.best/api/stream/smart/smart/livetv.epg/starz2.east.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="super.channel.fuse.ca" tvg-logo="https://media.starlite.best/super.channel.fuse.ca.png",Super Channel Fuse
-https://starlite.best/api/stream/smart/smart/livetv.epg/super.channel.fuse.ca.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/59851.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Super.Channel.Heart.and.Home.ca" tvg-logo="https://media.starlite.best/super.channel.heart.home.ca.png",Super Channel Heart & Home
 https://starlite.best/api/stream/smart/smart/livetv.epg/super.channel.heart.home.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="super.channel.vault.ca" tvg-logo="https://media.starlite.best/super.channel.vault.ca.png",Super Channel Vault
@@ -599,3 +595,60 @@ https://tvnow.best/api/stream/smart/smart/livetv.epg/v.ca.m3u8
 https://tvnow.best/api/stream/smart/smart/livetv.epg/z.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png",Zeste
 https://tvnow.best/api/stream/smart/smart/livetv.epg/zeste.ca.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.1.pt",ELEVEN 1 HD
+http://206.212.244.26:80/live/vasconeves/1742766045/48443.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.2.pt",ELEVEN 2 HD
+http://206.212.244.26:80/live/vasconeves/1742766045/48444.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.3.pt",ELEVEN 3 HD
+http://206.212.244.26:80/live/vasconeves/1742766045/48445.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.4.pt",ELEVEN 4 HD
+http://206.212.244.26:80/live/vasconeves/1742766045/48446.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.5.pt",ELEVEN 5 HD
+http://206.212.244.26:80/live/vasconeves/1742766045/48447.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.6.pt",ELEVEN 6 HD
+http://206.212.244.26:80/live/vasconeves/1742766045/48448.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="Eurosport.1.HD.pt",EUROSPORT 1
+http://206.212.244.26:80/live/vasconeves/1742766045/48449.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="Eurosport.2.HD.pt",EUROSPORT 2
+http://206.212.244.26:80/live/vasconeves/1742766045/48450.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="Real.Madrid.TV.pt",REAL MADRID TV
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.1.HD.pt",RTP 1
+http://206.212.244.26:80/live/vasconeves/1742766045/48482.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.2.HD.pt",RTP 2
+http://206.212.244.26:80/live/vasconeves/1742766045/48484.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.3.HD.pt",RTP 3
+http://206.212.244.26:80/live/vasconeves/1742766045/48485.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.AÃ§ores.pt",RTP ACORES
+http://206.212.244.26:80/live/vasconeves/1742766045/48486.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.Internacional.pt",RTP INTERNATIONAL
+http://206.212.244.26:80/live/vasconeves/1742766045/48487.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.Madeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg",RTP MADEIRA
+http://206.212.244.26:80/live/vasconeves/1742766045/48488.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.MemÃ³ria.pt",RTP MEMORIA
+http://206.212.244.26:80/live/vasconeves/1742766045/48489.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.HD.pt",SIC
+http://206.212.244.26:80/live/vasconeves/1742766045/48490.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.NotÃ­cias.HD.pt",SIC CARAS
+http://206.212.244.26:80/live/vasconeves/1742766045/48491.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.Mulher.HD.pt",SIC MULHER
+http://206.212.244.26:80/live/vasconeves/1742766045/48493.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.NotÃ­cias.pt",SIC NOTICIAS
+http://206.212.244.26:80/live/vasconeves/1742766045/48494.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.Radical.HD.pt",SIC RADICAL
+http://206.212.244.26:80/live/vasconeves/1742766045/48495.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV1.HD.pt",SPORT TV 1
+http://206.212.244.26:80/live/vasconeves/1742766045/48496.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV2.HD.pt",SPORT TV 2
+http://206.212.244.26:80/live/vasconeves/1742766045/48497.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV3.HD.pt",SPORT TV 3
+http://206.212.244.26:80/live/vasconeves/1742766045/48498.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV4.HD.pt",SPORT TV 4
+http://206.212.244.26:80/live/vasconeves/1742766045/48499.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV5.HD.pt",SPORT TV 5
+http://206.212.244.26:80/live/vasconeves/1742766045/48500.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV+.HD.pt" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/logo/sporttvmais/medium.jpg",Sport TV+
+http://206.212.244.26:80/live/vasconeves/1742766045/48501.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="Sporting.TV.HD.pt",SPORTING TV
+http://206.212.244.26:80/live/vasconeves/1742766045/48502.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="Syfy.HD.pt",SYFY HD
+http://206.212.244.26:80/live/vasconeves/1742766045/48504.m3u8

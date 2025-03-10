@@ -7,8 +7,6 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/adult.swim.east.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/amc.canada.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
 https://starlite.best/api/stream/smart/smart/livetv.epg/aptn.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="bnn.bloomberg.ca" tvg-logo="https://media.starlite.best/bnn.bloomberg.ca.png",BNN Bloomberg
-https://starlite.best/api/stream/smart/smart/livetv.epg/bloomberg.tv.canada.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Boomerang.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png",Boomerang
 http://96.45.207.18:8881/channel/3255f3aa/index.m3u8?q=1735600584362
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
@@ -107,8 +105,6 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.ottawa.on.ca.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv2.vancouver.island.bc.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="deja.view.ca" tvg-logo="https://media.starlite.best/deja.view.ca.png",Deja View
 https://starlite.best/api/stream/smart/smart/livetv.epg/deja.view.ca.m3u8
-#EXTINF:-1 group-title="Canada (EN)" tvg-id="Discovery.Channel.CA.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png",Discovery Canada
-http://zorrohunter.com:80/live/WeaponX/Dawkins22/40727.ts
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png",Disney Channel
 https://starlite.best/api/stream/smart/smart/livetv.epg/disney.channel.canada.east.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://media.starlite.best/disney.junior.canada.ca.png",Disney Jr.
@@ -204,7 +200,7 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/starz1.east.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="STARZ2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-2-ca.png",STARZ 2
 https://starlite.best/api/stream/smart/smart/livetv.epg/starz2.east.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="super.channel.fuse.ca" tvg-logo="https://media.starlite.best/super.channel.fuse.ca.png",Super Channel Fuse
-https://starlite.best/api/stream/smart/smart/livetv.epg/super.channel.fuse.ca.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/59851.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="Super.Channel.Heart.and.Home.ca" tvg-logo="https://media.starlite.best/super.channel.heart.home.ca.png",Super Channel Heart & Home
 https://starlite.best/api/stream/smart/smart/livetv.epg/super.channel.heart.home.ca.m3u8
 #EXTINF:-1 group-title="Canada (EN)" tvg-id="super.channel.vault.ca" tvg-logo="https://media.starlite.best/super.channel.vault.ca.png",Super Channel Vault
