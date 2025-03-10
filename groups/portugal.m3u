@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Portugal" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1920px-BTV_Red.svg.png",Benfica TV
+http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/1497.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="DAZN.1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 1 HD
 http://206.212.244.26:80/live/vasconeves/1742766045/48443.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="DAZN.2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 2 HD
