@@ -593,62 +593,64 @@ https://tvnow.best/api/stream/smart/smart/livetv.epg/v.ca.m3u8
 https://tvnow.best/api/stream/smart/smart/livetv.epg/z.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png",Zeste
 https://tvnow.best/api/stream/smart/smart/livetv.epg/zeste.ca.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1920px-BTV_Red.svg.png",Benfica TV
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/1497.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="DAZN.1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 1 HD
-http://206.212.244.26:80/live/vasconeves/1742766045/48443.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/925.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="DAZN.2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 2 HD
-http://206.212.244.26:80/live/vasconeves/1742766045/48444.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/923.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="DAZN.3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 3 HD
-http://206.212.244.26:80/live/vasconeves/1742766045/48445.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/921.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="DAZN.4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 4 HD
-http://206.212.244.26:80/live/vasconeves/1742766045/48446.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/919.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="DAZN.5.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 5 HD
-http://206.212.244.26:80/live/vasconeves/1742766045/48447.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/917.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="DAZN.6.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 6 HD
-http://206.212.244.26:80/live/vasconeves/1742766045/48448.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/915.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="Eurosport.1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/eurosport-1-es.png?raw=true",EUROSPORT 1
-http://206.212.244.26:80/live/vasconeves/1742766045/48449.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/911.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="Eurosport.2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/eurosport-2-es.png?raw=true",EUROSPORT 2
-http://206.212.244.26:80/live/vasconeves/1742766045/48450.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="Real.Madrid.TV.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/real-madrid-tv-es.png?raw=true",REAL MADRID TV
+http://user.scalecdn.co:8080/live/26725074/92867131/910.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-1-pt.png",RTP 1
-http://206.212.244.26:80/live/vasconeves/1742766045/48482.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/869.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-2-pt.png",RTP 2
-http://206.212.244.26:80/live/vasconeves/1742766045/48484.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/868.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.3.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-3-pt.png",RTP 3
-http://206.212.244.26:80/live/vasconeves/1742766045/48485.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/866.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.AÃ§ores.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-acores-pt.png",RTP ACORES
-http://206.212.244.26:80/live/vasconeves/1742766045/48486.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="RTP.Internacional.pt",RTP INTERNATIONAL
-http://206.212.244.26:80/live/vasconeves/1742766045/48487.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/865.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.Madeira.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-madeira-pt.png",RTP MADEIRA
-http://206.212.244.26:80/live/vasconeves/1742766045/48488.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/863.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.MemÃ³ria.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-memoria-pt.png",RTP MEMORIA
-http://206.212.244.26:80/live/vasconeves/1742766045/48489.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/862.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sic-pt.png?raw=true",SIC
-http://206.212.244.26:80/live/vasconeves/1742766045/48490.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/857.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.NotÃ­cias.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sic-caras-pt.png?raw=true",SIC CARAS
-http://206.212.244.26:80/live/vasconeves/1742766045/48491.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/858.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.Mulher.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sic-mulher-pt.png?raw=true",SIC MULHER
-http://206.212.244.26:80/live/vasconeves/1742766045/48493.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/855.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.NotÃ­cias.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sic-noticias-pt.png?raw=true",SIC NOTICIAS
-http://206.212.244.26:80/live/vasconeves/1742766045/48494.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/853.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.Radical.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sic-radical-pt.png?raw=true",SIC RADICAL
-http://206.212.244.26:80/live/vasconeves/1742766045/48495.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/852.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",SPORT TV 1
-http://206.212.244.26:80/live/vasconeves/1742766045/48496.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/848.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",SPORT TV 2
-http://206.212.244.26:80/live/vasconeves/1742766045/48497.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/846.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true",SPORT TV 3
-http://206.212.244.26:80/live/vasconeves/1742766045/48498.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/844.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true",SPORT TV 4
-http://206.212.244.26:80/live/vasconeves/1742766045/48499.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/842.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true",SPORT TV 5
-http://206.212.244.26:80/live/vasconeves/1742766045/48500.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/839.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV+.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-mais-pt.png?raw=true",Sport TV+
-http://206.212.244.26:80/live/vasconeves/1742766045/48501.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/51139.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="Sporting.TV.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sporting-tv-pt.png?raw=true",SPORTING TV
-http://206.212.244.26:80/live/vasconeves/1742766045/48502.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/838.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="Syfy.HD.pt" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png",SYFY
-http://206.212.244.26:80/live/vasconeves/1742766045/48504.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/836.ts
+#EXTINF:-1 group-title="Portugal" tvg-id="Motorvision.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/motorvision-tv-rs.png?raw=true",MOTORVISION
+http://user.scalecdn.co:8080/live/26725074/92867131/884.ts
+#EXTINF:-1 group-title="Portugal" tvg-id="Euronews.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/euro-news-ca.png?raw=true",EURONEWS
+http://user.scalecdn.co:8080/live/26725074/92867131/913.ts
+#EXTINF:-1 group-title="Portugal" tvg-id="AMC.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/amc-pt.png?raw=true",AMC
+http://user.scalecdn.co:8080/live/26725074/92867131/962.ts
+#EXTINF:-1 tvg-logo="`",nan
