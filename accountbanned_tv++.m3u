@@ -593,35 +593,35 @@ https://tvnow.best/api/stream/smart/smart/livetv.epg/v.ca.m3u8
 https://tvnow.best/api/stream/smart/smart/livetv.epg/z.ca.m3u8
 #EXTINF:-1 group-title="Canada (FR)" tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png",Zeste
 https://tvnow.best/api/stream/smart/smart/livetv.epg/zeste.ca.m3u8
-#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="24kitchen.pt" tvg-logo="https://media.starlite.best/24kitchen.pt.png" group-title="Portuguese",24kitchen.pt
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="24kitchen.pt" tvg-logo="https://media.starlite.best/24kitchen.pt.png" group-title="Portuguese",24kitchen
 https://starlite.best/api/stream/smart/smart/livetv.epg/24kitchen.pt.m3u8
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="axn.pt" tvg-logo="https://media.starlite.best/axn.pt.png" group-title="Portuguese",axn.pt
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="axn.pt" tvg-logo="https://media.starlite.best/axn.pt.png" group-title="Portuguese",AXN
 https://starlite.best/api/stream/smart/smart/livetv.epg/axn.pt.m3u8
-#EXTINF:-1 tvg-id="benfica.pt" tvg-name="benfica.pt" tvg-logo="https://media.starlite.best/benfica.pt.png" group-title="Portuguese",benfica.pt
+#EXTINF:-1 tvg-id="benfica.pt" tvg-name="benfica.pt" tvg-logo="https://media.starlite.best/benfica.pt.png" group-title="Portuguese",Benfica
 https://starlite.best/api/stream/smart/smart/livetv.epg/benfica.pt.m3u8
-#EXTINF:-1 tvg-id="bola.tv.pt" tvg-name="bola.tv.pt" tvg-logo="https://media.starlite.best/bola.tv.pt.png" group-title="Portuguese",bola.tv.pt
+#EXTINF:-1 tvg-id="bola.tv.pt" tvg-name="bola.tv.pt" tvg-logo="https://media.starlite.best/bola.tv.pt.png" group-title="Portuguese",Bola TV
 https://starlite.best/api/stream/smart/smart/livetv.epg/bola.tv.pt.m3u8
-#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="canal.11.pt" tvg-logo="https://media.starlite.best/canal.11.pt.png" group-title="Portuguese",canal.11.pt
+#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="canal.11.pt" tvg-logo="https://media.starlite.best/canal.11.pt.png" group-title="Portuguese",Canal 11
 https://starlite.best/api/stream/smart/smart/livetv.epg/canal.11.pt.m3u8
-#EXTINF:-1 tvg-id="canal.hollywood.pt" tvg-name="canal.hollywood.pt" tvg-logo="https://media.starlite.best/canal.hollywood.pt.png" group-title="Portuguese",canal.hollywood.pt
+#EXTINF:-1 tvg-id="canal.hollywood.pt" tvg-name="canal.hollywood.pt" tvg-logo="https://media.starlite.best/canal.hollywood.pt.png" group-title="Portuguese",Canal Hollywood
 https://starlite.best/api/stream/smart/smart/livetv.epg/canal.hollywood.pt.m3u8
-#EXTINF:-1 tvg-id="canal.panda.pt" tvg-name="canal.panda.pt" tvg-logo="https://media.starlite.best/canal.panda.pt.png" group-title="Portuguese",canal.panda.pt
+#EXTINF:-1 tvg-id="canal.panda.pt" tvg-name="canal.panda.pt" tvg-logo="https://media.starlite.best/canal.panda.pt.png" group-title="Portuguese",Canal Panda
 https://starlite.best/api/stream/smart/smart/livetv.epg/canal.panda.pt.m3u8
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="cmtv.pt" tvg-logo="https://media.starlite.best/cmtv.pt.png" group-title="Portuguese",cmtv.pt
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="cmtv.pt" tvg-logo="https://media.starlite.best/cmtv.pt.png" group-title="Portuguese",CMTV
 https://starlite.best/api/stream/smart/smart/livetv.epg/cmtv.pt.m3u8
-#EXTINF:-1 tvg-id="e.entertainment.pt" tvg-name="e.entertainment.pt" tvg-logo="https://media.starlite.best/e.entertainment.pt.png" group-title="Portuguese",e.entertainment.pt
+#EXTINF:-1 tvg-id="e.entertainment.pt" tvg-name="e.entertainment.pt" tvg-logo="https://media.starlite.best/e.entertainment.pt.png" group-title="Portuguese",E Entertainment
 https://starlite.best/api/stream/smart/smart/livetv.epg/e.entertainment.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="eleven.sports.1.pt" tvg-logo="https://media.starlite.best/eleven.sports.1.pt.png" group-title="Portuguese",eleven.sports.1.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 1 HD
 https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.1.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="eleven.sports.2.pt" tvg-logo="https://media.starlite.best/eleven.sports.2.pt.png" group-title="Portuguese",eleven.sports.2.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 2 HD
 https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.2.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="eleven.sports.3.pt" tvg-logo="https://media.starlite.best/eleven.sports.3.pt.png" group-title="Portuguese",eleven.sports.3.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 3 HD
 https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.3.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="eleven.sports.4.pt" tvg-logo="https://media.starlite.best/eleven.sports.4.pt.png" group-title="Portuguese",eleven.sports.4.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 4 HD
 https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.4.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="eleven.sports.5.pt" tvg-logo="https://media.starlite.best/eleven.sports.5.pt.png" group-title="Portuguese",eleven.sports.5.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.5.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 5 HD
 https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.5.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="eleven.sports.6.pt" tvg-logo="https://media.starlite.best/eleven.sports.6.pt.png" group-title="Portuguese",eleven.sports.6.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.6.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 6 HD
 https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.6.pt.m3u8
 #EXTINF:-1 tvg-id="ficcao.pt" tvg-name="ficcao.pt" tvg-logo="https://media.starlite.best/ficcao.pt.png" group-title="Portuguese",ficcao.pt
 https://starlite.best/api/stream/smart/smart/livetv.epg/ficcao.pt.m3u8
@@ -641,13 +641,13 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/nick.jr.pt.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/nickelodeon.pt.m3u8
 #EXTINF:-1 tvg-id="porto.canal.pt" tvg-name="porto.canal.pt" tvg-logo="https://media.starlite.best/porto.canal.pt.png" group-title="Portuguese",porto.canal.pt
 https://starlite.best/api/stream/smart/smart/livetv.epg/porto.canal.pt.m3u8
-#EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="rtp.1.pt" tvg-logo="https://media.starlite.best/rtp.1.pt.png" group-title="Portuguese",rtp.1.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-1-pt.png",RTP 1
 https://starlite.best/api/stream/smart/smart/livetv.epg/rtp.1.pt.m3u8
-#EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="rtp.2.pt" tvg-logo="https://media.starlite.best/rtp.2.pt.png" group-title="Portuguese",rtp.2.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-2-pt.png",RTP 2
 https://starlite.best/api/stream/smart/smart/livetv.epg/rtp.2.pt.m3u8
-#EXTINF:-1 tvg-id="rtp.3.pt" tvg-name="rtp.3.pt" tvg-logo="https://media.starlite.best/rtp.3.pt.png" group-title="Portuguese",rtp.3.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.3.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-3-pt.png",RTP 3
 https://starlite.best/api/stream/smart/smart/livetv.epg/rtp.3.pt.m3u8
-#EXTINF:-1 tvg-id="rtp.acores.pt" tvg-name="rtp.acores.pt" tvg-logo="https://media.starlite.best/rtp.acores.pt.png" group-title="Portuguese",rtp.acores.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.AÃ§ores.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-acores-pt.png",RTP ACORES
 https://starlite.best/api/stream/smart/smart/livetv.epg/rtp.acores.pt.m3u8
 #EXTINF:-1 tvg-id="rtp.inter.pt" tvg-name="rtp.inter.pt" tvg-logo="https://media.starlite.best/rtp.inter.pt.png" group-title="Portuguese",rtp.inter.pt
 https://starlite.best/api/stream/smart/smart/livetv.epg/rtp.inter.pt.m3u8
@@ -655,21 +655,21 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/rtp.inter.pt.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/sic.caras.pt.m3u8
 #EXTINF:-1 tvg-id="sic.k.pt" tvg-name="sic.k.pt" tvg-logo="https://media.starlite.best/sic.k.pt.png" group-title="Portuguese",sic.k.pt
 https://starlite.best/api/stream/smart/smart/livetv.epg/sic.k.pt.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="sic.pt" tvg-logo="https://media.starlite.best/sic.pt.png" group-title="Portuguese",sic.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-pt.png",SIC
 https://starlite.best/api/stream/smart/smart/livetv.epg/sic.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="sport.tv1.pt" tvg-logo="https://media.starlite.best/sport.tv1.pt.png" group-title="Portuguese",sport.tv1.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",SPORT TV 1
 https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv1.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="sport.tv2.pt" tvg-logo="https://media.starlite.best/sport.tv2.pt.png" group-title="Portuguese",sport.tv2.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",SPORT TV 2
 https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv2.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="sport.tv3.pt" tvg-logo="https://media.starlite.best/sport.tv3.pt.png" group-title="Portuguese",sport.tv3.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true",SPORT TV 3
 https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv3.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="sport.tv4.pt" tvg-logo="https://media.starlite.best/sport.tv4.pt.png" group-title="Portuguese",sport.tv4.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true",SPORT TV 4
 https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv4.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="sport.tv5.pt" tvg-logo="https://media.starlite.best/sport.tv5.pt.png" group-title="Portuguese",sport.tv5.pt
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true",SPORT TV 5
 https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv5.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv6.pt" tvg-name="sport.tv6.pt" tvg-logo="https://media.starlite.best/sport.tv6.pt.png" group-title="Portuguese",sport.tv6.pt
+#EXTINF:-1 tvg-id="sport.tv6.pt" tvg-name="sport.tv6.pt" tvg-logo="https://media.starlite.best/sport.tv6.pt.png" group-title="Portuguese",SPORT TV 6
 https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv6.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv.pt" tvg-name="sport.tv.pt" tvg-logo="https://media.starlite.best/sport.tv.pt.png" group-title="Portuguese",sport.tv.pt
+#EXTINF:-1 tvg-id="sport.tv.pt" tvg-name="sport.tv.pt" tvg-logo="https://media.starlite.best/sport.tv.pt.png" group-title="Portuguese",SPORT TV
 https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv.pt.m3u8
 #EXTINF:-1 tvg-id="syfy.pt" tvg-name="syfy.pt" tvg-logo="https://media.starlite.best/syfy.pt.png" group-title="Portuguese",syfy.pt
 https://starlite.best/api/stream/smart/smart/livetv.epg/syfy.pt.m3u8
@@ -685,4 +685,3 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/tvi.24.pt.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/tvi.pt.m3u8
 #EXTINF:-1 tvg-id="tvi.reality.pt" tvg-name="tvi.reality.pt" tvg-logo="https://media.starlite.best/tvi.reality.pt.png" group-title="Portuguese",tvi.reality.pt
 https://starlite.best/api/stream/smart/smart/livetv.epg/tvi.reality.pt.m3u8
-
