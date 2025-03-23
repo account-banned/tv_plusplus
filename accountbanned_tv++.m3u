@@ -669,7 +669,7 @@ https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv4.pt.m3u8
 https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv5.pt.m3u8
 #EXTINF:-1 tvg-id="sport.tv6.pt" tvg-name="sport.tv6.pt" tvg-logo="https://media.starlite.best/sport.tv6.pt.png" group-title="Portugal",SPORT TV 6
 https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv6.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv.pt" tvg-name="sport.tv.pt" tvg-logo="https://media.starlite.best/sport.tv.pt.png" group-title="Portugal",SPORT TV
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-name="sport.tv.pt" tvg-logo="https://media.starlite.best/sport.tv.pt.png" group-title="Portugal",SPORT TV+
 https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv.pt.m3u8
 #EXTINF:-1 tvg-id="syfy.pt" tvg-name="syfy.pt" tvg-logo="https://media.starlite.best/syfy.pt.png" group-title="Portugal",syfy.pt
 https://starlite.best/api/stream/smart/smart/livetv.epg/syfy.pt.m3u8
