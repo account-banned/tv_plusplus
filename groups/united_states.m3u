@@ -32,7 +32,7 @@ http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17610_h15_af.png",Bravo (US)
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png",Cartoon Network (East)
-https://starlite.best/api/stream/smart/smart/livetv.epg/cartoon.network.usa.eastern.us.m3u8
+https://starlite.best/api/stream/burns/burns/livetv.epg/cartoon.network.usa.eastern.us.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Cartoon.Network.USA.-.Pacific.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png",Cartoon Network (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/2653.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28711_h15_ab.png",CBS (WCBS) New York

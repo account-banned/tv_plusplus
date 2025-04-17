@@ -13,6 +13,8 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3142.m3u8
 https://a1xs.vip/40000021
 #EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.2.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s33178_h15_ab.png",FS2
 https://a1xs.vip/40000022
+#EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.Racing.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/fox-sports-racing-ca.png?raw=true",Fox Sports Racing
+http://user.scalecdn.co:8080/live/26725074/92867131/3053.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png",Sportsnet 360
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228742.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png",Sportsnet East
@@ -37,31 +39,27 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3672.m3u8
 http://user.scalecdn.co:8080/live/26725074/92867131/509728.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NHL-TorontoMapleLeafs.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nhl-network-us.png",NHL Toronto Maple Leafs
 http://user.scalecdn.co:8080/live/26725074/92867131/509731.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.Canada.ca" tvg-logo="https://media.starlite.best/nba.tv.usa.us.png",NBA TV (CA)
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228720.ts
 #EXTINF:-1 group-title="Sports" tvg-id="nba.tv.usa.us" tvg-logo="https://media.starlite.best/nba.tv.usa.us.png",NBA TV (US)
-https://starlite.best/api/stream/smart/smart/livetv.epg/nba.tv.usa.us.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="nfl.network.alt.canadian.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/leagues/nfl-us.png",NFL Network (CA)
-https://starlite.best/api/stream/smart/smart/livetv.epg/nfl.network.alt.canadian.ca.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/2470.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="nfl.network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/leagues/nfl-us.png",NFL Network (US)
-https://starlite.best/api/stream/smart/smart/livetv.epg/nfl.network.us.m3u8
+http://jmrk.xyz:3050/live/dandre.ross@icloud.com/sues3Fkfy8/237120.ts
 #EXTINF:-1 group-title="Sports" tvg-id="mlb.network.us" tvg-logo="https://media.starlite.best/mlb.network.us.png",MLB Network
 http://user.scalecdn.co:8080/live/26725074/92867131/3661.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="msg.us" tvg-logo="https://media.starlite.best/msg.us.png",MSG
-https://starlite.best/api/stream/smart/smart/livetv.epg/msg.us.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/4435.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="msg.plus.us" tvg-logo="https://media.starlite.best/msg.plus.us.png",MSG Plus
-https://starlite.best/api/stream/smart/smart/livetv.epg/msg.plus.us.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/4434.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="msg.2.us" tvg-logo="https://media.starlite.best/msg.2.us.png",MSG 2
-https://starlite.best/api/stream/smart/smart/livetv.epg/msg.2.us.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/4433.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="fight.network.canada.ca" tvg-logo="https://media.starlite.best/fight.network.canada.ca.png",Fight Network
-https://starlite.best/api/stream/smart/smart/livetv.epg/fight.network.canada.ca.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/81589.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="rds.rseau.des.sports.ca" tvg-logo="https://media.starlite.best/rds.rseau.des.sports.ca.png",RDS
-https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.rseau.des.sports.ca.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/59870.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="rds.2.ca" tvg-logo="https://media.starlite.best/rds.2.ca.png",RDS 2
-https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.2.ca.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/3233.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="rds.info.ca" tvg-logo="https://media.starlite.best/rds.info.ca.png",RDS Info
-https://tvnow.best/api/stream/smart/smart/livetv.epg/rds.info.ca.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/3234.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="tva.sports.ca" tvg-logo="https://media.starlite.best/tva.sports.ca.png",TVA Sports
-https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.sports.ca.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/3180.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="tva.sports.2.ca" tvg-logo="https://media.starlite.best/tva.sports.2.ca.png",TVA Sports 2
-https://tvnow.best/api/stream/smart/smart/livetv.epg/tva.sports.2.ca.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/3179.m3u8
