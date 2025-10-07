@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 Group-title="Canada" tvg-id="Bravo.ca2nada.ca2" tvg-logo="https://media.starlite.best/bravo.canada.ca.png",Bravo
+#EXTINF:-1 Group-title="Canada" tvg-id="Bravo.canada.ca2" tvg-logo="https://media.starlite.best/bravo.canada.ca.png",Bravo
 http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
 #EXTINF:-1 Group-title="Canada" tvg-id="Cartoon.Network.Canada.ca2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
 http://38.143.48.212:9981/stream/channelid/1520310405?profile=pass
