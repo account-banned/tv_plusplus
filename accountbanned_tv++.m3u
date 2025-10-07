@@ -213,23 +213,24 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22549.m3u8
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48999.m3u8
 #EXTINF:-1 Group-title="United States" tvg-id="WNBC-DT.us_locals1 " tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png",NBC (WNBC)
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/49000.m3u8
-#EXTINF:-1 Group-title="United States" tvg-id="TBS.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS
+#EXTINF:-1 Group-title="United States" tvg-id="TBS.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 Group-title="United States" tvg-id="TBS.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS West
+#EXTINF:-1 Group-title="United States" tvg-id="TBS.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="TLC.HD.(US).us2 " tvg-logo="https://tlgrm.re/images/tlc-us.png",TLC
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15969.m3u8
 #EXTINF:-1 Group-title="United States" tvg-id="Turner.Classic.Movies.HD.us2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 Group-title="United States" tvg-id="TNT.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT
+#EXTINF:-1 Group-title="United States" tvg-id="TNT.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 Group-title="United States" tvg-id="TNT.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT West
+#EXTINF:-1 Group-title="United States" tvg-id="TNT.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 Group-title="United States" tvg-id="truTV.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV
+#EXTINF:-1 Group-title="United States" tvg-id="truTV.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 Group-title="United States" tvg-id="truTV.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV West
+#EXTINF:-1 Group-title="United States" tvg-id="truTV.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 Group-title="United States" tvg-id="TV.Land.HD.us2 " tvg-logo="https://tlgrm.re/images/tv-land-us.png",TV Land
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23241.m3u8
 #EXTINF:-1 Group-title="United States" tvg-id="USA.Network.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",USA Network
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15905.m3u8
-#EXTINF:-1 Group-title="United States" tvg-id="TLC.HD.(US).us2 " tvg-logo="https://tlgrm.re/images/tlc-us.png",TLC
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15969.m3u8
+
