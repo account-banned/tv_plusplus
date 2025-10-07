@@ -67,7 +67,7 @@ http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40697.ts
 #EXTINF:-1 Group-title="Canada" tvg-id="HBO.Canada.1.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40696.ts
-#EXTINF:-1 Group-title="Canada" tvg-id="Home.and.Garden.Television.ca2" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png",HGTV`
+#EXTINF:-1 Group-title="Canada" tvg-id="Home.and.Garden.Television.ca2" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png",HGTV
 http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
 #EXTINF:-1 Group-title="Canada" tvg-id="History.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png",History
 http://38.143.48.212:9981/stream/channelid/399303638?profile=pass
