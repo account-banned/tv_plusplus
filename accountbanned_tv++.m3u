@@ -41,7 +41,7 @@ http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
 http://38.143.48.212:9981/stream/channelid/587702128?profile=pass
 #EXTINF:-1 Group-title="Canada" tvg-id="CTV.Wild.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png",CTV Wild
 http://38.143.48.212:9981/stream/channelid/2101272479?profile=pass
-#EXTINF:-1 Group-title="Canada" tvg-id="CTV.Toronto.HD.ca2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CA - CTV TORONTO
+#EXTINF:-1 Group-title="Canada" tvg-id="CTV.Toronto.HD.ca2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV TORONTO
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40733.m3u8
 #EXTINF:-1 Group-title="Canada" tvg-id="CTV.Winnipeg.ca2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Winnipeg (CKY)
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
