@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 Group-title="United States" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15966.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="WABC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC (WABC)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48996.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="AdultSwim.com.Cartoon.Network.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png",Adult Swim (5PM-6AM ONLY)
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="AdultSwim.com.Cartoon.Network.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png",Adult Swim West (8PM-9AM ONLY)
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="Antenna.TV.us2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png",Antenna TV
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23228.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="WCBS-DT.us_locals1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png",CBS (WCBS)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48997.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="CMT.HD.us2 " tvg-logo="https://media.starlite.best/cmt.canada.ca.png",CMT
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23341.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="WPIX-DT.us_locals1 " tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75",CW (WPIX)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48998.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="Discovery.Channel.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/blob/main/countries/spain/discovery-channel-es.png",Discovery (US)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22549.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="WNYW-DT.us_locals1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png",FOX (WNYW)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48999.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="WNBC-DT.us_locals1 " tvg-logo="https://static.tvtropes.orghttps://raw.githubusercontent.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-us.png?",NBC (WNBC)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/49000.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="TBS.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="TBS.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="TLC.HD.(US).us2 " tvg-logo="https://tlgrm.re/images/tlc-us.png",TLC
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15969.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="Turner.Classic.Movies.HD.us2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",TCM
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="TNT.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="TNT.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="truTV.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="truTV.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="TV.Land.HD.us2 " tvg-logo="https://tlgrm.re/images/tv-land-us.png",TV Land
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23241.m3u8
+#EXTINF:-1 Group-title="United States" tvg-id="USA.Network.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",USA Network
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15905.m3u8

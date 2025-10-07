@@ -67,7 +67,7 @@ http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40697.ts
 #EXTINF:-1 Group-title="Canada" tvg-id="HBO.Canada.1.HD.ca2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40696.ts
-#EXTINF:-1 Group-title="Canada" tvg-id="Home.and.Garden.Television.ca2 " tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png",HGTV
+#EXTINF:-1 Group-title="Canada" tvg-id="Home.and.Garden.Television.ca2 " tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png",HGTV`
 http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
 #EXTINF:-1 Group-title="Canada" tvg-id="History.ca2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png",History
 http://38.143.48.212:9981/stream/channelid/399303638?profile=pass
@@ -147,11 +147,11 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22526.m3u8
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22525.m3u8
 #EXTINF:-1 Group-title="Sports" tvg-id="Fox.Sports.Racing.ca2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/fox-sports-racing-ca.png",Fox Sports Racing
 http://speccy.pw:8080/live/111111/111111/316980.ts
-#EXTINF:-1 Group-title="Sports" tvg-id="NHL-MontrealCanadiens.us ",NHL – Montreal Canadiens
+#EXTINF:-1 Group-title="Sports" tvg-id="NHL-MontrealCanadiens.us " tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/mtl.png",NHL – Montreal Canadiens
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48400.m3u8
-#EXTINF:-1 Group-title="Sports" tvg-id="NHL-TorontoMapleLeafs.us ",NHL – Toronto Maple Leafs
+#EXTINF:-1 Group-title="Sports" tvg-id="NHL-TorontoMapleLeafs.us " tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500-dark/tor.png",NHL – Toronto Maple Leafs
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48412.m3u8
-#EXTINF:-1 Group-title="Sports" tvg-id="NHL.Network.HD.us2 ",NHL Network
+#EXTINF:-1 Group-title="Sports" tvg-id="NHL.Network.HD.us2 " tvg-logo="http://dshm.tmsimg.com/assets/s58690_ll_h15_ac.png?w=360&amp;h=270",NHL Network
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15941.m3u8
 #EXTINF:-1 Group-title="Sports" tvg-id="Sportsnet.360.HD.ca2 " tvg-logo="https://media.starlite.best/sportsnet.360.ca.png",Sportsnet 360
 http://38.143.48.212:9981/stream/channelid/1618628267?profile=pass
