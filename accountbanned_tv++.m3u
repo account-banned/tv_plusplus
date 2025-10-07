@@ -11,7 +11,7 @@ http://38.143.48.212:9981/stream/channelid/677345170?profile=pass
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40758.ts
 #EXTINF:-1 Group-title="Canada" tvg-id="CHCH-DT.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png",CHCH
 http://38.143.48.212:9981/stream/channelid/834583504?profile=pass
-#EXTINF:-1 Group-title="Canada" tvg-id="Citytv.Toronto.HD.ca2" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png",CityTV
+#EXTINF:-1 Group-title="Canada" tvg-id="Citytv.Toronto.HD.ca2" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png",CityTV Toronto (CITY)
 http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
 #EXTINF:-1 Group-title="Canada" tvg-id="Country.Music.Television.(CMT).ca2" tvg-logo="https://media.starlite.best/cmt.canada.ca.png",CMT
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40750.ts
