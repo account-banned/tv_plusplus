@@ -1,0 +1,46 @@
+#EXTM3U
+
+# Canada
+#EXTINF:-1 group-title="Same ID" tvg-id="FX.HD.ca2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX Canada (East)
+http://38.143.48.212:9981/stream/channelid/1924145856?profile=pass
+#EXTINF:-1 group-title="Same ID" tvg-id="FX.HD.ca2" tvg-shift="+3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX Canada (West)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112883.ts
+#EXTINF:-1 group-title="Same ID" tvg-id="FXX.Canada.ca2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png",FXX Canada (East)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/107494.ts
+#EXTINF:-1 group-title="Same ID" tvg-id="FXX.Canada.ca2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png",FXX Canada (West)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112885.tsusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png",HBO
+#EXTINF:-1 group-title="Same ID" tvg-id="HBO.Canada.1.HD.ca2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png",HBO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40697.ts
+#EXTINF:-1 group-title="Same ID" tvg-id="HBO.Canada.1.HD.ca2" tvg-shift="+3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40696.ts
+#EXTINF:-1 group-title="Same ID" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png",Adult Swim (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 group-title="Same ID" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-shift="+3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png",Adult Swim (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 group-title="Same ID" tvg-id="TBS.HD.us2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Same ID" tvg-id="TBS.HD.us2" tvg-shift="+3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Same ID" tvg-id="TNT.HD.us2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Same ID" tvg-id="TNT.HD.us2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Same ID" tvg-id="truTV.HD.us2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Same ID" tvg-id="truTV.HD.us2" tvg-shift="+3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+
+# East and West tvg-ids
+#EXTINF:-1 group-title="Unique ID" tvg-id="TBS.HD.us2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Unique ID" tvg-id="TBS.HD.(Pacific).us2" tvg-shift="+3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Unique ID" tvg-id="TNT.HD.us2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Unique ID" tvg-id="TNT.HD.(Pacific).us2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Unique ID" tvg-id="truTV.HD.us2" tvg-shift="+0" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Unique ID" tvg-id="truTV.HD.(Pacific).us2" tvg-shift="+3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
