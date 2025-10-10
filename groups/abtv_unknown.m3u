@@ -1,6 +1,4 @@
 #EXTM3U
-
-# Canada
 #EXTINF:-1 group-title="Canada" tvg-id="Bravo.canada.ca2" tvg-logo="https://media.starlite.best/bravo.canada.ca.png",Bravo
 http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="Cartoon.Network.Canada.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
@@ -95,8 +93,6 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40718.ts
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40717.ts
 #EXTINF:-1 group-title="Canada" tvg-id="USA.Network.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network Canada
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112754.ts
-
-# United States
 #EXTINF:-1 group-title="United States" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png",A&E
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15966.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="WABC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC (WABC)
@@ -139,8 +135,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_356
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23241.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="USA.Network.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",USA Network
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15905.m3u8
-
-# Sports
 #EXTINF:-1 group-title="Sports" tvg-id="FS1.HD.us2 " tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png",Fox Sports 1
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22526.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="FS2.HD.us2 " tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_2.png",Fox Sports 2
@@ -169,9 +163,7 @@ http://38.143.48.212:9981/stream/channelid/139110812?profile=pass
 http://38.143.48.212:9981/stream/channelid/1776294404?profile=pass
 #EXTINF:-1 group-title="Sports" tvg-id="TSN.5.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN 5
 http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
-
-# Portugal
-#EXTINF:-1 group-title="Portugal" tvg-id="BenficaTV.pt" tvg-logo="https://fanc.tmsimg.com/assets/s68191_ll_h3_aa.png",BENFICA TV 
+#EXTINF:-1 group-title="Portugal" tvg-id="BenficaTV.pt" tvg-logo="https://fanc.tmsimg.com/assets/s68191_ll_h3_aa.png",BENFICA TV
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48427.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="DAZN.1.pt" tvg-logo="https://tlgrm.re/images/eleven-sports-1-pt.png",ELEVEN 1
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48443.m3u8
@@ -243,4 +235,3 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48502.m3u8
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48503.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="SyFy.pt" tvg-logo="https://www.lyngsat.com//logo/tv/ss/syfy_us_global.png",SYFY
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48504.m3u8
-
