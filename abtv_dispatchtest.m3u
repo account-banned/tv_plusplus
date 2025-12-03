@@ -1,0 +1,277 @@
+#EXTM3U x-tvg-url="http://192.168.1.94:9191/output/epg" url-tvg="http://192.168.1.94:9191/output/epg"
+#EXTINF:-1 tvg-id="101" tvg-name="CARTOON NETWORK" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1842/cache/" tvg-chno="101" group-title="Canada",CARTOON NETWORK
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40763.ts
+#EXTINF:-1 tvg-id="102" tvg-name="CBC CALGARY" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1844/cache/" tvg-chno="102" group-title="Canada",CBC CALGARY
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40579.ts
+#EXTINF:-1 tvg-id="103" tvg-name="CBC HALIFAX" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1845/cache/" tvg-chno="103" group-title="Canada",CBC HALIFAX
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40570.ts
+#EXTINF:-1 tvg-id="104" tvg-name="CBC MONTREAL" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1846/cache/" tvg-chno="104" group-title="Canada",CBC MONTREAL
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40761.ts
+#EXTINF:-1 tvg-id="105" tvg-name="CBC OTTAWA" tvg-logo="http://192.168.1.94:9191/api/channels/logos/8/cache/" tvg-chno="105" group-title="Canada",CBC OTTAWA
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40759.ts
+#EXTINF:-1 tvg-id="106" tvg-name="CBC TORONTO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1849/cache/" tvg-chno="106" group-title="Canada",CBC TORONTO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40758.ts
+#EXTINF:-1 tvg-id="107" tvg-name="CBC VANCOUVER" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1850/cache/" tvg-chno="107" group-title="Canada",CBC VANCOUVER
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40757.ts
+#EXTINF:-1 tvg-id="108" tvg-name="CHCH" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1853/cache/" tvg-chno="108" group-title="Canada",CHCH
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40754.ts
+#EXTINF:-1 tvg-id="109" tvg-name="CITY CALGARY" tvg-logo="http://192.168.1.94:9191/api/channels/logos/26/cache/" tvg-chno="109" group-title="Canada",CITY CALGARY
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40578.ts
+#EXTINF:-1 tvg-id="110" tvg-name="CITY MONTREAL" tvg-logo="http://192.168.1.94:9191/api/channels/logos/26/cache/" tvg-chno="110" group-title="Canada",CITY MONTREAL
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40598.ts
+#EXTINF:-1 tvg-id="111" tvg-name="CITY TORONTO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/26/cache/" tvg-chno="111" group-title="Canada",CITY TORONTO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40752.ts
+#EXTINF:-1 tvg-id="112" tvg-name="CITY VANCOUVER" tvg-logo="http://192.168.1.94:9191/api/channels/logos/26/cache/" tvg-chno="112" group-title="Canada",CITY VANCOUVER
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40751.ts
+#EXTINF:-1 tvg-id="113" tvg-name="CMT" tvg-logo="http://192.168.1.94:9191/api/channels/logos/385/cache/" tvg-chno="113" group-title="Canada",CMT
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40750.ts
+#EXTINF:-1 tvg-id="114" tvg-name="CP24" tvg-logo="http://192.168.1.94:9191/api/channels/logos/14/cache/" tvg-chno="114" group-title="Canada",CP24
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40740.ts
+#EXTINF:-1 tvg-id="115" tvg-name="CRAVE 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1869/cache/" tvg-chno="115" group-title="Canada",CRAVE 1
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40656.ts
+#EXTINF:-1 tvg-id="116" tvg-name="CRAVE 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1870/cache/" tvg-chno="116" group-title="Canada",CRAVE 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40655.ts
+#EXTINF:-1 tvg-id="117" tvg-name="CRAVE 3" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1871/cache/" tvg-chno="117" group-title="Canada",CRAVE 3
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40654.ts
+#EXTINF:-1 tvg-id="118" tvg-name="CRAVE 4" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1872/cache/" tvg-chno="118" group-title="Canada",CRAVE 4
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40653.ts
+#EXTINF:-1 tvg-id="119" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1873/cache/" tvg-chno="119" group-title="Canada",CRIME & INVESTIGATION
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40737.ts
+#EXTINF:-1 tvg-id="120" tvg-name="CTV Comedy" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1863/cache/" tvg-chno="120" group-title="Canada",CTV Comedy
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40746.ts
+#EXTINF:-1 tvg-id="121" tvg-name="CTV Drama" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1876/cache/" tvg-chno="121" group-title="Canada",CTV Drama
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40766.ts
+#EXTINF:-1 tvg-id="122" tvg-name="CTV CALGARY" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="122" group-title="Canada",CTV CALGARY
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40577.ts
+#EXTINF:-1 tvg-id="123" tvg-name="CTV HALIFAX" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="123" group-title="Canada",CTV HALIFAX
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40595.ts
+#EXTINF:-1 tvg-id="124" tvg-name="CTV MONTREAL" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="124" group-title="Canada",CTV MONTREAL
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40585.ts
+#EXTINF:-1 tvg-id="125" tvg-name="CTV OTTAWA" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="125" group-title="Canada",CTV OTTAWA
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40734.ts
+#EXTINF:-1 tvg-id="126" tvg-name="CTV TORONTO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="126" group-title="Canada",CTV TORONTO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40733.ts
+#EXTINF:-1 tvg-id="127" tvg-name="CTV VANCOUVER" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="127" group-title="Canada",CTV VANCOUVER
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40732.ts
+#EXTINF:-1 tvg-id="128" tvg-name="CTV2 OTTAWA" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1874/cache/" tvg-chno="128" group-title="Canada",CTV2 OTTAWA
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40731.ts
+#EXTINF:-1 tvg-id="129" tvg-name="CTV2 VANCOUVER" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1874/cache/" tvg-chno="129" group-title="Canada",CTV2 VANCOUVER
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40736.ts
+#EXTINF:-1 tvg-id="130" tvg-name="DEJAVIEW" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1886/cache/" tvg-chno="130" group-title="Canada",DEJAVIEW
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40728.ts
+#EXTINF:-1 tvg-id="131" tvg-name="DTOUR" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1894/cache/" tvg-chno="131" group-title="Canada",DTOUR
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40720.ts
+#EXTINF:-1 tvg-id="132" tvg-name="Discovery" tvg-logo="http://192.168.1.94:9191/api/channels/logos/34/cache/" tvg-chno="132" group-title="Canada",Discovery
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40727.ts
+#EXTINF:-1 tvg-id="133" tvg-name="E! CANADA" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1895/cache/" tvg-chno="133" group-title="Canada",E! CANADA
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40719.ts
+#EXTINF:-1 tvg-id="134" tvg-name="FOOD NETWORK" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1903/cache/" tvg-chno="134" group-title="Canada",FOOD NETWORK
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40710.ts
+#EXTINF:-1 tvg-id="135" tvg-name="FX Canada" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1907/cache/" tvg-chno="135" group-title="Canada",FX Canada
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48378.ts
+#EXTINF:-1 tvg-id="136" tvg-name="FXX Canada" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1908/cache/" tvg-chno="136" group-title="Canada",FXX Canada
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48379.ts
+#EXTINF:-1 tvg-id="137" tvg-name="GLOBAL TORONTO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1909/cache/" tvg-chno="137" group-title="Canada",GLOBAL TORONTO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40703.ts
+#EXTINF:-1 tvg-id="138" tvg-name="GLOBAL VANCOUVER" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1910/cache/" tvg-chno="138" group-title="Canada",GLOBAL VANCOUVER
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40702.ts
+#EXTINF:-1 tvg-id="139" tvg-name="HBO 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1915/cache/" tvg-chno="139" group-title="Canada",HBO 1
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40697.ts
+#EXTINF:-1 tvg-id="140" tvg-name="HBO 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1916/cache/" tvg-chno="140" group-title="Canada",HBO 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40696.ts
+#EXTINF:-1 tvg-id="141" tvg-name="HGTV" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1917/cache/" tvg-chno="141" group-title="Canada",HGTV
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40695.ts
+#EXTINF:-1 tvg-id="142" tvg-name="History" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1919/cache/" tvg-chno="142" group-title="Canada",History
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40693.ts
+#EXTINF:-1 tvg-id="143" tvg-name="History 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1922/cache/" tvg-chno="143" group-title="Canada",History 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40698.ts
+#EXTINF:-1 tvg-id="144" tvg-name="MAKEFUL" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1929/cache/" tvg-chno="144" group-title="Canada",MAKEFUL
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40597.ts
+#EXTINF:-1 tvg-id="145" tvg-name="Magnolia Network" tvg-logo="http://192.168.1.94:9191/api/channels/logos/852/cache/" tvg-chno="145" group-title="Canada",Magnolia Network
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40722.ts
+#EXTINF:-1 tvg-id="147" tvg-name="SHOWCASE" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1965/cache/" tvg-chno="147" group-title="Canada",SHOWCASE
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40624.ts
+#EXTINF:-1 tvg-id="148" tvg-name="TLC Canada" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1988/cache/" tvg-chno="148" group-title="Canada",TLC Canada
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40657.ts
+#EXTINF:-1 tvg-id="149" tvg-name="W NETWORK" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2003/cache/" tvg-chno="149" group-title="Canada",W NETWORK
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40670.ts
+#EXTINF:-1 tvg-id="201" tvg-name="A&E" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1827/cache/" tvg-chno="201" group-title="United States",A&E
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15966.ts
+#EXTINF:-1 tvg-id="202" tvg-name="ABC (WABC)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1830/cache/" tvg-chno="202" group-title="United States",ABC (WABC)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23363.ts
+#EXTINF:-1 tvg-id="203" tvg-name="ABC (WCVB)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1830/cache/" tvg-chno="203" group-title="United States",ABC (WCVB)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15956.ts
+#EXTINF:-1 tvg-id="204" tvg-name="ABC (WXYZ)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1828/cache/" tvg-chno="204" group-title="United States",ABC (WXYZ)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40782.ts
+#EXTINF:-1 tvg-id="205" tvg-name="AMC" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1833/cache/" tvg-chno="205" group-title="United States",AMC
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15923.ts
+#EXTINF:-1 tvg-id="206" tvg-name="CBS (KCBS)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2161/cache/" tvg-chno="206" group-title="United States",CBS (KCBS)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40755.ts
+#EXTINF:-1 tvg-id="207" tvg-name="CBS (KYW-TV)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2161/cache/" tvg-chno="207" group-title="United States",CBS (KYW-TV)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22560.ts
+#EXTINF:-1 tvg-id="208" tvg-name="CBS (WCBS)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2161/cache/" tvg-chno="208" group-title="United States",CBS (WCBS)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15935.ts
+#EXTINF:-1 tvg-id="209" tvg-name="CBS (WIVB)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1851/cache/" tvg-chno="209" group-title="United States",CBS (WIVB)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40756.ts
+#EXTINF:-1 tvg-id="210" tvg-name="Cinemax" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2165/cache/" tvg-chno="210" group-title="United States",Cinemax
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15921.ts
+#EXTINF:-1 tvg-id="211" tvg-name="Cinemax Action" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2164/cache/" tvg-chno="211" group-title="United States",Cinemax Action
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15924.ts
+#EXTINF:-1 tvg-id="212" tvg-name="Comedy Central" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2175/cache/" tvg-chno="212" group-title="United States",Comedy Central
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22553.ts
+#EXTINF:-1 tvg-id="213" tvg-name="Discovery" tvg-logo="http://192.168.1.94:9191/api/channels/logos/489/cache/" tvg-chno="213" group-title="United States",Discovery
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15920.ts
+#EXTINF:-1 tvg-id="214" tvg-name="E!" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2186/cache/" tvg-chno="214" group-title="United States",E!
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15962.ts
+#EXTINF:-1 tvg-id="215" tvg-name="FOX (KCPQ)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/44/cache/" tvg-chno="215" group-title="United States",FOX (KCPQ)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40707.ts
+#EXTINF:-1 tvg-id="216" tvg-name="FOX (WNYW)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/44/cache/" tvg-chno="216" group-title="United States",FOX (WNYW)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23322.ts
+#EXTINF:-1 tvg-id="217" tvg-name="FOX (WRAZ)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/44/cache/" tvg-chno="217" group-title="United States",FOX (WRAZ)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23321.ts
+#EXTINF:-1 tvg-id="218" tvg-name="FOX (WTXF)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/44/cache/" tvg-chno="218" group-title="United States",FOX (WTXF)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40709.ts
+#EXTINF:-1 tvg-id="219" tvg-name="FX" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1907/cache/" tvg-chno="219" group-title="United States",FX
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15918.ts
+#EXTINF:-1 tvg-id="220" tvg-name="FXX" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1908/cache/" tvg-chno="220" group-title="United States",FXX
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15917.ts
+#EXTINF:-1 tvg-id="221" tvg-name="HBO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2222/cache/" tvg-chno="221" group-title="United States",HBO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23300.ts
+#EXTINF:-1 tvg-id="222" tvg-name="History" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2237/cache/" tvg-chno="222" group-title="United States",History
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15912.ts
+#EXTINF:-1 tvg-id="223" tvg-name="Investigation Discovery" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2242/cache/" tvg-chno="223" group-title="United States",Investigation Discovery
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15911.ts
+#EXTINF:-1 tvg-id="224" tvg-name="MY 9 (WWOR)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2258/cache/" tvg-chno="224" group-title="United States",MY 9 (WWOR)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23214.ts
+#EXTINF:-1 tvg-id="225" tvg-name="Magnolia Network" tvg-logo="http://192.168.1.94:9191/api/channels/logos/852/cache/" tvg-chno="225" group-title="United States",Magnolia Network
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22542.ts
+#EXTINF:-1 tvg-id="226" tvg-name="NBC (KING)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/64/cache/" tvg-chno="226" group-title="United States",NBC (KING)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40599.ts
+#EXTINF:-1 tvg-id="227" tvg-name="NBC (WCAU)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2266/cache/" tvg-chno="227" group-title="United States",NBC (WCAU)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23283.ts
+#EXTINF:-1 tvg-id="228" tvg-name="NBC (WGRZ)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1944/cache/" tvg-chno="228" group-title="United States",NBC (WGRZ)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40600.ts
+#EXTINF:-1 tvg-id="229" tvg-name="NBC (WNBC)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2267/cache/" tvg-chno="229" group-title="United States",NBC (WNBC)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15931.ts
+#EXTINF:-1 tvg-id="230" tvg-name="Peachtree (WPCH)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1958/cache/" tvg-chno="230" group-title="United States",Peachtree (WPCH)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40632.ts
+#EXTINF:-1 tvg-id="231" tvg-name="Syfy" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2326/cache/" tvg-chno="231" group-title="United States",Syfy
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22469.ts
+#EXTINF:-1 tvg-id="232" tvg-name="TBS (East)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2328/cache/" tvg-chno="232" group-title="United States",TBS (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="233" tvg-name="TBS (West)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1201/cache/" tvg-chno="233" group-title="United States",TBS (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="234" tvg-name="TCM" tvg-logo="http://192.168.1.94:9191/api/channels/logos/105/cache/" tvg-chno="234" group-title="United States",TCM
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="235" tvg-name="TLC" tvg-logo="http://192.168.1.94:9191/api/channels/logos/106/cache/" tvg-chno="235" group-title="United States",TLC
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15969.ts
+#EXTINF:-1 tvg-id="236" tvg-name="TNT (East)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2334/cache/" tvg-chno="236" group-title="United States",TNT (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="237" tvg-name="TNT (West)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/107/cache/" tvg-chno="237" group-title="United States",TNT (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="238" tvg-name="TVLAND" tvg-logo="http://192.168.1.94:9191/api/channels/logos/114/cache/" tvg-chno="238" group-title="United States",TVLAND
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23241.ts
+#EXTINF:-1 tvg-id="239" tvg-name="The CW (KTLA)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2345/cache/" tvg-chno="239" group-title="United States",The CW (KTLA)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15960.ts
+#EXTINF:-1 tvg-id="240" tvg-name="The CW (WGN)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/416/cache/" tvg-chno="240" group-title="United States",The CW (WGN)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40668.ts
+#EXTINF:-1 tvg-id="241" tvg-name="The CW (WPIX)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2346/cache/" tvg-chno="241" group-title="United States",The CW (WPIX)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22466.ts
+#EXTINF:-1 tvg-id="242" tvg-name="Tru TV (East)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2335/cache/" tvg-chno="242" group-title="United States",Tru TV (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="243" tvg-name="TruTV (West)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1296/cache/" tvg-chno="243" group-title="United States",TruTV (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="244" tvg-name="USA Network" tvg-logo="http://192.168.1.94:9191/api/channels/logos/118/cache/" tvg-chno="244" group-title="United States",USA Network
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15905.ts
+#EXTINF:-1 tvg-id="801" tvg-name="Fox Sports 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/49/cache/" tvg-chno="801" group-title="Sports",Fox Sports 1
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15948.ts
+#EXTINF:-1 tvg-id="802" tvg-name="Fox Sports 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/50/cache/" tvg-chno="802" group-title="Sports",Fox Sports 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15947.ts
+#EXTINF:-1 tvg-id="803" tvg-name="Premier Sport 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2113/cache/" tvg-chno="803" group-title="Sports",Premier Sport 1
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47858.ts
+#EXTINF:-1 tvg-id="804" tvg-name="Premier Sport 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2113/cache/" tvg-chno="804" group-title="Sports",Premier Sport 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47859.ts
+#EXTINF:-1 tvg-id="805" tvg-name="SPORTSNET 360" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1148/cache/" tvg-chno="805" group-title="Sports",SPORTSNET 360
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40618.ts
+#EXTINF:-1 tvg-id="806" tvg-name="SPORTSNET EAST" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1146/cache/" tvg-chno="806" group-title="Sports",SPORTSNET EAST
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40617.ts
+#EXTINF:-1 tvg-id="807" tvg-name="SPORTSNET ONE" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1151/cache/" tvg-chno="807" group-title="Sports",SPORTSNET ONE
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40616.ts
+#EXTINF:-1 tvg-id="808" tvg-name="SPORTSNET ONTARIO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1154/cache/" tvg-chno="808" group-title="Sports",SPORTSNET ONTARIO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40615.ts
+#EXTINF:-1 tvg-id="809" tvg-name="SPORTSNET WEST" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1162/cache/" tvg-chno="809" group-title="Sports",SPORTSNET WEST
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40613.ts
+#EXTINF:-1 tvg-id="810" tvg-name="Sky Sports Main Event" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2123/cache/" tvg-chno="810" group-title="Sports",Sky Sports Main Event
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47868.ts
+#EXTINF:-1 tvg-id="811" tvg-name="Sky Sports Racing" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2127/cache/" tvg-chno="811" group-title="Sports",Sky Sports Racing
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47872.ts
+#EXTINF:-1 tvg-id="812" tvg-name="TNT Sports 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2129/cache/" tvg-chno="812" group-title="Sports",TNT Sports 1
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47850.ts
+#EXTINF:-1 tvg-id="813" tvg-name="TNT Sports 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2130/cache/" tvg-chno="813" group-title="Sports",TNT Sports 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47851.ts
+#EXTINF:-1 tvg-id="814" tvg-name="TNT Sports 3" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2131/cache/" tvg-chno="814" group-title="Sports",TNT Sports 3
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47852.ts
+#EXTINF:-1 tvg-id="815" tvg-name="TNT Sports 4" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2132/cache/" tvg-chno="815" group-title="Sports",TNT Sports 4
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47853.ts
+#EXTINF:-1 tvg-id="816" tvg-name="TSN 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/109/cache/" tvg-chno="816" group-title="Sports",TSN 1
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15929.ts
+#EXTINF:-1 tvg-id="817" tvg-name="TSN 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/110/cache/" tvg-chno="817" group-title="Sports",TSN 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15928.ts
+#EXTINF:-1 tvg-id="818" tvg-name="TSN 3" tvg-logo="http://192.168.1.94:9191/api/channels/logos/111/cache/" tvg-chno="818" group-title="Sports",TSN 3
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15927.ts
+#EXTINF:-1 tvg-id="819" tvg-name="TSN 4" tvg-logo="http://192.168.1.94:9191/api/channels/logos/112/cache/" tvg-chno="819" group-title="Sports",TSN 4
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15926.ts
+#EXTINF:-1 tvg-id="820" tvg-name="TSN 5" tvg-logo="http://192.168.1.94:9191/api/channels/logos/113/cache/" tvg-chno="820" group-title="Sports",TSN 5
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15925.ts
+#EXTINF:-1 tvg-id="901" tvg-name="PPV 01: " tvg-logo="" tvg-chno="901" group-title="Main Events / PPV",PPV 01: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47695.ts
+#EXTINF:-1 tvg-id="902" tvg-name="PPV 02: " tvg-logo="" tvg-chno="902" group-title="Main Events / PPV",PPV 02: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47696.ts
+#EXTINF:-1 tvg-id="903" tvg-name="PPV 03: " tvg-logo="" tvg-chno="903" group-title="Main Events / PPV",PPV 03: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47697.ts
+#EXTINF:-1 tvg-id="904" tvg-name="PPV 04: " tvg-logo="" tvg-chno="904" group-title="Main Events / PPV",PPV 04: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47698.ts
+#EXTINF:-1 tvg-id="905" tvg-name="PPV 05: " tvg-logo="" tvg-chno="905" group-title="Main Events / PPV",PPV 05: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47699.ts
+#EXTINF:-1 tvg-id="906" tvg-name="PPV 06: " tvg-logo="" tvg-chno="906" group-title="Main Events / PPV",PPV 06: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47700.ts
+#EXTINF:-1 tvg-id="907" tvg-name="PPV 07: " tvg-logo="" tvg-chno="907" group-title="Main Events / PPV",PPV 07: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47701.ts
+#EXTINF:-1 tvg-id="908" tvg-name="PPV 08: " tvg-logo="" tvg-chno="908" group-title="Main Events / PPV",PPV 08: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47702.ts
+#EXTINF:-1 tvg-id="909" tvg-name="PPV 09: " tvg-logo="" tvg-chno="909" group-title="Main Events / PPV",PPV 09: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47703.ts
+#EXTINF:-1 tvg-id="910" tvg-name="PPV 10: " tvg-logo="" tvg-chno="910" group-title="Main Events / PPV",PPV 10: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47704.ts
+#EXTINF:-1 tvg-id="911" tvg-name="PPV 11: " tvg-logo="" tvg-chno="911" group-title="Main Events / PPV",PPV 11: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47705.ts
+#EXTINF:-1 tvg-id="912" tvg-name="PPV 12: " tvg-logo="" tvg-chno="912" group-title="Main Events / PPV",PPV 12: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47706.ts
+#EXTINF:-1 tvg-id="913" tvg-name="PPV 13: " tvg-logo="" tvg-chno="913" group-title="Main Events / PPV",PPV 13: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47707.ts
+#EXTINF:-1 tvg-id="914" tvg-name="PPV 14: " tvg-logo="" tvg-chno="914" group-title="Main Events / PPV",PPV 14: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47708.ts
+#EXTINF:-1 tvg-id="915" tvg-name="PPV 15: " tvg-logo="" tvg-chno="915" group-title="Main Events / PPV",PPV 15: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47709.ts
+#EXTINF:-1 tvg-id="916" tvg-name="PPV 16: " tvg-logo="" tvg-chno="916" group-title="Main Events / PPV",PPV 16: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47710.ts
+#EXTINF:-1 tvg-id="917" tvg-name="PPV 17: " tvg-logo="" tvg-chno="917" group-title="Main Events / PPV",PPV 17: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47711.ts
+#EXTINF:-1 tvg-id="918" tvg-name="PPV 18: " tvg-logo="" tvg-chno="918" group-title="Main Events / PPV",PPV 18: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47712.ts
+#EXTINF:-1 tvg-id="919" tvg-name="PPV 19: " tvg-logo="" tvg-chno="919" group-title="Main Events / PPV",PPV 19: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47713.ts
+#EXTINF:-1 tvg-id="920" tvg-name="PPV 20: " tvg-logo="" tvg-chno="920" group-title="Main Events / PPV",PPV 20: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47714.ts
+#EXTINF:-1 tvg-id="921" tvg-name="PPV 21: " tvg-logo="" tvg-chno="921" group-title="Main Events / PPV",PPV 21: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47715.ts
+#EXTINF:-1 tvg-id="922" tvg-name="PPV 22: " tvg-logo="" tvg-chno="922" group-title="Main Events / PPV",PPV 22: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47716.ts
+#EXTINF:-1 tvg-id="923" tvg-name="PPV 23: " tvg-logo="" tvg-chno="923" group-title="Main Events / PPV",PPV 23: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47717.ts
+#EXTINF:-1 tvg-id="924" tvg-name="PPV 24: " tvg-logo="" tvg-chno="924" group-title="Main Events / PPV",PPV 24: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47718.ts
+#EXTINF:-1 tvg-id="925" tvg-name="PPV 25: " tvg-logo="" tvg-chno="925" group-title="Main Events / PPV",PPV 25: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47719.ts
+#EXTINF:-1 tvg-id="926" tvg-name="PPV 26: " tvg-logo="" tvg-chno="926" group-title="Main Events / PPV",PPV 26: 
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48375.ts
