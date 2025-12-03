@@ -1,13 +1,41 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sports" tvg-id="FS1.HD.us2 " tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png",Fox Sports 1
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22526.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="FS2.HD.us2 " tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_2.png",Fox Sports 2
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22525.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.Racing.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/fox-sports-racing-ca.png",Fox Sports Racing
-http://speccy.pw:8080/live/111111/111111/316980.ts
-#EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.HD.us2 " tvg-logo="http://dshm.tmsimg.com/assets/s58690_ll_h15_ac.png?w=360&amp;h=270",NHL Network
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15941.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="RÃ©seau.des.Sports.(RDS).ca2" tvg-name="RDS" tvg-logo="https://tlgrm.re/images/rds-ca.png" group-title="Canada",RDS
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40629.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="RDS2.ca2" tvg-name="RDS 2" tvg-logo="https://tlgrm.re/images/rds-2-ca.png" group-title="Canada",RDS 2
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40628.m3u8
+#EXTINF:-1 tvg-id="801" tvg-name="Fox Sports 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/49/cache/" tvg-chno="801" group-title="Sports",Fox Sports 1
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15948.ts
+#EXTINF:-1 tvg-id="802" tvg-name="Fox Sports 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/50/cache/" tvg-chno="802" group-title="Sports",Fox Sports 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15947.ts
+#EXTINF:-1 tvg-id="803" tvg-name="Premier Sport 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2113/cache/" tvg-chno="803" group-title="Sports",Premier Sport 1
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47858.ts
+#EXTINF:-1 tvg-id="804" tvg-name="Premier Sport 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2113/cache/" tvg-chno="804" group-title="Sports",Premier Sport 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47859.ts
+#EXTINF:-1 tvg-id="805" tvg-name="SPORTSNET 360" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1148/cache/" tvg-chno="805" group-title="Sports",SPORTSNET 360
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40618.ts
+#EXTINF:-1 tvg-id="806" tvg-name="SPORTSNET EAST" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1146/cache/" tvg-chno="806" group-title="Sports",SPORTSNET EAST
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40617.ts
+#EXTINF:-1 tvg-id="807" tvg-name="SPORTSNET ONE" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1151/cache/" tvg-chno="807" group-title="Sports",SPORTSNET ONE
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40616.ts
+#EXTINF:-1 tvg-id="808" tvg-name="SPORTSNET ONTARIO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1154/cache/" tvg-chno="808" group-title="Sports",SPORTSNET ONTARIO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40615.ts
+#EXTINF:-1 tvg-id="809" tvg-name="SPORTSNET WEST" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1162/cache/" tvg-chno="809" group-title="Sports",SPORTSNET WEST
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40613.ts
+#EXTINF:-1 tvg-id="810" tvg-name="Sky Sports Main Event" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2123/cache/" tvg-chno="810" group-title="Sports",Sky Sports Main Event
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47868.ts
+#EXTINF:-1 tvg-id="811" tvg-name="Sky Sports Racing" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2127/cache/" tvg-chno="811" group-title="Sports",Sky Sports Racing
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47872.ts
+#EXTINF:-1 tvg-id="812" tvg-name="TNT Sports 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2129/cache/" tvg-chno="812" group-title="Sports",TNT Sports 1
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47850.ts
+#EXTINF:-1 tvg-id="813" tvg-name="TNT Sports 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2130/cache/" tvg-chno="813" group-title="Sports",TNT Sports 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47851.ts
+#EXTINF:-1 tvg-id="814" tvg-name="TNT Sports 3" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2131/cache/" tvg-chno="814" group-title="Sports",TNT Sports 3
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47852.ts
+#EXTINF:-1 tvg-id="815" tvg-name="TNT Sports 4" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2132/cache/" tvg-chno="815" group-title="Sports",TNT Sports 4
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/47853.ts
+#EXTINF:-1 tvg-id="816" tvg-name="TSN 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/109/cache/" tvg-chno="816" group-title="Sports",TSN 1
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15929.ts
+#EXTINF:-1 tvg-id="817" tvg-name="TSN 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/110/cache/" tvg-chno="817" group-title="Sports",TSN 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15928.ts
+#EXTINF:-1 tvg-id="818" tvg-name="TSN 3" tvg-logo="http://192.168.1.94:9191/api/channels/logos/111/cache/" tvg-chno="818" group-title="Sports",TSN 3
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15927.ts
+#EXTINF:-1 tvg-id="819" tvg-name="TSN 4" tvg-logo="http://192.168.1.94:9191/api/channels/logos/112/cache/" tvg-chno="819" group-title="Sports",TSN 4
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15926.ts
+#EXTINF:-1 tvg-id="820" tvg-name="TSN 5" tvg-logo="http://192.168.1.94:9191/api/channels/logos/113/cache/" tvg-chno="820" group-title="Sports",TSN 5
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15925.ts

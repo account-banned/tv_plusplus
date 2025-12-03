@@ -11,7 +11,7 @@ Accountbanned TV++ provides a collection of IPTV channels. The channels are orga
 
 ## Statistics
 
-- Total Channels: 82
+- Total Channels: 138
 - Groups Available: 4
 
 ## Legal Notice

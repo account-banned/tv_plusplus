@@ -1,35 +1,97 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canada" tvg-id="CBC.Toronto.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-toronto-ca.png",CBC Toronto (CBLT)
+#EXTINF:-1 tvg-id="101" tvg-name="CARTOON NETWORK" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1842/cache/" tvg-chno="101" group-title="Canada",CARTOON NETWORK
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40763.ts
+#EXTINF:-1 tvg-id="102" tvg-name="CBC CALGARY" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1844/cache/" tvg-chno="102" group-title="Canada",CBC CALGARY
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40579.ts
+#EXTINF:-1 tvg-id="103" tvg-name="CBC HALIFAX" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1845/cache/" tvg-chno="103" group-title="Canada",CBC HALIFAX
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40570.ts
+#EXTINF:-1 tvg-id="104" tvg-name="CBC MONTREAL" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1846/cache/" tvg-chno="104" group-title="Canada",CBC MONTREAL
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40761.ts
+#EXTINF:-1 tvg-id="105" tvg-name="CBC OTTAWA" tvg-logo="http://192.168.1.94:9191/api/channels/logos/8/cache/" tvg-chno="105" group-title="Canada",CBC OTTAWA
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40759.ts
+#EXTINF:-1 tvg-id="106" tvg-name="CBC TORONTO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1849/cache/" tvg-chno="106" group-title="Canada",CBC TORONTO
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40758.ts
-#EXTINF:-1 group-title="Canada" tvg-id="Country.Music.Television.(CMT).ca2" tvg-logo="https://media.starlite.best/cmt.canada.ca.png",CMT
+#EXTINF:-1 tvg-id="107" tvg-name="CBC VANCOUVER" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1850/cache/" tvg-chno="107" group-title="Canada",CBC VANCOUVER
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40757.ts
+#EXTINF:-1 tvg-id="108" tvg-name="CHCH" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1853/cache/" tvg-chno="108" group-title="Canada",CHCH
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40754.ts
+#EXTINF:-1 tvg-id="109" tvg-name="CITY CALGARY" tvg-logo="http://192.168.1.94:9191/api/channels/logos/26/cache/" tvg-chno="109" group-title="Canada",CITY CALGARY
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40578.ts
+#EXTINF:-1 tvg-id="110" tvg-name="CITY MONTREAL" tvg-logo="http://192.168.1.94:9191/api/channels/logos/26/cache/" tvg-chno="110" group-title="Canada",CITY MONTREAL
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40598.ts
+#EXTINF:-1 tvg-id="111" tvg-name="CITY TORONTO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/26/cache/" tvg-chno="111" group-title="Canada",CITY TORONTO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40752.ts
+#EXTINF:-1 tvg-id="112" tvg-name="CITY VANCOUVER" tvg-logo="http://192.168.1.94:9191/api/channels/logos/26/cache/" tvg-chno="112" group-title="Canada",CITY VANCOUVER
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40751.ts
+#EXTINF:-1 tvg-id="113" tvg-name="CMT" tvg-logo="http://192.168.1.94:9191/api/channels/logos/385/cache/" tvg-chno="113" group-title="Canada",CMT
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40750.ts
-#EXTINF:-1 group-title="Canada" tvg-id="Cable.Pulse.24.(CP24).HD.ca2" tvg-logo="https://media.starlite.best/cp24.cablepulse.24.ca.png",CP24
+#EXTINF:-1 tvg-id="114" tvg-name="CP24" tvg-logo="http://192.168.1.94:9191/api/channels/logos/14/cache/" tvg-chno="114" group-title="Canada",CP24
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40740.ts
-#EXTINF:-1 group-title="Canada" tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-1-ca.png",Crave 1
+#EXTINF:-1 tvg-id="115" tvg-name="CRAVE 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1869/cache/" tvg-chno="115" group-title="Canada",CRAVE 1
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40656.ts
-#EXTINF:-1 group-title="Canada" tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-2-ca.png",Crave 2
+#EXTINF:-1 tvg-id="116" tvg-name="CRAVE 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1870/cache/" tvg-chno="116" group-title="Canada",CRAVE 2
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40655.ts
-#EXTINF:-1 group-title="Canada" tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-3-ca.png",Crave 3
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40654.m3u8
-#EXTINF:-1 group-title="Canada" tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-4-ca.png",Crave 4
+#EXTINF:-1 tvg-id="117" tvg-name="CRAVE 3" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1871/cache/" tvg-chno="117" group-title="Canada",CRAVE 3
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40654.ts
+#EXTINF:-1 tvg-id="118" tvg-name="CRAVE 4" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1872/cache/" tvg-chno="118" group-title="Canada",CRAVE 4
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40653.ts
-#EXTINF:-1 group-title="Canada" tvg-id="CTV.Toronto.HD.ca2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV TORONTO (CFTO)
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40733.m3u8
-#EXTINF:-1 group-title="Canada" tvg-id="Global.BC.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png",Global BC
+#EXTINF:-1 tvg-id="119" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1873/cache/" tvg-chno="119" group-title="Canada",CRIME & INVESTIGATION
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40737.ts
+#EXTINF:-1 tvg-id="120" tvg-name="CTV Comedy" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1863/cache/" tvg-chno="120" group-title="Canada",CTV Comedy
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40746.ts
+#EXTINF:-1 tvg-id="121" tvg-name="CTV Drama" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1876/cache/" tvg-chno="121" group-title="Canada",CTV Drama
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40766.ts
+#EXTINF:-1 tvg-id="122" tvg-name="CTV CALGARY" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="122" group-title="Canada",CTV CALGARY
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40577.ts
+#EXTINF:-1 tvg-id="123" tvg-name="CTV HALIFAX" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="123" group-title="Canada",CTV HALIFAX
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40595.ts
+#EXTINF:-1 tvg-id="124" tvg-name="CTV MONTREAL" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="124" group-title="Canada",CTV MONTREAL
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40585.ts
+#EXTINF:-1 tvg-id="125" tvg-name="CTV OTTAWA" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="125" group-title="Canada",CTV OTTAWA
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40734.ts
+#EXTINF:-1 tvg-id="126" tvg-name="CTV TORONTO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="126" group-title="Canada",CTV TORONTO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40733.ts
+#EXTINF:-1 tvg-id="127" tvg-name="CTV VANCOUVER" tvg-logo="http://192.168.1.94:9191/api/channels/logos/21/cache/" tvg-chno="127" group-title="Canada",CTV VANCOUVER
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40732.ts
+#EXTINF:-1 tvg-id="128" tvg-name="CTV2 OTTAWA" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1874/cache/" tvg-chno="128" group-title="Canada",CTV2 OTTAWA
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40731.ts
+#EXTINF:-1 tvg-id="129" tvg-name="CTV2 VANCOUVER" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1874/cache/" tvg-chno="129" group-title="Canada",CTV2 VANCOUVER
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40736.ts
-#EXTINF:-1 group-title="Canada" tvg-id="HBO.Canada.1.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png",HBO
+#EXTINF:-1 tvg-id="130" tvg-name="DEJAVIEW" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1886/cache/" tvg-chno="130" group-title="Canada",DEJAVIEW
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40728.ts
+#EXTINF:-1 tvg-id="131" tvg-name="DTOUR" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1894/cache/" tvg-chno="131" group-title="Canada",DTOUR
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40720.ts
+#EXTINF:-1 tvg-id="132" tvg-name="Discovery" tvg-logo="http://192.168.1.94:9191/api/channels/logos/34/cache/" tvg-chno="132" group-title="Canada",Discovery
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40727.ts
+#EXTINF:-1 tvg-id="133" tvg-name="E! CANADA" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1895/cache/" tvg-chno="133" group-title="Canada",E! CANADA
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40719.ts
+#EXTINF:-1 tvg-id="134" tvg-name="FOOD NETWORK" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1903/cache/" tvg-chno="134" group-title="Canada",FOOD NETWORK
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40710.ts
+#EXTINF:-1 tvg-id="135" tvg-name="FX Canada" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1907/cache/" tvg-chno="135" group-title="Canada",FX Canada
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48378.ts
+#EXTINF:-1 tvg-id="136" tvg-name="FXX Canada" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1908/cache/" tvg-chno="136" group-title="Canada",FXX Canada
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48379.ts
+#EXTINF:-1 tvg-id="137" tvg-name="GLOBAL TORONTO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1909/cache/" tvg-chno="137" group-title="Canada",GLOBAL TORONTO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40703.ts
+#EXTINF:-1 tvg-id="138" tvg-name="GLOBAL VANCOUVER" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1910/cache/" tvg-chno="138" group-title="Canada",GLOBAL VANCOUVER
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40702.ts
+#EXTINF:-1 tvg-id="139" tvg-name="HBO 1" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1915/cache/" tvg-chno="139" group-title="Canada",HBO 1
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40697.ts
-#EXTINF:-1 group-title="Canada" tvg-id="HBO.Canada.1.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2
+#EXTINF:-1 tvg-id="140" tvg-name="HBO 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1916/cache/" tvg-chno="140" group-title="Canada",HBO 2
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40696.ts
-#EXTINF:-1 group-title="Canada" tvg-id="REV.TV.Canada.ca2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s106713_h15_ab.png",Rev TV
-http://user.scalecdn.co:8080/live/26725074/92867131/702667.m3u8
-#EXTINF:-1 group-title="Canada" tvg-id="Showcase.Canada.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/showcase-ca.png",Showcase
+#EXTINF:-1 tvg-id="141" tvg-name="HGTV" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1917/cache/" tvg-chno="141" group-title="Canada",HGTV
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40695.ts
+#EXTINF:-1 tvg-id="142" tvg-name="History" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1919/cache/" tvg-chno="142" group-title="Canada",History
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40693.ts
+#EXTINF:-1 tvg-id="143" tvg-name="History 2" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1922/cache/" tvg-chno="143" group-title="Canada",History 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40698.ts
+#EXTINF:-1 tvg-id="144" tvg-name="MAKEFUL" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1929/cache/" tvg-chno="144" group-title="Canada",MAKEFUL
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40597.ts
+#EXTINF:-1 tvg-id="145" tvg-name="Magnolia Network" tvg-logo="http://192.168.1.94:9191/api/channels/logos/852/cache/" tvg-chno="145" group-title="Canada",Magnolia Network
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40722.ts
+#EXTINF:-1 tvg-id="147" tvg-name="SHOWCASE" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1965/cache/" tvg-chno="147" group-title="Canada",SHOWCASE
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40624.ts
-#EXTINF:-1 group-title="Canada" tvg-id="Silver.Screen.Classics.ca2" tvg-logo="https://media.starlite.best/silver.screen.classics.ca.png",Silver Screen Classic
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40623.ts
-#EXTINF:-1 group-title="Canada" tvg-id="STARZ.1.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-1-ca.png",STARZ
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40718.ts
-#EXTINF:-1 group-title="Canada" tvg-id="STARZ.2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-2-ca.png",STARZ 2
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40717.ts
-#EXTINF:-1 group-title="Canada" tvg-id="USA.Network.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network Canada
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112754.ts
+#EXTINF:-1 tvg-id="148" tvg-name="TLC Canada" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1988/cache/" tvg-chno="148" group-title="Canada",TLC Canada
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40657.ts
+#EXTINF:-1 tvg-id="149" tvg-name="W NETWORK" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2003/cache/" tvg-chno="149" group-title="Canada",W NETWORK
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40670.ts

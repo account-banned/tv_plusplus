@@ -1,43 +1,89 @@
 #EXTM3U
-#EXTINF:-1 group-title="United States" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png",A&E
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15966.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="WABC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC (WABC)
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48996.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="AdultSwim.com.Cartoon.Network.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png",Adult Swim (5PM-6AM ONLY)
-https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="AdultSwim.com.Cartoon.Network.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png",Adult Swim West (8PM-9AM ONLY)
-https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Antenna.TV.us2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png",Antenna TV
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23228.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="WCBS-DT.us_locals1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS (WCBS)
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48997.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="CMT.HD.us2 " tvg-logo="https://media.starlite.best/cmt.canada.ca.png",CMT
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23341.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="WPIX-DT.us_locals1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cw-ca.png",CW (WPIX)
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48998.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Discovery.Channel.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/discovery-channel-es.png",Discovery (US)
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22549.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="WNYW-DT.us_locals1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png",FOX (WNYW)
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48999.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="WNBC-DT.us_locals1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC (WNBC)
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/49000.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="TBS.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS (East)
+#EXTINF:-1 tvg-id="201" tvg-name="A&E" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1827/cache/" tvg-chno="201" group-title="United States",A&E
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15966.ts
+#EXTINF:-1 tvg-id="202" tvg-name="ABC (WABC)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1830/cache/" tvg-chno="202" group-title="United States",ABC (WABC)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23363.ts
+#EXTINF:-1 tvg-id="203" tvg-name="ABC (WCVB)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1830/cache/" tvg-chno="203" group-title="United States",ABC (WCVB)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15956.ts
+#EXTINF:-1 tvg-id="204" tvg-name="ABC (WXYZ)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1828/cache/" tvg-chno="204" group-title="United States",ABC (WXYZ)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40782.ts
+#EXTINF:-1 tvg-id="205" tvg-name="AMC" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1833/cache/" tvg-chno="205" group-title="United States",AMC
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15923.ts
+#EXTINF:-1 tvg-id="206" tvg-name="CBS (KCBS)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2161/cache/" tvg-chno="206" group-title="United States",CBS (KCBS)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40755.ts
+#EXTINF:-1 tvg-id="207" tvg-name="CBS (KYW-TV)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2161/cache/" tvg-chno="207" group-title="United States",CBS (KYW-TV)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22560.ts
+#EXTINF:-1 tvg-id="208" tvg-name="CBS (WCBS)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2161/cache/" tvg-chno="208" group-title="United States",CBS (WCBS)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15935.ts
+#EXTINF:-1 tvg-id="209" tvg-name="CBS (WIVB)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1851/cache/" tvg-chno="209" group-title="United States",CBS (WIVB)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40756.ts
+#EXTINF:-1 tvg-id="210" tvg-name="Cinemax" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2165/cache/" tvg-chno="210" group-title="United States",Cinemax
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15921.ts
+#EXTINF:-1 tvg-id="211" tvg-name="Cinemax Action" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2164/cache/" tvg-chno="211" group-title="United States",Cinemax Action
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15924.ts
+#EXTINF:-1 tvg-id="212" tvg-name="Comedy Central" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2175/cache/" tvg-chno="212" group-title="United States",Comedy Central
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22553.ts
+#EXTINF:-1 tvg-id="213" tvg-name="Discovery" tvg-logo="http://192.168.1.94:9191/api/channels/logos/489/cache/" tvg-chno="213" group-title="United States",Discovery
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15920.ts
+#EXTINF:-1 tvg-id="214" tvg-name="E!" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2186/cache/" tvg-chno="214" group-title="United States",E!
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15962.ts
+#EXTINF:-1 tvg-id="215" tvg-name="FOX (KCPQ)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/44/cache/" tvg-chno="215" group-title="United States",FOX (KCPQ)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40707.ts
+#EXTINF:-1 tvg-id="216" tvg-name="FOX (WNYW)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/44/cache/" tvg-chno="216" group-title="United States",FOX (WNYW)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23322.ts
+#EXTINF:-1 tvg-id="217" tvg-name="FOX (WRAZ)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/44/cache/" tvg-chno="217" group-title="United States",FOX (WRAZ)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23321.ts
+#EXTINF:-1 tvg-id="218" tvg-name="FOX (WTXF)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/44/cache/" tvg-chno="218" group-title="United States",FOX (WTXF)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40709.ts
+#EXTINF:-1 tvg-id="219" tvg-name="FX" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1907/cache/" tvg-chno="219" group-title="United States",FX
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15918.ts
+#EXTINF:-1 tvg-id="220" tvg-name="FXX" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1908/cache/" tvg-chno="220" group-title="United States",FXX
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15917.ts
+#EXTINF:-1 tvg-id="221" tvg-name="HBO" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2222/cache/" tvg-chno="221" group-title="United States",HBO
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23300.ts
+#EXTINF:-1 tvg-id="222" tvg-name="History" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2237/cache/" tvg-chno="222" group-title="United States",History
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15912.ts
+#EXTINF:-1 tvg-id="223" tvg-name="Investigation Discovery" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2242/cache/" tvg-chno="223" group-title="United States",Investigation Discovery
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15911.ts
+#EXTINF:-1 tvg-id="224" tvg-name="MY 9 (WWOR)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2258/cache/" tvg-chno="224" group-title="United States",MY 9 (WWOR)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23214.ts
+#EXTINF:-1 tvg-id="225" tvg-name="Magnolia Network" tvg-logo="http://192.168.1.94:9191/api/channels/logos/852/cache/" tvg-chno="225" group-title="United States",Magnolia Network
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22542.ts
+#EXTINF:-1 tvg-id="226" tvg-name="NBC (KING)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/64/cache/" tvg-chno="226" group-title="United States",NBC (KING)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40599.ts
+#EXTINF:-1 tvg-id="227" tvg-name="NBC (WCAU)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2266/cache/" tvg-chno="227" group-title="United States",NBC (WCAU)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23283.ts
+#EXTINF:-1 tvg-id="228" tvg-name="NBC (WGRZ)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1944/cache/" tvg-chno="228" group-title="United States",NBC (WGRZ)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40600.ts
+#EXTINF:-1 tvg-id="229" tvg-name="NBC (WNBC)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2267/cache/" tvg-chno="229" group-title="United States",NBC (WNBC)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15931.ts
+#EXTINF:-1 tvg-id="230" tvg-name="Peachtree (WPCH)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1958/cache/" tvg-chno="230" group-title="United States",Peachtree (WPCH)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40632.ts
+#EXTINF:-1 tvg-id="231" tvg-name="Syfy" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2326/cache/" tvg-chno="231" group-title="United States",Syfy
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22469.ts
+#EXTINF:-1 tvg-id="232" tvg-name="TBS (East)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2328/cache/" tvg-chno="232" group-title="United States",TBS (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="TBS.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS (West)
+#EXTINF:-1 tvg-id="233" tvg-name="TBS (West)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1201/cache/" tvg-chno="233" group-title="United States",TBS (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="TLC.HD.(US).us2 " tvg-logo="https://tlgrm.re/images/tlc-us.png",TLC
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15969.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Turner.Classic.Movies.HD.us2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",TCM
+#EXTINF:-1 tvg-id="234" tvg-name="TCM" tvg-logo="http://192.168.1.94:9191/api/channels/logos/105/cache/" tvg-chno="234" group-title="United States",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="TNT.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT (East)
+#EXTINF:-1 tvg-id="235" tvg-name="TLC" tvg-logo="http://192.168.1.94:9191/api/channels/logos/106/cache/" tvg-chno="235" group-title="United States",TLC
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15969.ts
+#EXTINF:-1 tvg-id="236" tvg-name="TNT (East)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2334/cache/" tvg-chno="236" group-title="United States",TNT (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="TNT.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT (West)
+#EXTINF:-1 tvg-id="237" tvg-name="TNT (West)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/107/cache/" tvg-chno="237" group-title="United States",TNT (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="truTV.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV (East)
+#EXTINF:-1 tvg-id="238" tvg-name="TVLAND" tvg-logo="http://192.168.1.94:9191/api/channels/logos/114/cache/" tvg-chno="238" group-title="United States",TVLAND
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23241.ts
+#EXTINF:-1 tvg-id="239" tvg-name="The CW (KTLA)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2345/cache/" tvg-chno="239" group-title="United States",The CW (KTLA)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15960.ts
+#EXTINF:-1 tvg-id="240" tvg-name="The CW (WGN)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/416/cache/" tvg-chno="240" group-title="United States",The CW (WGN)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40668.ts
+#EXTINF:-1 tvg-id="241" tvg-name="The CW (WPIX)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2346/cache/" tvg-chno="241" group-title="United States",The CW (WPIX)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/22466.ts
+#EXTINF:-1 tvg-id="242" tvg-name="Tru TV (East)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/2335/cache/" tvg-chno="242" group-title="United States",Tru TV (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="truTV.HD.(Pacific).us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV (West)
+#EXTINF:-1 tvg-id="243" tvg-name="TruTV (West)" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1296/cache/" tvg-chno="243" group-title="United States",TruTV (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="TV.Land.HD.us2 " tvg-logo="https://tlgrm.re/images/tv-land-us.png",TV Land
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/23241.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="USA.Network.HD.us2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",USA Network
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15905.m3u8
+#EXTINF:-1 tvg-id="244" tvg-name="USA Network" tvg-logo="http://192.168.1.94:9191/api/channels/logos/118/cache/" tvg-chno="244" group-title="United States",USA Network
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/15905.ts
