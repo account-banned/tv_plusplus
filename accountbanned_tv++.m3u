@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://192.168.1.94:9191/output/epg?tvg_id_source=tvg_id" url-tvg="http://192.168.1.94:9191/output/epg?tvg_id_source=tvg_id"
+
 #EXTINF:-1 tvg-id="Cartoon.Network.Canada.ca2" tvg-name="CARTOON NETWORK" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1842/cache/" tvg-chno="101" group-title="Canada",CARTOON NETWORK
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40763.ts
 #EXTINF:-1 tvg-id="CBC.Calgary.HD.ca2" tvg-name="CBC CALGARY" tvg-logo="http://192.168.1.94:9191/api/channels/logos/1844/cache/" tvg-chno="102" group-title="Canada",CBC CALGARY
