@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 group-title="Portugal" tvg-id="BenficaTV.pt" tvg-logo="https://fanc.tmsimg.com/assets/s68191_ll_h3_aa.png",BENFICA TV
+http://portal5458.com:8080/live/mrrogers20/6872908947/48427.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.1.pt" tvg-logo="https://tlgrm.re/images/eleven-sports-1-pt.png",ELEVEN 1
+http://portal5458.com:8080/live/mrrogers20/6872908947/48443.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.2.pt" tvg-logo="https://tlgrm.re/images/eleven-sports-2-pt.png",ELEVEN 2
+http://portal5458.com:8080/live/mrrogers20/6872908947/48444.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.3.pt" tvg-logo="https://tlgrm.re/images/eleven-sports-3-pt.png",ELEVEN 3
+http://portal5458.com:8080/live/mrrogers20/6872908947/48445.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.4.pt" tvg-logo="https://tlgrm.re/images/eleven-sports-4-pt.png",ELEVEN 4
+http://portal5458.com:8080/live/mrrogers20/6872908947/48446.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.5.pt" tvg-logo="https://tlgrm.re/images/eleven-sports-5-pt.png",ELEVEN 5
+http://portal5458.com:8080/live/mrrogers20/6872908947/48447.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.6.pt " tvg-logo="https://tlgrm.re/images/eleven-sports-6-pt.png",ELEVEN 6
+http://portal5458.com:8080/live/mrrogers20/6872908947/48448.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="Eurosport1.pt" tvg-logo="https://www.lyngsat.com/logo/tv/bb/british_eurosport_1.png",EUROSPORT 1
+http://portal5458.com:8080/live/mrrogers20/6872908947/48449.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="Eurosport2.pt" tvg-logo="https://www.lyngsat.com/logo/tv/bb/british_eurosport_2.png",EUROSPORT 2
+http://portal5458.com:8080/live/mrrogers20/6872908947/48450.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="Globo.HD.pt " tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/globo.png?raw=true",GLOBO PORTUGAL
+http://portal5458.com:8080/live/mrrogers20/6872908947/48460.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="Motorvision.pt" tvg-logo="https://github.com/fraudiay79/logos/blob/master/de/motorvisiontv.png?raw=true",MOTORVISION
+http://portal5458.com:8080/live/mrrogers20/6872908947/48469.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="PortoCanal.pt" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/portocanal.png?raw=true",PORTO CANAL
+http://portal5458.com:8080/live/mrrogers20/6872908947/48480.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="RealMadridTV.pt" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg",REAL MADRID TV
+http://portal5458.com:8080/live/mrrogers20/6872908947/48481.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="rtp1.pt" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-1-pt.png",RTP 1
+http://portal5458.com:8080/live/mrrogers20/6872908947/48482.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="rtp2.pt" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-2-pt.png",RTP 2
+http://portal5458.com:8080/live/mrrogers20/6872908947/48483.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="rtp2.pt" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-2-pt.png",RTP 2
+http://portal5458.com:8080/live/mrrogers20/6872908947/48484.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP3.pt" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp_3_pt.png",RTP 3
+http://portal5458.com:8080/live/mrrogers20/6872908947/48485.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPAcores.pt" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-acores-pt.png",RTP ACORES
+http://portal5458.com:8080/live/mrrogers20/6872908947/48486.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="rtpHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-internacional-pt.png",RTP INTERNATIONAL
+http://portal5458.com:8080/live/mrrogers20/6872908947/48487.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPMadeira.pt" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-madeira-pt.png",RTP MADEIRA
+http://portal5458.com:8080/live/mrrogers20/6872908947/48488.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="rtpmemoria.pt" tvg-logo="https://i.postimg.cc/wBYfKKKr/RTP-MEMORIA.png",RTP MEMORIA
+http://portal5458.com:8080/live/mrrogers20/6872908947/48489.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="sic.pt" tvg-logo="https://tlgrm.re/images/sic-pt.png",SIC
+http://portal5458.com:8080/live/mrrogers20/6872908947/48490.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SicCaras.pt" tvg-logo="https://tlgrm.re/images/sic-caras-pt.png",SIC CARAS
+http://portal5458.com:8080/live/mrrogers20/6872908947/48491.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SicK.pt" tvg-logo="https://tlgrm.re/images/sic-k-pt.png",SIC KIDS
+http://portal5458.com:8080/live/mrrogers20/6872908947/48492.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="sicmulher.pt" tvg-logo="https://tlgrm.re/images/sic-mulher-pt.png",SIC MULHER
+http://portal5458.com:8080/live/mrrogers20/6872908947/48493.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="sicnoticias.pt" tvg-logo="https://tlgrm.re/images/sic-noticias-pt.png",SIC NOTICIAS
+http://portal5458.com:8080/live/mrrogers20/6872908947/48494.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="sicradical.pt" tvg-logo="https://tlgrm.re/images/sic-radical-pt.png",SIC RADICAL
+http://portal5458.com:8080/live/mrrogers20/6872908947/48495.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="sporttv1.pt" tvg-logo="https://tlgrm.re/images/sport-tv-1-pt.png",SPORT TV 1
+http://portal5458.com:8080/live/mrrogers20/6872908947/48496.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="sporttv2.pt" tvg-logo="https://tlgrm.re/images/sport-tv-2-pt.png",SPORT TV 2
+http://portal5458.com:8080/live/mrrogers20/6872908947/48497.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="sporttv3.pt" tvg-logo="https://tlgrm.re/images/sport-tv-3-pt.png",SPORT TV 3
+http://portal5458.com:8080/live/mrrogers20/6872908947/48498.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="sporttv4.pt" tvg-logo="https://tlgrm.re/images/sport-tv-4-pt.png",SPORT TV 4
+http://portal5458.com:8080/live/mrrogers20/6872908947/48499.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="sporttv5.pt" tvg-logo="https://tlgrm.re/images/sport-tv-5-pt.png",SPORT TV 5
+http://portal5458.com:8080/live/mrrogers20/6872908947/48500.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SportTVplus.pt" tvg-logo="https://tlgrm.re/images/sport-tv-mais-pt.png",SPORT TV+
+http://portal5458.com:8080/live/mrrogers20/6872908947/48501.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORTINGTV.pt" tvg-logo="https://tlgrm.re/images/sporting-tv-pt.png",SPORTING TV
+http://portal5458.com:8080/live/mrrogers20/6872908947/48502.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORTINGTV.pt" tvg-logo="https://tlgrm.re/images/sporting-tv-pt.png",SPORTING TV HD
+http://portal5458.com:8080/live/mrrogers20/6872908947/48503.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SyFy.pt" tvg-logo="https://www.lyngsat.com//logo/tv/ss/syfy_us_global.png",SYFY
+http://portal5458.com:8080/live/mrrogers20/6872908947/48504.m3u8
